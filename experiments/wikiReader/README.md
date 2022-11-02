@@ -24,7 +24,7 @@ And this contains most of the feature we can make use of.
 
 the other features
 
-## current problems
+## current problems and thoughts
 
 how to effectively parse the page and traverse through the wiki
 
@@ -36,6 +36,10 @@ we have these options:
 
 
 there are some pages (not too much) does not meet with this format.
+
+consider using BeautifulSoup for data cleaning?
+
+Check this out https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
 
 ## how to run the experiment
 ```bash
