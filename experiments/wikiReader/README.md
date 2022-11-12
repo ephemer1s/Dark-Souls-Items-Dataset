@@ -37,7 +37,6 @@ we have these options:
 
 there are some pages (not too much) does not meet with this format.
 
-consider using BeautifulSoup for data cleaning?
 
 Check this out https://stackoverflow.com/questions/9662346/python-code-to-remove-html-tags-from-a-string
 
@@ -47,3 +46,4 @@ python main.py
 ```
 
 
+A more general crawler is now in progress, using Requests and BeautifulSoup libraries, in order to extract other context such as character's info.

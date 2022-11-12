@@ -60,15 +60,20 @@ def createTitle(fname, title=None):
     
 if __name__ == "__main__":
     # Create title for tsv file
-    tsv = 'data/experiment.tsv'
+    tsv = 'data/darksoul3_weapon.tsv'
+    file_path = "./raw_ds3/"
     createTitle(tsv)
         
     # traverse all files and save samples
-    for fname in os.listdir('./raw/'):
+    file_count = 0;
+    for fname in os.listdir(file_path):
         print(fname)
-        if os.path.isfile(os.path.join('./raw/', fname)):
-            html = readHtml(os.path.join('./raw/', fname))
+        if os.path.isfile(os.path.join(file_path, fname)):
+            file_count += 1
+            html = readHtml(os.path.join(file_path, fname))
             sample = extractText(html)
             saveText(tsv, sample)
         else:
             print(fname, 'is not a file')
+
+    print(file_count)
