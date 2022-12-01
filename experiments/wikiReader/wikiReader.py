@@ -60,8 +60,8 @@ def createTitle(fname, title=None):
     
 if __name__ == "__main__":
     # Create title for tsv file
-    tsv = 'data/darksoul3_weapon.tsv'
-    file_path = "./raw_ds3/"
+    tsv = 'data/darksoul2_weapon.tsv'
+    file_path = "./raw_ds2/"
     createTitle(tsv)
         
     # traverse all files and save samples
