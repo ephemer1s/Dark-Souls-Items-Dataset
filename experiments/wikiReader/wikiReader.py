@@ -9,6 +9,7 @@ import os
 import re
 import csv
 import requests
+import sys
 
 
 def readHtml(fname):
@@ -59,9 +60,14 @@ def createTitle(fname, title=None):
         writer.writerow(title)
     
 if __name__ == "__main__":
+
+    if len(sys.argv) != 3:
+        print("Use:\n\tpython3 wikiReader.py <input directory path> <output file path>")
+        sys.exit()
+
     # Create title for tsv file
-    tsv = 'data/darksoul2_weapon.tsv'
-    file_path = "./raw_ds2/"
+    tsv = sys.argv[2]
+    file_path = sys.argv[1]
     createTitle(tsv)
         
     # traverse all files and save samples
