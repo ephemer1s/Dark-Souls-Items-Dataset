@@ -54,5 +54,5 @@ python3 HTMLReader.py <input directory> <output file path>
 
 For combining .tsv files into one
 ```bash
-python3 HTMLReader.py -c <input directory> <output file path>
+python3 HTMLReader.py -c <input directory> <output file path> -c
 ```
