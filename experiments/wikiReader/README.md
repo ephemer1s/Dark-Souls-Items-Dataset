@@ -46,4 +46,6 @@ python main.py
 ```
 
 
-A more general crawler is now in progress, using Requests and BeautifulSoup libraries, in order to extract other context such as character's info.
+## how to run HTMLReader
+`python3 HTMLReader.py <input directory> <output file path>`
+
