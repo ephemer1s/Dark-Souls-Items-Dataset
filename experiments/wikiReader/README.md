@@ -47,11 +47,12 @@ python main.py
 
 
 ## how to run HTMLReader
+For generating .tsv file
 ```bash
 python3 HTMLReader.py <input directory> <output file path>
 ```
 
-## how to run Combiner
+For combining .tsv files into one
 ```bash
-python3 Combiner.py <input directory> <output file path>
+python3 HTMLReader.py -c <input directory> <output file path>
 ```

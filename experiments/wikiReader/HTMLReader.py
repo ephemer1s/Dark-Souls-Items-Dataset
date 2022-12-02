@@ -2,12 +2,26 @@
 Construct raw data from HTML files
 '''
 
-HELP_MSG = "Use:\n\tpython3 HTMLReader.py <input directory path> <output file path>"
+HELP_MSG = "Use:\n\tpython3 HTMLReader.py <input directory path> <output file path> [-c]\n-c : combine mode, will combine files in input dir into one"
 
 from bs4 import BeautifulSoup
+import pandas as pd
 import sys
 import os
 import csv
+
+def combine(in_path, out_path):
+    first_file = True
+
+    for fname in os.listdir(in_path):
+        
+        context = pd.read_csv(os.path.join(in_path, fname), sep='\t')
+
+        if first_file:
+            context.to_csv(out_path, sep='\t', index = False)
+            first_file = False
+        else:
+            context.to_csv(out_path, sep='\t', header=False, index = False, mode='a')
 
 
 def createTSV(fname, samples, title=None):
@@ -27,6 +41,7 @@ def createTSV(fname, samples, title=None):
             # Save text to tsv file
             writer.writerow(sample)
 
+
 def readHTML(fname):
     '''
     Read html content from fname
@@ -34,6 +49,7 @@ def readHTML(fname):
     with open(fname, 'r', encoding='utf-8') as f:
         html = f.read()
     return html
+
 
 def extractData(context):
     '''
@@ -91,10 +107,20 @@ def extractData(context):
 
 if __name__ == "__main__":
 
-    if len(sys.argv) != 3:
+    if len(sys.argv) not in (3, 4):
         print(HELP_MSG)
         sys.exit()
 
+    # combine mode
+    if len(sys.argv) == 4:
+        if sys.argv[3] == "-c":
+            combine(sys.argv[1], sys.argv[2])
+        else:
+            print(HELP_MSG)
+        
+        sys.exit()
+
+    # generate mode
     in_dir = sys.argv[1]
     out_file = sys.argv[2]
 
