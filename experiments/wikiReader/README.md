@@ -47,5 +47,11 @@ python main.py
 
 
 ## how to run HTMLReader
-`python3 HTMLReader.py <input directory> <output file path>`
+```bash
+python3 HTMLReader.py <input directory> <output file path>
+```
 
+## how to run Combiner
+```bash
+python3 Combiner.py <input directory> <output file path>
+```
