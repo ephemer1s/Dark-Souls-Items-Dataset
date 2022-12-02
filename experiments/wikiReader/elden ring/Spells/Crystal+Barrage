@@ -1,0 +1,1356 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Elden Ring Crystal Barrage Sorcery Guide: Where to find Crystal Barrage, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://eldenring.wiki.fextralife.com/Crystal+Barrage" />
+		<title>Crystal Barrage | Elden Ring Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Elden-Ring/elden-ring-wiki-guide-favicon-32.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=ZBa1">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004d">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=00009ab">
+		<link rel="stylesheet" href="/xcss/styles.css?js=00008a">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Elden Ring Wiki" />
+			<meta property="og:title" content="Crystal Barrage | Elden Ring Wiki" />
+			<meta property="og:description" content="Elden Ring Crystal Barrage Sorcery Guide: Where to find Crystal Barrage, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+			<meta property="og:url" content="https://eldenring.wiki.fextralife.com/Crystal+Barrage" />
+			<meta property="og:image" content="https://eldenring.wiki.fextralife.com/file/Elden-Ring/crystal_barrage_sorcery_elden_ring_wiki_guide_200px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+
+
+
+
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-ext-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '9e216d5b-fa7a-4724-bcf5-2a8fd15cce86';
+			pagex['wikiName'] = 'Elden+Ring'; 
+			pagex['wikiTitle'] = 'Elden Ring';
+			pagex['pageId'] = 'f83c7170-e7b7-4b43-877d-c1b913cef6ed';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1657887081000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6Lcy06YUAAAAAKrAbBYGO0Nctqx66DwE0h4Ao8p1';
+			var cx = '013588101548136424510:ns7edn1bgi4';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://eldenring.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Elden+Ring+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Elden-Ring/elden-ring-wiki-logo.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Elden Ring Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Elden-Ring/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span>NEW<span class="hidden-lg"> &amp; Wiki Home</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite miniring"></span>NEW &amp; Wiki Home</a></li> 
+   <li> <a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+     <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> </li> 
+     <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> </li> 
+     <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a> </li> 
+     <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a> </li> 
+     <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+    </ul> </li> 
+   <li> <a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url"> <span class="navsprite miniring"></span>Elden Ring Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+     <li> <a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Keepsakes" itemprop="url"> <span class="navsprite miniring"></span>Keepsakes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+     <li> <a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a> </li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a> </li> 
+     <li> <a href="/Incantations" itemprop="url"> <span class="navsprite miniring"></span>Incantations</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Ashes+of+War" itemprop="url"> <span class="navsprite miniring"></span>Ashes of War</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a> </li> 
+   <li> <a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Sites+of+Grace" itemprop="url"> <span class=""></span>Sites of Grace</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"> <span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a> </li> 
+   <li> <a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a> </li> 
+   <li> <a href="/Crafting" itemprop="url"> <span class="navsprite miniring"></span>Crafting</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite home"></span>NEW &amp; Wiki Home</a>
+<ul class="navSubMenu">
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a><hr>
+</li><li itemprop="name">
+
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a><hr>
+</li><li itemprop="name">
+
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+
+<hr></li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a>
+<hr></li><li itemprop="name">
+
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a><hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+
+<a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url">
+<span class="navsprite miniring"></span>Elden Ring Forums</a><hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+
+<hr></li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a>
+<hr>
+</li>
+
+
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name" class="">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a>
+
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url">Skills</a>
+<hr></li><li itemprop="name">
+
+<a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a>
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Keepsakes" itemprop="url">
+<span class="navsprite miniring"></span>Keepsakes</a><hr>
+</li>
+
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+
+<hr></li><li itemprop="name">
+<a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a>
+
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+<hr></li><li itemprop="name">
+
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr></li><li itemprop="name">
+
+<a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a>
+</li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+<ul class="navSubMenu">
+
+
+
+
+
+<li itemprop="name">
+<a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a><hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a>
+<hr></li><li itemprop="name">
+
+<a href="/Incantations" itemprop="url">
+<span class="navsprite miniring"></span>Incantations</a>
+<hr></li>
+</ul>
+
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Ashes+of+War" itemprop="url">
+<span class="navsprite miniring"></span>Ashes of War</a><hr>
+</li>
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+<hr></li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a><hr>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url">Maps</a>
+<hr>
+<hr></li><li itemprop="name">
+
+<a href="/Sites+of+Grace" itemprop="url">
+<span class=""></span>Sites of Grace</a>
+</li>
+
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url">
+<span class="navsprite miniring"></span>Game Progress Route</a><hr>
+</li><li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a><hr>
+</li>
+<li itemprop="name">
+
+<a href="/Crafting" itemprop="url">
+<span class="navsprite miniring"></span>Crafting</a><hr>
+</li>
+
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/" itemprop="url"><span class="navsprite g"></span>Tools &amp; Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+
+</ul>
+</li>
+
+
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="tQPfngWUrXk" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="tQPfngWUrXk" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/tQPfngWUrXk/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="9e216d5b-fa7a-4724-bcf5-2a8fd15cce86" data-pid="f83c7170-e7b7-4b43-877d-c1b913cef6ed" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://eldenring.wiki.fextralife.com/Crystal+Barrage">Crystal Barrage | Elden Ring Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 71</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 9 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 9</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://eldenring.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Magic+Spells">Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Sorceries">Sorceries</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th style="text-align: center;" colspan="2"> <h2>Crystal Barrage</h2> </th> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="2"><img title="Crystal Barrage" src="/file/Elden-Ring/crystal_barrage_sorcery_elden_ring_wiki_guide_200px.png" alt="crystal barrage sorcery elden ring wiki guide 200px" width="200" height="200"></td> 
+    </tr> 
+    <tr> 
+     <td>Spell Type</td> 
+     <td><a class="wiki_link" title="Elden Ring Glintstone Sorceries" href="/Glintstone+Sorceries" target="">Glintstone Sorceries</a></td> 
+    </tr> 
+    <tr> 
+     <td>FP Cost&nbsp;14 (2)</td> 
+     <td>Slots Used&nbsp;1</td> 
+    </tr> 
+    <tr> 
+     <td colspan="2"><img title="item_effect_icon_elden_ring_wiki_guide_18px" src="/file/Elden-Ring/item_effects_icon_elden_ring_wiki_guide_55px_18px.png" alt="item effects icon elden ring wiki guide 55px 18px" width="18" height="18">Effect 
+      <div class="lineleft">
+        Fires a volley of glintstone crystal shards 
+      </div> <br><img style="float: left;" title="Attributes Requirement" src="/file/Elden-Ring/attributes-required-elden-ring-wiki-guide-18.png" alt="attributes required elden ring wiki guide 18" width="18" height="18">Requires 
+      <div class="lineleft"> 
+       <a class="wiki_link" title="Elden Ring Intelligence" href="/Intelligence" target="">Intelligence</a> 23 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Crystal Barrage</strong> is a&nbsp;<a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorcery</a> in <a class="wiki_link" title="Elden Ring Wiki" href="/Elden+Ring+Wiki">Elden Ring</a>. <strong>Crystal Barrage spell</strong> fires a volley of glintstone crystal shards.&nbsp;</p> 
+<p>&nbsp;</p> 
+<div class="lineleft"> 
+ <p><em>One of the glintstone sorceries of the Academy of Raya Lucaria.</em></p> 
+ <p><em>Fires a volley of glintstone crystal shards.<br>Charging increases potency.</em></p> 
+ <p><em>A sorcery of the Crystal Cadre, a group of sorcerers who pursue the wisdom of stone - the secrets locked in the faint cogitation of the Crystalians.</em></p> 
+</div> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Where to find Crystal Barrage</h3> 
+<p>Where to find <strong>Crystal Barrage</strong>:</p> 
+<ul> 
+ <li>Can be purchased from&nbsp;<a class="wiki_link" title="Elden Ring Sorceress Sellen" href="/Sorceress+Sellen" target="">Sorceress Sellen</a>&nbsp;for&nbsp;<img style="width: 18px; height: 18px;" title="Runes" src="/file/Elden-Ring/runes-currency-elden-ring-wiki-guide-18.png" alt="runes currency elden ring wiki guide 18" width="18" height="18"> 1,500&nbsp;<a class="wiki_link" title="Elden Ring Runes" href="/Runes" target="">Runes</a>. Sellen is located in&nbsp;<a class="wiki_link" title="Elden Ring Limgrave" href="/Limgrave" target="">Limgrave</a>:&nbsp;<a class="wiki_link" title="Elden Ring Waypoint Ruins" href="/Waypoint+Ruins" target="">Waypoint Ruins</a>.&nbsp;<a class="wiki_link" title="Elden Ring Interactive Map?id=707&amp;lat=-193.125&amp;lng=112.885645&amp;zoom=8" href="/Interactive+Map?id=707&amp;lat=-193.125&amp;lng=112.885645&amp;zoom=8">Map Link</a>.</li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Crystal Barrage Guide</h3> 
+<ul> 
+ <li><a class="wiki_link" title="Elden Ring Glintstone Sorceries" href="/Glintstone+Sorceries">Glintstone Sorcery</a></li> 
+ <li>Stamina Cost:&nbsp;26</li> 
+ <li>Deals magic damage</li> 
+</ul> 
+<div style="max-width: 560px; max-height: 316px;"> 
+ <div class="embed-responsive embed-responsive-16by9"> 
+  <div id="https://www.youtube.com/embed/gqSzUthyrsU" class="embed-responsive-item youtube-item" style="display: flex; justify-content: center;"> 
+   <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+    <div class="sk-cube sk-cube1">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube2">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube3">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube4">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube5">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube6">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube7">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube8">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube9">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <th style="text-align: center;"><a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries">Elden Ring Sorceries</a></th> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Adula's+Moonblade">Adula's Moonblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ambush+Shard">Ambush Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Punishment">Briars of Punishment</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Sin">Briars of Sin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Cannon+of+Haima">Cannon of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Greatsword">Carian Greatsword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Phalanx">Carian Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Piercer">Carian Piercer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Retaliation">Carian Retaliation</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Slicer">Carian Slicer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Collapsing+Stars">Collapsing Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet">Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet+Azur">Comet Azur</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Burst">Crystal Burst</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Release">Crystal Release</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Torrent">Crystal Torrent</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Eternal+Darkness">Eternal Darkness</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Explosive+Ghostflame">Explosive Ghostflame</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Fia's+Mist">Fia's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Founding+Rain+of+Stars">Founding Rain of Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Freezing+Mist">Freezing Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Frozen+Armament">Frozen Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gavel+of+Haima">Gavel of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gelmir's+Fury">Gelmir's Fury</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintblade+Phalanx">Glintblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Arc">Glintstone Arc</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Cometshard">Glintstone Cometshard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Icecrag">Glintstone Icecrag</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Pebble">Glintstone Pebble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Stars">Glintstone Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gravity+Well">Gravity Well</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Glintstone+Shard">Great Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Oracular+Bubble">Great Oracular Bubble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Greatblade+Phalanx">Greatblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Greatbow">Loretta's Greatbow</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Mastery">Loretta's Mastery</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Lucidity">Lucidity</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Downpour">Magic Downpour</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Glintblade">Magic Glintblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magma+Shot">Magma Shot</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite">Meteorite</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite+of+Astel">Meteorite of Astel</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Comet">Night Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Maiden's+Mist">Night Maiden's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Shard">Night Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Oracle+Bubbles">Oracle Bubbles</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rancorcall">Rancorcall</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ranni's+Dark+Moon">Ranni's Dark Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rennala's+Full+Moon">Rennala's Full Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Blaster">Rock Blaster</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Sling">Rock Sling</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Roiling+Magma">Roiling Magma</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rykard's+Rancor">Rykard's Rancor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Armament">Scholar's Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Shield">Scholar's Shield</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shard+Spiral">Shard Spiral</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shatter+Earth">Shatter Earth</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shattering+Crystal">Shattering Crystal</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Star+Shower">Star Shower</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Starlight">Starlight</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Stars+of+Ruin">Stars of Ruin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Swift+Glintstone+Shard">Swift Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Terra+Magica">Terra Magica</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thop's+Barrier">Thop's Barrier</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thops's+Barrier+(Spell)">Thops's Barrier (Spell)</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Tibia's+Summons">Tibia's Summons</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Blade">Unseen Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Form">Unseen Form</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)">Zamor Ice Storm (Spell)</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
+<p>&nbsp;</p>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Register to EDIT the Wiki!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;display:none;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16782669" class="cmnt-root" data="0" data-d="1664856392000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">04 Oct 2022 00:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16782669" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">no full auto in buildings!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16782669" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16782669" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16782669"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16782669" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16782669"></ul></li></ul></li>
+			
+				<li id="16780195" class="cmnt-root" data="0" data-d="1664331736000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">27 Sep 2022 22:22</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16780195" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">We need legislation on these deadly fully automatic assault spells.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16780195" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16780195" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16780195"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16780195" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16780195"></ul></li></ul></li>
+			
+				<li id="16754753" class="cmnt-root" data="22" data-d="1660269307000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">11 Aug 2022 21:55</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16754753" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">EMERALDO SPLASH</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16754753" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16754753" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>23</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16754753"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16754753" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16754753"></ul></li></ul></li>
+			
+				<li id="16748833" class="cmnt-root" data="2" data-d="1659416889000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">02 Aug 2022 01:08</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16748833" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Get your raya lucaria gang up in this hoe, pair this with crystal burst (as the shotgun) and just pull up in unsuspecting people</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16748833" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16748833" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16748833"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16748833" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16748833"></ul></li></ul></li>
+			
+				<li id="16746595" class="cmnt-root" data="28" data-d="1659149472000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">29 Jul 2022 22:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16746595" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I saw a PvE sorcery tier list video by Criight (Sorry for misspelling) where he ranked this spell among the best in the game. His other choices for S through B tiers made total sense to me and were all viable, practical spells that could carry you through the game like Swift Glintstone Shard or Rock Sling. <br/><br/>So when my level 80ish mage with 40ish INT tried this spell expecting to melt an unsuspecting sleeping Troll, I was extremely disappointed to see that it was not only a huge FP drain, but it was like I was shooting it with BB pellets. Terrible damage for the FP consumption. I thought either I was being trolled or I must be missing something. <br/><br/>I was missing something. About 30 to 40 more levels in INT. It has a ridiculously low requirement to use but it honestly isn&apos;t even worth using before late game for most. I tried it again earlier today with 80 INT and a Carian Regal Scepter +10 and it&apos;s a damn Howitzer! It completely exceeded my expectations and the FP cost is not bad at all considering it bursts down big boys more efficiently than Moon sorceries- even with the Regal Staff buff. <br/><br/>So if you&apos;re like me and you&apos;re wondering why your Crystal Barrage isn&apos;t potent like all the other cool mages, it&apos;s because you are still growing. You&apos;ll be able to magically pimp slap gods into submission soon enough lol</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16746595" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16746595" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>30</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16746595"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16746595" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16746595"></ul></li></ul></li>
+			
+				<li id="16723782" class="cmnt-root" data="3" data-d="1656292588000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">26 Jun 2022 21:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16723782" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This works great with azurs staff because only the initial cost of the spell is increased</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16723782" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16723782" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16723782"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16723782" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16723782"></ul></li></ul></li>
+			
+				<li id="16713473" class="cmnt-root" data="8" data-d="1655065211000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/59803_1647755384.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=59803" rel="nofollow"  target="_blank" style="color: #;">Kaze</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">12 Jun 2022 16:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16713473" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Kinda funny that the int requirements are so low considering you need decent investment to make use of it.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16713473" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16713473" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16713473"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16713473" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16713473"></ul></li></ul></li>
+			
+				<li id="16696158" class="cmnt-root" data="2" data-d="1653532646000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">25 May 2022 22:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16696158" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Crystal Barrage&apos;s essentially a stationary version of Spiral Shard; It does a lot of damage if you&apos;re able to cast the full duration of it especially if you&apos;re standing on Terra Magica. Like Spiral Shard, it absolutely melts any enemies that are big and chonky. Also, unlike Crystal Torrent, you can turn with Crystal Barrage when an enemy is moving around, meaning you don&apos;t have to worry about not aiming the right way. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16696158" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16696158" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16696158"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16696158" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16696158"></ul></li></ul></li>
+			
+				<li id="16688922" class="cmnt-root" data="3" data-d="1652926679000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=122046" rel="nofollow"  target="_blank" style="color: #;">Lenox</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 May 2022 22:17</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16688922" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This stance-breaks Iron Maidens in Mt. Gelmir quite nicely.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16688922" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16688922" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16688922"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16688922" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16688922"></ul></li></ul></li>
+			
+				<li id="16662136" class="cmnt-root" data="18" data-d="1651352663000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">30 Apr 2022 17:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16662136" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Ah yes, my favorite spell, the fookin&apos; Glock 18.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16662136" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16662136" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>19</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16662136"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16662136" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16662136"></ul></li></ul></li>
+			
+				<li id="16653961" class="cmnt-root" data="6" data-d="1651114201000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">27 Apr 2022 22:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16653961" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Budget Azur&apos;s Comet for Low INT mages</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16653961" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16653961" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16653961"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16653961" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16653961"></ul></li></ul></li>
+			
+				<li id="16591728" class="cmnt-root" data="8" data-d="1649100513000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">04 Apr 2022 15:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16591728" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">That is the closest we can get to an actual automatic rifle</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16591728" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16591728" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16591728"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16591728" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16591728"></ul></li></ul></li>
+			
+				<li id="16571399" class="cmnt-root" data="48" data-d="1648293909000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">26 Mar 2022 07:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16571399" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Seems everyone can just deflect the Emerald Splash</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16571399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16571399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>48</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16571399"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16571399" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16571399"></ul></li></ul></li>
+			
+				<li id="16551645" class="cmnt-root" data="136" data-d="1647873565000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">21 Mar 2022 10:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16551645" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">For those of you who are lower leveled players wondering why higher level players are calling this a good spell...  The problem at low levels is that with poor sorcery scaling and low to moderate int, a spell that does multiple hits for low damage is going to be heavily negated by an enemy&apos;s magic resistance.  So you&apos;re going to see considerably lower performance from any multi-hit sorceries at this level compared to spells that do flat single-hit damage like the Astrologer starting spells.<br/><br/>The other key difference is that at higher levels FP efficiency becomes less important compared to DPS at higher levels, where you will likely have 10 seconds of free casting, a fatter FP bar, and lots of upgraded Cerulean Flasks to replenish a ton of FP.  If you&apos;re hitting a boss with full FP and flasks, you can afford to dump your FP into more aggressive spells.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16551645" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16551645" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>138</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16551645"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16551645" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16551645"></ul></li></ul></li>
+			
+				<li id="16550109" class="cmnt-root" data="2" data-d="1647870845000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">21 Mar 2022 09:54</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16550109" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">amazing now, never used before ,thought to try and it wrecks early game in NG+</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16550109" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16550109" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16550109"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16550109" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16550109"></ul></li></ul></li>
+			
+				<li id="16546610" class="cmnt-root" data="0" data-d="1647862508000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">21 Mar 2022 07:35</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16546610" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">What&apos;s the range of this spell?<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16546610" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16546610" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16546610"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16546610" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16546610"></ul></li></ul></li>
+			
+				<li id="16544988" class="cmnt-root" data="1" data-d="1647836480000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">21 Mar 2022 00:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16544988" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">How long can you charge it? I read somewhere that after the buff you can basically deplete your FP with it, but mine is sustained for about 3 seconds only</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16544988" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16544988" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16544988"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16544988" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16544988"></ul></li></ul></li>
+			
+				<li id="16542709" class="cmnt-root" data="0" data-d="1647830948000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">20 Mar 2022 22:49</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16542709" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Pretty strong damage wise now if the whole thing goes off. After testing it against a bunch of different enemies though its worth noting that things that can block/dodge it will and that really does cut down the damage in practice against them.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16542709" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16542709" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16542709"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16542709" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16542709"></ul></li></ul></li>
+			
+				<li id="16540408" class="cmnt-root" data="9" data-d="1647691189000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">19 Mar 2022 07:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16540408" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">If you can land all the hits, it now(post 1.03) puts even Rennala’s Full Moon to shame, even with Carian Royal Scepter. This did over 4500 damage for a fully charged shot to a golem for me vs ~2400 with Full Moon.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16540408" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16540408" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16540408"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16540408" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16540408"></ul></li></ul></li>
+			
+				<li id="16531966" class="cmnt-root" data="4" data-d="1647600680000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 Mar 2022 06:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16531966" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">its pretty good now since the recent update<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16531966" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16531966" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16531966"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16531966" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16531966"></ul></li></ul></li>
+			
+				<li id="16531428" class="cmnt-root" data="2" data-d="1647599504000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 Mar 2022 06:31</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16531428" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Anyone got an idea of how big the buff was from 1.03? Wondering if this is usable now.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16531428" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16531428" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16531428"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16531428" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16531428"></ul></li></ul></li>
+			
+				<li id="16531083" class="cmnt-root" data="-2" data-d="1647598902000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 Mar 2022 06:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16531083" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">After the latest patch, this has moved from one of the worst spells to one of the best spells in the game</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16531083" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16531083" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16531083"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16531083" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16531083"></ul></li></ul></li>
+			
+				<li id="16530448" class="cmnt-root" data="1" data-d="1647597162000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 Mar 2022 05:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16530448" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">After the 1.03 patch this spell literally is the minigun of doom for enemies lol</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16530448" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16530448" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16530448"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16530448" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16530448"></ul></li></ul></li>
+			
+				<li id="16528917" class="cmnt-root" data="3" data-d="1647595012000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">18 Mar 2022 05:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16528917" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">After nerf this is my hardest hitting spell at full cast, doing around 3-4 times the damage of rock sling</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16528917" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16528917" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16528917"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16528917" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16528917"></ul></li></ul></li>
+			
+				<li id="16520864" class="cmnt-root" data="0" data-d="1647427490000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">16 Mar 2022 06:44</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16520864" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Only use i&apos;ve found for this PVE is that if you aim it at somethings head, it does tons of poise damage. PVP you can get some clips if they&apos;re rolling since you can actually free aim it in front of them but since you&apos;re locked in place they could poise through and trade, you don&apos;t want that as a sorcerer lol. If the mana cost was half or less maybe this would be viable but right now it&apos;s a really bad sorcery.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16520864" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16520864" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16520864"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16520864" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16520864"></ul></li></ul></li>
+			
+				<li id="16519343" class="cmnt-root" data="4" data-d="1647425264000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">16 Mar 2022 06:07</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16519343" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Shitty sorcery is a common gimmick of FromSoftware. The first spells of starter class are enough. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16519343" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16519343" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16519343"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16519343" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16519343"></ul></li></ul></li>
+			
+				<li id="16512937" class="cmnt-root" data="1" data-d="1647341366000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">15 Mar 2022 06:49</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16512937" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">ok so at 70 int  and 54 mind. this spell is useable <br/><br/>its kinda like a faster casting comet azur. but it doesn&apos;t shoot until you run out of mana. it can be cast 4 times <br/><br/>i did 3946 damage against a boss using only crystal barrage</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16512937" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16512937" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16512937"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16512937" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16512937"></ul></li></ul></li>
+			
+				<li id="16508311" class="cmnt-root" data="1" data-d="1647256187000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">14 Mar 2022 07:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16508311" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think this deals more poise damage then basic glint pebble and due to that can knock enemies down faster while also dealing less damage. At least to me that is, not 100% sure if this is the case or I am seeing things wrong.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16508311" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16508311" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16508311"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16508311" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16508311"></ul></li></ul></li>
+			
+				<li id="16499286" class="cmnt-root" data="13" data-d="1647142045000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=89565" rel="nofollow"  target="_blank" style="color: #;">Assriel</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">12 Mar 2022 22:27</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16499286" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">They didn&apos;t even test this lmao. 168 damage on a pebble vs 85 damage on a barrage for twice the FP cost and being locked into a lengthy animation. Sad because it&apos;d be cool if it were more like a risky shotgun.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16499286" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16499286" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16499286"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16499286" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16499286"></ul></li></ul></li>
+			
+				<li id="16484446" class="cmnt-root" data="7" data-d="1646902373000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">10 Mar 2022 03:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16484446" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Should&apos;ve read the wiki before purchasing it. It&apos;s absolute trash. For a requirement of 23 INT I expected a lot more</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16484446" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16484446" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16484446"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16484446" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16484446"></ul></li></ul></li>
+			
+				<li id="16480994" class="cmnt-root" data="7" data-d="1646801598000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">08 Mar 2022 23:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16480994" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">i think this is supposed to be used to stun enemies for a crit</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16480994" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16480994" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16480994"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16480994" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16480994"></ul></li></ul></li>
+			
+				<li id="16446166" class="cmnt-root" data="-1" data-d="1646375925000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">04 Mar 2022 01:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16446166" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">**** damage BUT if you hold down the button and shoot two long barrages, it has a very high chance of stunning the enemy for a crit</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16446166" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16446166" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16446166"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16446166" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16446166"></ul></li></ul></li>
+			
+				<li id="16434598" class="cmnt-root" data="-2" data-d="1646216176000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">02 Mar 2022 05:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16434598" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">&apos;Magic is super strong in Eldin Ring!&quot; they said. &quot;Its not like it was in Dark Souls 3, its super viable now!&quot; they said.<br/><br/>And I bet you they will STILL nerf magic.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16434598" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16434598" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16434598"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16434598" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16434598"></ul></li></ul></li>
+			
+				<li id="16430529" class="cmnt-root" data="8" data-d="1646129187000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">01 Mar 2022 05:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16430529" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Very low damage, and it&apos;s pretty slow. Is it supposed to be used against certain enemies? I don&apos;t know, but so far it&apos;s completely useless. Hell, Crystal Burst is better at lower INT requirement, and for the same INT you can get Ambush Shard which annihilates enemies.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16430529" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16430529" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16430529"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16430529" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16430529"></ul></li></ul></li>
+			
+				<li id="16428816" class="cmnt-root" data="5" data-d="1646115246000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">01 Mar 2022 01:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16428816" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">completely trash , don&apos;t buy this </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16428816" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16428816" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16428816"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16428816" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16428816"></ul></li></ul></li>
+			
+				<li id="16427226" class="cmnt-root" data="2" data-d="1646107419000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 23:03</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16427226" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Most useless spell ever. Terrible tiny chip damage, poor mp to damage ratio, point blank range.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16427226" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16427226" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16427226"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16427226" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16427226"></ul></li></ul></li>
+			
+				<li id="16426457" class="cmnt-root" data="1" data-d="1646097352000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 20:15</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16426457" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I love using it for fun, but man does it suck. The mana-to-damage ratio is not acceptable. Still, crystals go BRRRRR!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16426457" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16426457" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16426457"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16426457" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16426457"></ul></li></ul></li>
+			
+				<li id="16425328" class="cmnt-root" data="-28" data-d="1646050630000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 07:17</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16425328" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell is so bad it made me stop playing. It seems fromsoft doesn&apos;t understand basic game design.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16425328" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16425328" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>35</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16425328"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16425328" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16425328"></ul></li></ul></li>
+			
+				<li id="16425230" class="cmnt-root" data="37" data-d="1646050433000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 07:13</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16425230" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I bought 5 spells so far and everything is garbage. Still using first 2 for Astrologer. They should repair this. It is demotivating. You play for hours to obtain new spells and thnan this...</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16425230" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16425230" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>44</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16425230"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16425230" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16425230"></ul></li></ul></li>
+			
+				<li id="16425026" class="cmnt-root" data="2" data-d="1646049566000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 06:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16425026" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Actual garbage, don&apos;t bother buying.<br/>Does something like 40 damage at the same level of magic that your starting spells do almost 200.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16425026" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16425026" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16425026"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16425026" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16425026"></ul></li></ul></li>
+			
+				<li id="16424974" class="cmnt-root" data="1" data-d="1646049454000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">28 Feb 2022 06:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16424974" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">whats the point of this spell. what a waste of 3000 runes</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16424974" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16424974" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16424974"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16424974" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16424974"></ul></li></ul></li>
+			
+				<li id="16421268" class="cmnt-root" data="11" data-d="1645968315000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">27 Feb 2022 08:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16421268" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Garbage. Should&apos;ve checked here first. Hopefully this will get patched or something, this is useless.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16421268" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16421268" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>15</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16421268"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16421268" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16421268"></ul></li></ul></li>
+			
+				<li id="16421146" class="cmnt-root" data="30" data-d="1645967733000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">27 Feb 2022 08:15</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16421146" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">wow, just grinded for about an hour to level my intellect high enough so that i could use this spell. this spell deals no damage!!! it&apos;s terrible. how does something like this even make it to the live game???</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16421146" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16421146" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>34</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16421146"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16421146" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16421146"></ul></li></ul></li>
+			
+				<li id="16417935" class="cmnt-root" data="9" data-d="1645860238000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">26 Feb 2022 02:23</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16417935" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">this spell is actually the worst. I actively grinded for 3 hours to use this spell that eats you entire mana bar for next to NO damage. Assuming you have either perfect RNG or an enemy that isnt moving at all, the spell does almost 4 times less damage than the base starting spells the game gives you at double the mana cost per cast. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16417935" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16417935" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>12</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16417935"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16417935" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16417935"></ul></li></ul></li>
+			
+				<li id="16417920" class="cmnt-root" data="7" data-d="1645860032000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">26 Feb 2022 02:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16417920" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Just blew a ton of runes on this spell but pebble does way more damage. What the hey?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16417920" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16417920" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16417920"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16417920" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16417920"></ul></li></ul></li>
+			
+				<li id="16417124" class="cmnt-root" data="21" data-d="1645853045000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">26 Feb 2022 00:24</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16417124" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell is trash</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16417124" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16417124" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>24</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16417124"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16417124" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16417124"></ul></li></ul></li>
+			
+				<li id="16416075" class="cmnt-root" data="28" data-d="1645796727000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t578315/Crystal-Barrage" rel="nofollow" target="_blank">25 Feb 2022 08:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16416075" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Very low damage. Has some light CC and AoE potential. Kinda meh.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16416075" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16416075" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>32</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16416075"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16416075" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16416075"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Elden+Ring+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+
+
+var params = {};
+var ximapa = document.getElementById('ximap0');
+var ximapb = document.getElementById('ximap1');
+var ximapc = document.getElementById('ximap2');
+if (ximapa != null || ximapb != null || ximapc != null) {
+    window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
+        params[key] = value;
+    });
+}
+
+if (ximapa != null) {
+    if (params != null && params.id != null) {
+        ximapa.src = ximapa.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapb != null) {
+    if (params != null && params.id != null) {
+        ximapb.src = ximapb.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapc != null) {
+    if (params != null && params.id != null) {
+        ximapc.src = ximapc.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (params != null && params.code != null && params.code == 'mapB') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+        if (mapA != null && mapB != null) {
+                $('#mapA').hide();
+                $('#mapB').show();
+        }
+}
+if (params != null && params.code != null && params.code == 'mapC') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+	var mapC = $('#mapC');
+        if (mapA != null && mapB != null && mapC != null) {
+                $('#mapA').hide();
+                $('#mapC').show();
+        }
+}
+
+
+
+});
+
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7737e16c8b1353f5","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>

@@ -1,0 +1,1364 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Elden Ring Zamor Ice Storm (Spell) Sorcery Guide: Where to find Zamor Ice Storm (Spell), effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)" />
+		<title>Zamor Ice Storm (Spell) | Elden Ring Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Elden-Ring/elden-ring-wiki-guide-favicon-32.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=ZBa1">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004d">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=00009ab">
+		<link rel="stylesheet" href="/xcss/styles.css?js=00008a">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Elden Ring Wiki" />
+			<meta property="og:title" content="Zamor Ice Storm (Spell) | Elden Ring Wiki" />
+			<meta property="og:description" content="Elden Ring Zamor Ice Storm (Spell) Sorcery Guide: Where to find Zamor Ice Storm (Spell), effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+			<meta property="og:url" content="https://eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)" />
+			<meta property="og:image" content="https://eldenring.wiki.fextralife.com/file/Elden-Ring/zamor_ice_storm_sorcery_elden_ring_wiki_guide_200px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+
+
+
+
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-ext-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '9e216d5b-fa7a-4724-bcf5-2a8fd15cce86';
+			pagex['wikiName'] = 'Elden+Ring'; 
+			pagex['wikiTitle'] = 'Elden Ring';
+			pagex['pageId'] = '01cb6a33-2bf9-4615-b393-4f793c459805';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1666045476000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6Lcy06YUAAAAAKrAbBYGO0Nctqx66DwE0h4Ao8p1';
+			var cx = '013588101548136424510:ns7edn1bgi4';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://eldenring.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Elden+Ring+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Elden-Ring/elden-ring-wiki-logo.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Elden Ring Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Elden-Ring/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span>NEW<span class="hidden-lg"> &amp; Wiki Home</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite miniring"></span>NEW &amp; Wiki Home</a></li> 
+   <li> <a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+     <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> </li> 
+     <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> </li> 
+     <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a> </li> 
+     <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a> </li> 
+     <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+    </ul> </li> 
+   <li> <a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url"> <span class="navsprite miniring"></span>Elden Ring Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+     <li> <a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Keepsakes" itemprop="url"> <span class="navsprite miniring"></span>Keepsakes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+     <li> <a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a> </li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a> </li> 
+     <li> <a href="/Incantations" itemprop="url"> <span class="navsprite miniring"></span>Incantations</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Ashes+of+War" itemprop="url"> <span class="navsprite miniring"></span>Ashes of War</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a> </li> 
+   <li> <a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Sites+of+Grace" itemprop="url"> <span class=""></span>Sites of Grace</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"> <span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a> </li> 
+   <li> <a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a> </li> 
+   <li> <a href="/Crafting" itemprop="url"> <span class="navsprite miniring"></span>Crafting</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite home"></span>NEW &amp; Wiki Home</a>
+<ul class="navSubMenu">
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a><hr>
+</li><li itemprop="name">
+
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a><hr>
+</li><li itemprop="name">
+
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+
+<hr></li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a>
+<hr></li><li itemprop="name">
+
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a><hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+
+<a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url">
+<span class="navsprite miniring"></span>Elden Ring Forums</a><hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+
+<hr></li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a>
+<hr>
+</li>
+
+
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name" class="">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a>
+
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url">Skills</a>
+<hr></li><li itemprop="name">
+
+<a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a>
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Keepsakes" itemprop="url">
+<span class="navsprite miniring"></span>Keepsakes</a><hr>
+</li>
+
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+
+<hr></li><li itemprop="name">
+<a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a>
+
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+<hr></li><li itemprop="name">
+
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr></li><li itemprop="name">
+
+<a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a>
+</li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+<ul class="navSubMenu">
+
+
+
+
+
+<li itemprop="name">
+<a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a><hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a>
+<hr></li><li itemprop="name">
+
+<a href="/Incantations" itemprop="url">
+<span class="navsprite miniring"></span>Incantations</a>
+<hr></li>
+</ul>
+
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Ashes+of+War" itemprop="url">
+<span class="navsprite miniring"></span>Ashes of War</a><hr>
+</li>
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+<hr></li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a><hr>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url">Maps</a>
+<hr>
+<hr></li><li itemprop="name">
+
+<a href="/Sites+of+Grace" itemprop="url">
+<span class=""></span>Sites of Grace</a>
+</li>
+
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url">
+<span class="navsprite miniring"></span>Game Progress Route</a><hr>
+</li><li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a><hr>
+</li>
+<li itemprop="name">
+
+<a href="/Crafting" itemprop="url">
+<span class="navsprite miniring"></span>Crafting</a><hr>
+</li>
+
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/" itemprop="url"><span class="navsprite g"></span>Tools &amp; Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+
+</ul>
+</li>
+
+
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="tQPfngWUrXk" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="tQPfngWUrXk" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/tQPfngWUrXk/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="9e216d5b-fa7a-4724-bcf5-2a8fd15cce86" data-pid="01cb6a33-2bf9-4615-b393-4f793c459805" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)">Zamor Ice Storm (Spell) | Elden Ring Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 56</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 21 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 21</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://eldenring.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Magic+Spells">Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Sorceries">Sorceries</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th style="text-align: center;" colspan="2"> <h2>Zamor Ice Storm</h2> </th> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="2"><img title="Zamor Ice Storm" src="/file/Elden-Ring/zamor_ice_storm_sorcery_elden_ring_wiki_guide_200px.png" alt="zamor ice storm sorcery elden ring wiki guide 200px" width="200" height="200"></td> 
+    </tr> 
+    <tr> 
+     <td>Spell Type</td> 
+     <td><a class="wiki_link" title="Elden Ring Snow Witch Sorceries" href="/Snow+Witch+Sorceries" target="">Cold Sorceries</a></td> 
+    </tr> 
+    <tr> 
+     <td>FP Cost&nbsp;17</td> 
+     <td>Slots Used&nbsp;1</td> 
+    </tr> 
+    <tr> 
+     <td colspan="2"><img title="item_effect_icon_elden_ring_wiki_guide_18px" src="/file/Elden-Ring/item_effects_icon_elden_ring_wiki_guide_55px_18px.png" alt="item effects icon elden ring wiki guide 55px 18px" width="18" height="18">Effect 
+      <div class="lineleft">
+        Thrust staff into ground to create freezing tornado. 
+      </div> <br><img style="float: left;" title="Attributes Requirement" src="/file/Elden-Ring/attributes-required-elden-ring-wiki-guide-18.png" alt="attributes required elden ring wiki guide 18" width="18" height="18">Requires 
+      <div class="lineleft"> 
+       <a class="wiki_link" title="Elden Ring Intelligence" href="/Intelligence" target="">Intelligence</a>&nbsp;36 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Faith" href="/Faith" target="">Faith</a> 0 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Arcane" href="/Arcane" target="">Arcane</a>&nbsp;0 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Zamor Ice Storm</strong> is a&nbsp;<a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorcery</a> in <a class="wiki_link" title="Elden Ring Wiki" href="/Elden+Ring+Wiki">Elden Ring</a>. <strong>Zamor Ice Storm spell</strong>&nbsp;grants the ability to cast a freezing tornado by hitting the ground with the Staff. Updated to <a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a>.</p> 
+<p>This Spell should not be confused with the Skill&nbsp;named the same: <a class="wiki_link" title="Elden Ring Zamor Ice Storm" href="/Zamor+Ice+Storm" target="">Zamor Ice Storm</a> (Skill)</p> 
+<p>&nbsp;</p> 
+<div class="lineleft"> 
+ <p><em>Ice sorcery of the Town of Zamor.</em></p> 
+ <p><em>Strike the ground with the staff to create a freezing tornado.</em><br><em>Charging enhances potency.</em></p> 
+ <p><em>Cloaked in icy tempests, the knights of Zamor have challenged</em><br><em>the Fire Giants since ancient times.</em></p> 
+</div> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Zamor Ice Storm Location in Elden Ring</h3> 
+<p>The <strong>Zamor Ice Storm</strong> spell can be found in the following location:</p> 
+<ul> 
+ <li><a class="wiki_link" title="Elden Ring Zamor Ruins" href="/Zamor+Ruins" target="">Zamor Ruins</a>&nbsp;in the <a class="wiki_link" title="Elden Ring Mountaintops of the Giants" href="/Mountaintops+of+the+Giants" target="">Mountaintops of the Giants</a>: Found on a corpse in the southernmost part of the ruins by a stone archway. [<a class="wiki_link" title="Elden Ring Interactive map?id=3845&amp;lat=-90.182813&amp;lng=146.624335&amp;zoom=8&amp;code=mapA" href="/Interactive+map?id=3845&amp;lat=-90.182813&amp;lng=146.624335&amp;zoom=8&amp;code=mapA">Map Link</a>]</li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Zamor Ice Storm Guide</h3> 
+<ul> 
+ <li><a class="wiki_link" title="Elden Ring Snow Witch Sorceries" href="/Snow+Witch+Sorceries">Cold Sorcery</a></li> 
+ <li>Stamina Cost:&nbsp;27</li> 
+ <li>Deals magic damage</li> 
+ <li>Inflicts Frostbite (80) on opponents</li> 
+ <li><span style="color: #ff6600;">Note:</span> This Spell was changed with <a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a> as follows:<br> 
+  <ul> 
+   <li>Frostbite has been increased from 50 to 80.</li> 
+   <li>FP consumption has been reduced from 22 to 17.</li> 
+  </ul> </li> 
+</ul> 
+<p>&nbsp;</p> 
+<div style="max-width: 560px; max-height: 316px;"> 
+ <div class="embed-responsive embed-responsive-16by9"> 
+  <div id="https://www.youtube.com/embed/gqSzUthyrsU" class="embed-responsive-item youtube-item" style="display: flex; justify-content: center;"> 
+   <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+    <div class="sk-cube sk-cube1">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube2">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube3">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube4">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube5">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube6">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube7">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube8">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube9">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <th style="text-align: center;"><a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries">Elden Ring Sorceries</a></th> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Adula's+Moonblade">Adula's Moonblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ambush+Shard">Ambush Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Punishment">Briars of Punishment</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Sin">Briars of Sin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Cannon+of+Haima">Cannon of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Greatsword">Carian Greatsword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Phalanx">Carian Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Piercer">Carian Piercer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Retaliation">Carian Retaliation</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Slicer">Carian Slicer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Collapsing+Stars">Collapsing Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet">Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet+Azur">Comet Azur</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Barrage">Crystal Barrage</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Burst">Crystal Burst</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Release">Crystal Release</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Torrent">Crystal Torrent</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Eternal+Darkness">Eternal Darkness</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Explosive+Ghostflame">Explosive Ghostflame</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Fia's+Mist">Fia's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Founding+Rain+of+Stars">Founding Rain of Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Freezing+Mist">Freezing Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Frozen+Armament">Frozen Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gavel+of+Haima">Gavel of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gelmir's+Fury">Gelmir's Fury</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintblade+Phalanx">Glintblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Arc">Glintstone Arc</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Cometshard">Glintstone Cometshard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Icecrag">Glintstone Icecrag</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Pebble">Glintstone Pebble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Stars">Glintstone Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gravity+Well">Gravity Well</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Glintstone+Shard">Great Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Oracular+Bubble">Great Oracular Bubble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Greatblade+Phalanx">Greatblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Greatbow">Loretta's Greatbow</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Mastery">Loretta's Mastery</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Lucidity">Lucidity</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Downpour">Magic Downpour</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Glintblade">Magic Glintblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magma+Shot">Magma Shot</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite">Meteorite</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite+of+Astel">Meteorite of Astel</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Comet">Night Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Maiden's+Mist">Night Maiden's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Shard">Night Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Oracle+Bubbles">Oracle Bubbles</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rancorcall">Rancorcall</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ranni's+Dark+Moon">Ranni's Dark Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rennala's+Full+Moon">Rennala's Full Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Blaster">Rock Blaster</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Sling">Rock Sling</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Roiling+Magma">Roiling Magma</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rykard's+Rancor">Rykard's Rancor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Armament">Scholar's Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Shield">Scholar's Shield</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shard+Spiral">Shard Spiral</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shatter+Earth">Shatter Earth</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shattering+Crystal">Shattering Crystal</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Star+Shower">Star Shower</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Starlight">Starlight</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Stars+of+Ruin">Stars of Ruin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Swift+Glintstone+Shard">Swift Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Terra+Magica">Terra Magica</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thop's+Barrier">Thop's Barrier</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thops's+Barrier+(Spell)">Thops's Barrier (Spell)</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Tibia's+Summons">Tibia's Summons</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Blade">Unseen Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Form">Unseen Form</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
+<p>&nbsp;</p>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Register to EDIT the Wiki!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;display:none;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16801634" class="cmnt-root" data="0" data-d="1669864739000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">30 Nov 2022 22:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16801634" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I wish we got the Frostbite &quot;Force&quot; spell the Zamor dudes got. That would be dope. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16801634" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16801634" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16801634"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16801634" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16801634"></ul></li></ul></li>
+			
+				<li id="16789794" class="cmnt-root" data="0" data-d="1666574555000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">23 Oct 2022 21:22</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16789794" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">God bless they gave this beauty the one thing it needed to be good: stagger. Set this up for melee goobers to walk into while you wind up another beefcake spell with a long cast time</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16789794" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16789794" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16789794"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16789794" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16789794"></ul></li></ul></li>
+			
+				<li id="16787481" class="cmnt-root" data="0" data-d="1665979070000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">16 Oct 2022 23:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16787481" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">never used it till now so don&apos;t know what it was like before but i hav a mr. freeze build and this thing slaps ass</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16787481" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16787481" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16787481"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16787481" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16787481"></ul></li></ul></li>
+			
+				<li id="16786755" class="cmnt-root" data="0" data-d="1665799711000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">14 Oct 2022 22:08</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16786755" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Wow. 107 fixed this. It&apos;s an amazing AOE spell - does great damage, has good range, pushes enemies away from you without pushing them out entirely, freezes them, and because of the mild knockback effect you can spam it and let the enemies run into it until you&apos;re finished.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16786755" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16786755" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16786755"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16786755" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16786755"></ul></li></ul></li>
+			
+				<li id="16786611" class="cmnt-root" data="0" data-d="1665734998000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">14 Oct 2022 04:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16786611" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I&apos;m 19 sep comment guy and 1.07 pretty much solved all problems this spell had. Now its one of the better spells in game, I&apos;m consistently hitting people for above 700 dmg with frost and its quick enough to catch running thrust spammers. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16786611" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16786611" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16786611"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16786611" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16786611"></ul></li></ul></li>
+			
+				<li id="16786399" class="cmnt-root" data="0" data-d="1665719859000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">13 Oct 2022 23:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16786399" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">As of 1.07 this spell does good AoE damage, especially when charged up. On a regular giant without buffs and 50 Int, it&apos;s around 1200 damage (900+frostbite), over 1800 when charged up and over 2000 when using Godfrey Icon.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16786399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16786399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16786399"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16786399" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16786399"></ul></li></ul></li>
+			
+				<li id="16784682" class="cmnt-root" data="0" data-d="1665371924000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">09 Oct 2022 23:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16784682" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">If you&apos;re ever an invader at the morningstar beast on Mt. Gelmir, and you get summoned into the pit with the beast while the host and summons have to climb the ladder, wait at the top for them, cast this spell charged, and they&apos;ll get knocked off the ladder and fall to their deaths. It ain&apos;t much, but it&apos;s honest.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16784682" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16784682" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16784682"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16784682" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16784682"></ul></li></ul></li>
+			
+				<li id="16778366" class="cmnt-root" data="0" data-d="1663984492000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">23 Sep 2022 21:54</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16778366" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This&apos;ll be the last spell I need to complete my night build I only need a name for it now it&apos;s between &quot;all nightmare long&quot; or &quot;the darkest night&quot; </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16778366" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16778366" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16778366"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16778366" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16778366"></ul></li></ul></li>
+			
+				<li id="16775639" class="cmnt-root" data="3" data-d="1663570719000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">19 Sep 2022 02:58</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16775639" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It staggers well, frostbites easily, can make decent damage fully charged and is very satisfying to hit, but there are some bad things to it: uncharged version is already slow and aoe is quite small and charged version leaves you stuck in animation for longer after the cast so its actually harder to combo after that.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16775639" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16775639" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16775639"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16775639" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16775639"></ul></li></ul></li>
+			
+				<li id="16775264" class="cmnt-root" data="3" data-d="1663554982000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">18 Sep 2022 22:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16775264" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Decent spell, but like what a lot of comments are saying. The cast desperately needs a buff. If it had hyper armor the spell would be *chef’s kiss* or just tweak the cast time and make it quicker. If it got both then this spell would be a must have for frost builds. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16775264" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16775264" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16775264"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16775264" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16775264"></ul></li></ul></li>
+			
+				<li id="16770660" class="cmnt-root" data="0" data-d="1662690224000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">08 Sep 2022 22:23</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16770660" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Great utility as a wake-up.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16770660" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16770660" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16770660"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16770660" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16770660"></ul></li></ul></li>
+			
+				<li id="16768796" class="cmnt-root" data="7" data-d="1662369224000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">05 Sep 2022 05:13</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16768796" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think a simple cast speed increase would do a lot to make this a good spell. The cast speed should be about the same as collapsing stars imo.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16768796" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16768796" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16768796"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16768796" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16768796"></ul></li></ul></li>
+			
+				<li id="16764443" class="cmnt-root" data="2" data-d="1661746265000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">29 Aug 2022 00:11</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16764443" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">let it gooo...!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16764443" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16764443" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16764443"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16764443" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16764443"></ul></li></ul></li>
+			
+				<li id="16763779" class="cmnt-root" data="3" data-d="1661572665000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">26 Aug 2022 23:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16763779" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is one of my go-to spells in pvp. Follow it up with Adulas Moonblade and its a lethal combo. It&apos;s also really good at depleting overly aggressive gank squads or to just give yourself some time to cast another spell. Furthermore, it deflects Bestial Sling as well as throwing knives</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16763779" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16763779" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16763779"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16763779" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16763779"></ul></li></ul></li>
+			
+				<li id="16761126" class="cmnt-root" data="2" data-d="1661160450000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">22 Aug 2022 05:27</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16761126" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Great for a Niall cosplay</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16761126" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16761126" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16761126"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16761126" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16761126"></ul></li></ul></li>
+			
+				<li id="16730420" class="cmnt-root" data="10" data-d="1656991098000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">04 Jul 2022 23:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16730420" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think if this spell had a decent stagger (1-2 seconds) on the very first hitbox, this would be a lot better. As it stands, even if you time it correctly as an enemy runs in, odds are they&apos;re simply gonna tank 1-2 ticks for like 300+ damage but end up trading into you for a boatload more. Sort of the opposite of what you want out of nova-style spell (some kind of knock-back/stagger with solid damage, think Wrath of Gold) or another cool aoe spell.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16730420" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16730420" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16730420"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16730420" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16730420"></ul></li></ul></li>
+			
+				<li id="16727798" class="cmnt-root" data="23" data-d="1656732351000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">01 Jul 2022 23:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16727798" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">&quot;Watch what happens when I cast a spell I don&apos;t know!&quot;</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16727798" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16727798" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>23</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16727798"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16727798" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16727798"></ul></li></ul></li>
+			
+				<li id="16711993" class="cmnt-root" data="6" data-d="1654924000000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">11 Jun 2022 01:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16711993" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This Spell needs a simple buff: chain cast<br/><br/>The fact that Briars Of Sin is the ONLY Sorcery that can be chain casted in this &quot;subcategory&quot; of close range AOE is pretty dumb, specially considering that is a sorc that requires *exclusively* 24 faith<br/><br/>Zamor Ice Storm can be the perfect spell to fit as a replacement if ever got a Chain Cast buff, it can cause frostbite, which is not influenced by arc regardless of your staff, which is a fair trade of for the hemorrhage build-up -- that CAN be affected by arc scaling staffs -- without messing up your entire build.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16711993" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16711993" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16711993"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16711993" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16711993"></ul></li></ul></li>
+			
+				<li id="16708772" class="cmnt-root" data="7" data-d="1654615679000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">07 Jun 2022 11:27</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16708772" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Its good counter for BHS spammers</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16708772" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16708772" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16708772"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16708772" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16708772"></ul></li></ul></li>
+			
+				<li id="16707087" class="cmnt-root" data="2" data-d="1654481211000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">05 Jun 2022 22:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16707087" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">You have time to go out and get a pack of cigarettes and a carton of milk and still make it back in time for your spell to inevitably get interrupted.<br/><br/>****ing useless.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16707087" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16707087" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>5</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16707087"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16707087" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16707087"></ul></li></ul></li>
+			
+				<li id="16706559" class="cmnt-root" data="-1" data-d="1654404471000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">05 Jun 2022 00:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16706559" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Instakilled a dragon in azula. Standing direktly beneth him.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16706559" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16706559" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16706559"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16706559" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16706559"></ul></li></ul></li>
+			
+				<li id="16700931" class="cmnt-root" data="6" data-d="1653907382000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">30 May 2022 06:43</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16700931" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell seems to deflect arrows fired from long (and presumably short) bows. Needs more testing.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16700931" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16700931" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16700931"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16700931" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16700931"></ul></li></ul></li>
+			
+				<li id="16653966" class="cmnt-root" data="22" data-d="1651114212000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">27 Apr 2022 22:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16653966" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Not a fantastic spell but also not completely terrible, this is multiple times better than explosive ghostflame in damage and frostbite application. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16653966" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16653966" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>22</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16653966"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16653966" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16653966"></ul></li></ul></li>
+			
+				<li id="16651209" class="cmnt-root" data="17" data-d="1651093016000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">27 Apr 2022 16:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16651209" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Zamor Ice Storm is interesting but needs substantial Buffs: <br/>Increase Casting Time Speed significantly <br/>Buff Damage and Poise Damage <br/>Increase Radius size <br/>Increase Duration - making the Ice Storm last longer when fully Charged <br/><br/>The spell has one good use however: If you start casting this early on approaching hesitant players, you&apos;ll catch them rolling or blocking or starting up attacks just before they can punish you - then you can move freely and cast quick spells while they are stun locked and finish them off! <br/><br/>Side Note: I&apos;d love to have a D&amp;D Style Ice Storm with huge chunks of ice or hale falling from the sky in a massive area</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16651209" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16651209" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>20</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16651209"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16651209" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16651209"></ul></li></ul></li>
+			
+				<li id="16650883" class="cmnt-root" data="-3" data-d="1651074706000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">27 Apr 2022 11:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16650883" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Zamor Ice Storm is interesting but needs substantial Buffs:<br/>Increase Casting Time Speed significantly.<br/>Buff Damage and Poise Damage<br/>Increase Radius size <br/>Increase Duration - making the Ice Storm last longer when fully Charged<br/><br/>The spell has one good use however: If you start casting this early on approaching hesitant players, you&apos;ll catch them rolling or blocking or starting up attacks just before they can punish you - then you can move freely and cast quick spells while they are stun locked and finish them off! <br/>Side Note: I&apos;d love to have a D&amp;D Style Ice Storm with huge chunks of ice or hale falling from the sky in a massive area</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16650883" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16650883" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16650883"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16650883" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16650883"></ul></li></ul></li>
+			
+				<li id="16650823" class="cmnt-root" data="-2" data-d="1651074695000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">27 Apr 2022 11:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16650823" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Zamor Ice Storm is interesting but needs substantial Buffs:<br/>Increase Casting Time Speed significantly.<br/>Buff Damage and Poise Damage<br/>Increase Radius size <br/>Increase Duration - making the Ice Storm last longer when fully Charged<br/><br/>The spell has one good use however: If you start casting this early on approaching hesitant players, you&apos;ll catch them rolling or blocking or starting up attacks just before they can punish you - then you can move freely and cast quick spells while they are stun locked and finish them off! <br/>Side Note: I&apos;d love to have a D&amp;D Style Ice Storm with huge chunks of ice or hale falling from the sky in a massive area</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16650823" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16650823" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16650823"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16650823" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16650823"></ul></li></ul></li>
+			
+				<li id="16647712" class="cmnt-root" data="1" data-d="1651009225000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">26 Apr 2022 17:40</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16647712" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Casting time needs to be sped up and provide some protection and poise when you do it.  Radius is way too small,  a bit short duration</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16647712" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16647712" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16647712"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16647712" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16647712"></ul></li></ul></li>
+			
+				<li id="16647618" class="cmnt-root" data="-1" data-d="1651009197000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">26 Apr 2022 17:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16647618" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Casting time needs to be sped up and provide some protection and poise when you do it.  Radius is way too small,  a bit short duration</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16647618" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16647618" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16647618"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16647618" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16647618"></ul></li></ul></li>
+			
+				<li id="16646452" class="cmnt-root" data="1" data-d="1650948530000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=36018" rel="nofollow"  target="_blank" style="color: #;">RansomSeraph</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">26 Apr 2022 00:48</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16646452" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This Spells needs an immediate Speed , Poise, duration and Radius Buffs. The best use for this is against slow approaching hesitant Players getting in in you while blocking or rolling trying to Punish or dodge this. By the gime they realize their mistake, the Spell is Fully Charged and loose, dealing repeated hits, stagger, damage and Frostbite. You can now snipe them with projectiles or Blade Spells an finish them off!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16646452" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16646452" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16646452"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16646452" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16646452"></ul></li></ul></li>
+			
+				<li id="16643893" class="cmnt-root" data="7" data-d="1650611013000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">22 Apr 2022 03:03</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16643893" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Is this exactly the same as the skill on the Zamor Curved Sword or is one of them better than the other?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16643893" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16643893" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16643893"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16643893" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16643893"></ul></li></ul></li>
+			
+				<li id="16642859" class="cmnt-root" data="1" data-d="1650598197000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">21 Apr 2022 23:29</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16642859" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think if this spell had a decent stagger (1-2 seconds) on the very first hitbox, this would be a lot better. As it stands, even if you time it correctly as an enemy runs in, odds are they&apos;re simply gonna tank 1-2 ticks for like 300+ damage but end up trading into you for a boatload more. Sort of the opposite of what you want out of nova-style spell (some kind of knock-back/stagger with solid damage, think Wrath of Gold).</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16642859" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16642859" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16642859"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16642859" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16642859"></ul></li></ul></li>
+			
+				<li id="16636680" class="cmnt-root" data="2" data-d="1650428775000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">20 Apr 2022 00:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16636680" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I could be wrong, but I think this spell can reflect at least small physical projectiles.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16636680" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16636680" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16636680"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16636680" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16636680"></ul></li></ul></li>
+			
+				<li id="16636582" class="cmnt-root" data="4" data-d="1650428287000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">20 Apr 2022 00:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16636582" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This works very well against Fire Giant and actually glitched him into an instant death at 80int when entering his second phase for me. Not sure if this can be consistently done, but I casted it immediately before he entered the second phase. As soon as the cinematic finished, he took an immediate 19,846 damage and died. My best guess is that the game treated it as if he was standing in it for the full cinematic? If so this may be exploitable for other bosses with a cinematic prior to changing phases. Hoping someone else can try recreating at least on Fire Giant to confirm.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16636582" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16636582" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16636582"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16636582" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16636582"></ul></li></ul></li>
+			
+				<li id="16631708" class="cmnt-root" data="2" data-d="1650346664000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">19 Apr 2022 01:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16631708" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Pretty good AOE skill for that Albinauric farming spot in Moghwyn&apos;s palace area. Not nearly as fast as the Sacred Relic Greatsword, but for pure-mages that don&apos;t have enough faith to use that weapon, this is probably the next best thing. 1 fully charged cast should be enough to kill any of the Alinaurics, unless the red ones are blocking.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16631708" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16631708" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16631708"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16631708" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16631708"></ul></li></ul></li>
+			
+				<li id="16619074" class="cmnt-root" data="3" data-d="1649915154000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">14 Apr 2022 01:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16619074" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Highly recommend using this then lining up a Royal Greatsword WA for added flare. Lines up perfectly with stuns in PvE, useful in PvP of someone&apos;s caught off guard or is focusing on the blizzard and not your WA wind up.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16619074" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16619074" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16619074"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16619074" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16619074"></ul></li></ul></li>
+			
+				<li id="16576826" class="cmnt-root" data="42" data-d="1648543468000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/118960_1647822142.jpeg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=118960" rel="nofollow"  target="_blank" style="color: #CC99FF;">Azareis</a> <i class="glyphicon glyphicon-star" style="color: gold;"></i> <a class="wiki_link" href="https://fextralife.com/be-a-vip/" rel="nofollow" target="_blank">VIP</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">29 Mar 2022 04:44</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16576826" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">For some reason if you shoot Swarm of Flies at the ground then quickly cast Zamor Ice Storm, the stationary swarm gets immediately pushed just outside of the storm. No idea if there&apos;s a practical application of whatever that is, but when I did a followup test to see if the storm could deflect a noble&apos;s pebble it didn&apos;t seem to influence at all. Wondered if it was an interaction with specifically fire effects, matching the lore, but it didn&apos;t do that with the magma sorceries. Seems it&apos;s a bug, then. Shame. It would be a neat mechanic for it to be able to defend against fire.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16576826" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16576826" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>43</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16576826"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16576826" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16576826"></ul></li></ul></li>
+			
+				<li id="16539741" class="cmnt-root" data="17" data-d="1647689779000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">19 Mar 2022 07:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16539741" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It would be a very solid spacing tool (to deter overly aggressive creatures/players) if they had the uncharged wind-up cast a bit faster, especially given how small the AoE and short the duration is, and the charged wind-up either come down faster, have shorter recovery frames, or be able to control when you release it. As it stands, it&apos;s just too slow and easy to punish. However, the FP-to-damage is excellent, especially if you proc Frostbite (which it does very well) and hit multiple targets, it&apos;s very good for hitting targets around corners or through walls (as it goes through them), and it&apos;s excellent against an array of large and/or slow enemies as you can even get a fully charged Storm off if you can get to their blind spots like under their legs (like the dragons or trolls) or to their sides (Magma Wyrms). It&apos;d be cool to have an alternative to Homing Glintblades to deterring aggression, but we do have Founding Rain of Stars now too!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16539741" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16539741" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>17</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16539741"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16539741" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16539741"></ul></li></ul></li>
+			
+				<li id="16519764" class="cmnt-root" data="2" data-d="1647425862000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">16 Mar 2022 06:17</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16519764" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Wind up is REALLY risky but the damage you get for it is great and it procs frost fast. Works through terrain so you can cheese enemies and even players with it. You&apos;d think people hear the casting windup but a surprising amount of invaders will just waltz right into it if you&apos;re out of view. Probably not worth taking over the other aoe-options you have though outside of these specific situations, although it is still very good.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16519764" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16519764" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16519764"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16519764" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16519764"></ul></li></ul></li>
+			
+				<li id="16499020" class="cmnt-root" data="20" data-d="1647140934000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">12 Mar 2022 22:08</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16499020" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is a great alternative to Glintstone Arc for dealing with groups for little FP. Also boasts a great FP-to-damage ratio but its burst potential is rather low.<br/><br/>Another excellent use for this spell is dealing with those annoying invisible scarabs that run around. Just camp a spot on their path with this spell and wait for them to run into it.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16499020" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16499020" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>21</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16499020"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16499020" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16499020"></ul></li></ul></li>
+			
+				<li id="16495530" class="cmnt-root" data="47" data-d="1647089110000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">12 Mar 2022 07:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16495530" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Good damage, but the area of effect and cast time aren&apos;t impressive and makes this borderline useless. If a group of enemies is at effective range, I&apos;m rolling the hell out of there, not risking getting stunlocked while casting this.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16495530" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16495530" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>49</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16495530"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16495530" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16495530"></ul></li></ul></li>
+			
+				<li id="16490080" class="cmnt-root" data="9" data-d="1646988459000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">11 Mar 2022 03:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16490080" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Highly underrated spell. Great uses against multiple agile enemies (such as the Sisters during Millicent&apos;s questline) or against enemies that will stand in it for the entire duration. Does significant damage, stacks Frost and has a decent sized AoE that keeps this one in my stape spells. I&apos;m surprised more people aren&apos;t talking about it. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16490080" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16490080" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16490080"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16490080" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16490080"></ul></li></ul></li>
+			
+				<li id="16444726" class="cmnt-root" data="3" data-d="1646370827000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">04 Mar 2022 00:13</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16444726" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Scratch that, i meant South East of the Grace..i suck at this</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16444726" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16444726" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16444726"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16444726" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16444726"></ul></li></ul></li>
+			
+				<li id="16443233" class="cmnt-root" data="0" data-d="1646367398000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">03 Mar 2022 23:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16443233" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It drops in the ruins to the north east. As you enter up into them its on a body next to two Zamor Knights</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16443233" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16443233" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16443233"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16443233" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16443233"></ul></li></ul></li>
+			
+				<li id="16436926" class="cmnt-root" data="0" data-d="1646256619000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=124308" rel="nofollow"  target="_blank" style="color: #;">Everwinter</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">02 Mar 2022 16:30</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16436926" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">where do you get this spell?<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16436926" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16436926" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16436926"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16436926" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16436926"></ul></li></ul></li>
+			
+				<li id="16433561" class="cmnt-root" data="77" data-d="1646200452000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579470/Zamor-Ice-Storm-(Spell)" rel="nofollow" target="_blank">02 Mar 2022 00:54</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16433561" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">As shocking as it may seem this is in fact found in the Zamor ruins.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16433561" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16433561" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>77</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16433561"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16433561" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16433561"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Elden+Ring+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+
+
+var params = {};
+var ximapa = document.getElementById('ximap0');
+var ximapb = document.getElementById('ximap1');
+var ximapc = document.getElementById('ximap2');
+if (ximapa != null || ximapb != null || ximapc != null) {
+    window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
+        params[key] = value;
+    });
+}
+
+if (ximapa != null) {
+    if (params != null && params.id != null) {
+        ximapa.src = ximapa.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapb != null) {
+    if (params != null && params.id != null) {
+        ximapb.src = ximapb.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapc != null) {
+    if (params != null && params.id != null) {
+        ximapc.src = ximapc.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (params != null && params.code != null && params.code == 'mapB') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+        if (mapA != null && mapB != null) {
+                $('#mapA').hide();
+                $('#mapB').show();
+        }
+}
+if (params != null && params.code != null && params.code == 'mapC') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+	var mapC = $('#mapC');
+        if (mapA != null && mapB != null && mapC != null) {
+                $('#mapA').hide();
+                $('#mapC').show();
+        }
+}
+
+
+
+});
+
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7737ec674e7a53f5","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>

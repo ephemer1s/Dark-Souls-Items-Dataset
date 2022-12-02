@@ -1,0 +1,1499 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Elden Ring Comet Sorcery Guide: Where to find Comet, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://eldenring.wiki.fextralife.com/Comet" />
+		<title>Comet | Elden Ring Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Elden-Ring/elden-ring-wiki-guide-favicon-32.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=ZBa1">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004d">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=00009ab">
+		<link rel="stylesheet" href="/xcss/styles.css?js=00008a">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Elden Ring Wiki" />
+			<meta property="og:title" content="Comet | Elden Ring Wiki" />
+			<meta property="og:description" content="Elden Ring Comet Sorcery Guide: Where to find Comet, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+			<meta property="og:url" content="https://eldenring.wiki.fextralife.com/Comet" />
+			<meta property="og:image" content="https://eldenring.wiki.fextralife.com/file/Elden-Ring/comet_sorcery_elden_ring_wiki_guide_200px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+
+
+
+
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-ext-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '9e216d5b-fa7a-4724-bcf5-2a8fd15cce86';
+			pagex['wikiName'] = 'Elden+Ring'; 
+			pagex['wikiTitle'] = 'Elden Ring';
+			pagex['pageId'] = '1441edbb-d176-4a88-ae3d-a6ec9a33c36a';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1665854996000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6Lcy06YUAAAAAKrAbBYGO0Nctqx66DwE0h4Ao8p1';
+			var cx = '013588101548136424510:ns7edn1bgi4';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://eldenring.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Elden+Ring+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Elden-Ring/elden-ring-wiki-logo.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Elden Ring Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Elden-Ring/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span>NEW<span class="hidden-lg"> &amp; Wiki Home</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite miniring"></span>NEW &amp; Wiki Home</a></li> 
+   <li> <a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+     <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> </li> 
+     <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> </li> 
+     <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a> </li> 
+     <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a> </li> 
+     <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+    </ul> </li> 
+   <li> <a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url"> <span class="navsprite miniring"></span>Elden Ring Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+     <li> <a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Keepsakes" itemprop="url"> <span class="navsprite miniring"></span>Keepsakes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+     <li> <a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a> </li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a> </li> 
+     <li> <a href="/Incantations" itemprop="url"> <span class="navsprite miniring"></span>Incantations</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Ashes+of+War" itemprop="url"> <span class="navsprite miniring"></span>Ashes of War</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a> </li> 
+   <li> <a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Sites+of+Grace" itemprop="url"> <span class=""></span>Sites of Grace</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"> <span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a> </li> 
+   <li> <a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a> </li> 
+   <li> <a href="/Crafting" itemprop="url"> <span class="navsprite miniring"></span>Crafting</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite home"></span>NEW &amp; Wiki Home</a>
+<ul class="navSubMenu">
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a><hr>
+</li><li itemprop="name">
+
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a><hr>
+</li><li itemprop="name">
+
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+
+<hr></li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a>
+<hr></li><li itemprop="name">
+
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a><hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+
+<a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url">
+<span class="navsprite miniring"></span>Elden Ring Forums</a><hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+
+<hr></li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a>
+<hr>
+</li>
+
+
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name" class="">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a>
+
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url">Skills</a>
+<hr></li><li itemprop="name">
+
+<a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a>
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Keepsakes" itemprop="url">
+<span class="navsprite miniring"></span>Keepsakes</a><hr>
+</li>
+
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+
+<hr></li><li itemprop="name">
+<a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a>
+
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+<hr></li><li itemprop="name">
+
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr></li><li itemprop="name">
+
+<a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a>
+</li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+<ul class="navSubMenu">
+
+
+
+
+
+<li itemprop="name">
+<a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a><hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a>
+<hr></li><li itemprop="name">
+
+<a href="/Incantations" itemprop="url">
+<span class="navsprite miniring"></span>Incantations</a>
+<hr></li>
+</ul>
+
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Ashes+of+War" itemprop="url">
+<span class="navsprite miniring"></span>Ashes of War</a><hr>
+</li>
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+<hr></li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a><hr>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url">Maps</a>
+<hr>
+<hr></li><li itemprop="name">
+
+<a href="/Sites+of+Grace" itemprop="url">
+<span class=""></span>Sites of Grace</a>
+</li>
+
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url">
+<span class="navsprite miniring"></span>Game Progress Route</a><hr>
+</li><li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a><hr>
+</li>
+<li itemprop="name">
+
+<a href="/Crafting" itemprop="url">
+<span class="navsprite miniring"></span>Crafting</a><hr>
+</li>
+
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/" itemprop="url"><span class="navsprite g"></span>Tools &amp; Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+
+</ul>
+</li>
+
+
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="tQPfngWUrXk" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="tQPfngWUrXk" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/tQPfngWUrXk/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="9e216d5b-fa7a-4724-bcf5-2a8fd15cce86" data-pid="1441edbb-d176-4a88-ae3d-a6ec9a33c36a" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://eldenring.wiki.fextralife.com/Comet">Comet | Elden Ring Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 82</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 33 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 33</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://eldenring.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Magic+Spells">Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Sorceries">Sorceries</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th style="text-align: center;" colspan="2"> <h2>Comet</h2> </th> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="2"><img title="comet_sorcery_elden_ring_wiki_guide_200px" src="/file/Elden-Ring/comet_sorcery_elden_ring_wiki_guide_200px.png" alt="comet sorcery elden ring wiki guide 200px" width="200" height="200"></td> 
+    </tr> 
+    <tr> 
+     <td>Spell Type</td> 
+     <td><a class="wiki_link" title="Elden Ring Glintstone Sorceries" href="/Glintstone+Sorceries" target="">Glintstone Sorceries</a></td> 
+    </tr> 
+    <tr> 
+     <td>FP Cost&nbsp;24</td> 
+     <td>Slots Used&nbsp;1</td> 
+    </tr> 
+    <tr> 
+     <td colspan="2"><img title="item_effect_icon_elden_ring_wiki_guide_18px" src="/file/Elden-Ring/item_effects_icon_elden_ring_wiki_guide_55px_18px.png" alt="item effects icon elden ring wiki guide 55px 18px" width="18" height="18">Effect 
+      <div class="lineleft">
+        Fires a great magic comet 
+      </div> <br><img style="float: left;" title="Attributes Requirement" src="/file/Elden-Ring/attributes-required-elden-ring-wiki-guide-18.png" alt="attributes required elden ring wiki guide 18" width="18" height="18">Requires 
+      <div class="lineleft"> 
+       <a class="wiki_link" title="Elden Ring Intelligence" href="/Intelligence" target="">Intelligence</a>&nbsp;52 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Faith" href="/Faith" target="">Faith</a> 0 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Arcane" href="/Arcane" target="">Arcane</a>&nbsp;0 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Comet</strong> is a&nbsp;<a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorcery</a> in <a class="wiki_link" title="Elden Ring Wiki" href="/Elden+Ring+Wiki">Elden Ring</a>. <strong>Comet spell</strong>&nbsp;casts a magical comet that you can fire at enemies. Updated to <a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a>.</p> 
+<p>&nbsp;</p> 
+<div class="lineleft"> 
+ <p>One of the glintstone sorceries of the Academy of Raya Lucaria.<br>Fires a great magical comet.</p> 
+ <p>This sorcery can be cast repeatedly and while in motion. Charging<br>enhances potency.</p> 
+ <p>The greatest of the Karolos Conspectus's sorceries, that only a<br>very few sorcerers have ever mastered.</p> 
+</div> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Where to find Comet</h3> 
+<p>Where to find <strong>Comet</strong>:</p> 
+<ul> 
+ <li>Found in <a class="wiki_link" title="Elden Ring Raya Lucaria Academy" href="/Raya+Lucaria+Academy">Raya Lucaria</a> through an Illusory Wall just before the Site of Grace at Debate Parlor. It can be identified as the bookshelf without books on it. [<a class="wiki_link" title="Elden Ring Interactive Map?id=2866&amp;code=mapA" href="/Interactive+Map?id=2866&amp;code=mapA">Elden Ring Map Link</a>]</li> 
+ <li><a class="wiki_link" title="Video Location" href="https://youtu.be/h5DjY_1VDVU?t=1778">Video Location</a></li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Comet Guide</h3> 
+<ul> 
+ <li><a class="wiki_link" title="Elden Ring Glintstone Sorceries" href="/Glintstone+Sorceries">Glintstone Sorcery</a></li> 
+ <li>Stamina Cost: 31</li> 
+ <li>Deals magic damage</li> 
+ <li>Can pierce through multiple enemies in a line.</li> 
+ <li>Can be charged for up to approximately 20-22% increased damage.</li> 
+ <li>Damage can be boosted by 10% by wearing <a class="wiki_link" title="Elden Ring Azur's Glintstone Crown" href="/Azur's+Glintstone+Crown">Azur's Glintstone Crown</a>. This comes at the cost of a 15% increase in ALL sorcery costs</li> 
+ <li><span style="color: #ff6600;"><em>Note:</em></span> In <a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a>, FP cost was reduced from 26 to&nbsp;24, damage was increased slightly, and stamina damage against guarding enemies was increased. In addition, while not mentioned in the patch notes, the stamina cost was reduced from 35 to 31.&nbsp;</li> 
+ <li>Compared to <a class="wiki_link" title="Elden Ring Glintstone Pebble" href="/Glintstone+Pebble">Glintstone Pebble</a>, Comet costs about 230% more FP, travels a significant amount farther (20-25%), and deals about&nbsp;95-105% more damage.</li> 
+ <li>Compared to <a class="wiki_link" title="Elden Ring Glintstone Cometshard" href="/Glintstone+Cometshard">Glintstone Cometshard</a>, Comet costs about 38% more FP, travels slightly farther, and deals about 12-15% more damage.</li> 
+</ul> 
+<p>The Illusory Wall can be found between a candle stand and a table, here's a picture for better reference.</p> 
+<p><img title="illusory_wall_reference_1_elden_ring_wiki_guide_600px" src="/file/Elden-Ring/illusory_wall_reference_1_elden_ring_wiki_guide_600px.jpg" alt="illusory wall reference 1 elden ring wiki guide 600px" width="600" height="338"></p> 
+<h3 class="bonfire">Best Comet Buffs</h3> 
+<p>Use these&nbsp;<a class="wiki_link" title="Elden Ring Buffs and Debuffs" href="/Buffs+and+Debuffs">Buffs</a>&nbsp;to maximize the performance of Comet. Note that increases in attack power are multiplicative unless stated otherwise.</p> 
+<div style="max-width: 600px;"> 
+ <details> 
+  <div class="table-responsive"> 
+   <table class="wiki_table"> 
+    <tbody> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"> <p><strong>Comet</strong></p> </td> 
+      <td style="width: 206.969px; text-align: center;"><strong>Buff Description</strong></td> 
+      <td style="width: 535.031px; text-align: center;"><strong>Notes</strong></td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Azur's Glintstone Crown" href="/Azur's+Glintstone+Crown">Azur's Glintstone Crown</a></td> 
+      <td style="width: 206.969px; text-align: center;">+10%&nbsp;Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">All spells cost 15% more&nbsp;<a class="wiki_link" title="Elden Ring FP" href="/FP">FP</a>&nbsp;to cast.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Graven-Mass Talisman" href="/Graven-Mass+Talisman">Graven-Mass Talisman</a></td> 
+      <td style="width: 206.969px; text-align: center;">+8% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Can be used with Graven-School Talisman, and stacks additively with it.&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Graven-School Talisman" href="/Graven-School+Talisman">Graven-School Talisman</a></td> 
+      <td style="width: 206.969px; text-align: center;">+4% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Can be used with Graven-Mass Talisman, and stacks additively with it.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Lord of Blood's Exultation" href="/Lord+of+Blood's+Exultation">Lord of Blood's Exultation</a></td> 
+      <td style="width: 206.969px; text-align: center;">+20% Attack&nbsp;Power</td> 
+      <td style="width: 535.031px; text-align: center;">Lasts 20 seconds when a nearby player or enemy is inflicted with blood loss.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Magic Scorpion Charm" href="/Magic+Scorpion+Charm">Magic Scorpion Charm</a></td> 
+      <td style="width: 206.969px; text-align: center;">+12% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Increases physical damage taken by 10%.&nbsp;</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Magic-Shrouding Cracked Tear" href="/Magic-Shrouding+Cracked+Tear">Magic-Shrouding Cracked Tear</a></td> 
+      <td style="width: 206.969px; text-align: center;">+20% Attack Power (+15% PvP)</td> 
+      <td style="width: 535.031px; text-align: center;">Lasts 3 minutes.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Rallying Standard" href="/Rallying+Standard">Rallying Standard</a></td> 
+      <td style="width: 206.969px; text-align: center;">+20% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Lasts 30 seconds.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Ritual Sword Talisman" href="/Ritual+Sword+Talisman">Ritual Sword Talisman</a></td> 
+      <td style="width: 206.969px; text-align: center;">+10%&nbsp;Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Must be at full health.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring Terra Magica" href="/Terra+Magica">Terra Magica</a></td> 
+      <td style="width: 206.969px; text-align: center;">+35% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Lasts 30 seconds.</td> 
+     </tr> 
+     <tr> 
+      <td style="width: 151px; text-align: center;"><a class="wiki_link" title="Elden Ring White Mask" href="/White+Mask">White Mask</a></td> 
+      <td style="width: 206.969px; text-align: center;">+10% Attack Power</td> 
+      <td style="width: 535.031px; text-align: center;">Lasts 20 seconds when a nearby player or enemy is inflicted with blood loss.</td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+ </details> 
+</div> 
+<p>&nbsp;</p> 
+<div class="row"> 
+ <div class="col-sm-6"> 
+  <div style="max-width: 560px; max-height: 316px;"> 
+   <div class="embed-responsive embed-responsive-16by9"> 
+    <div id="https://www.youtube.com/embed/gqSzUthyrsU" class="embed-responsive-item youtube-item" style="display: flex; justify-content: center;"> 
+     <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+      <div class="sk-cube sk-cube1">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube2">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube3">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube4">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube5">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube6">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube7">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube8">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube9">
+        &nbsp; 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <p>&nbsp;</p> 
+ </div> 
+ <div class="col-sm-6"> 
+  <div style="max-width: 560px; max-height: 316px;"> 
+   <div class="embed-responsive embed-responsive-16by9"> 
+    <div id="https://www.youtube.com/embed/5DjDu8no7s4?list=PLyT5NcCVqdX_ygsTrXJEzFuiHLv_7wYxk" class="embed-responsive-item youtube-item" style="display: flex; justify-content: center;"> 
+     <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+      <div class="sk-cube sk-cube1">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube2">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube3">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube4">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube5">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube6">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube7">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube8">
+        &nbsp; 
+      </div> 
+      <div class="sk-cube sk-cube9">
+        &nbsp; 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <p style="text-align: center;"><a class="wiki_link" title="Elden Ring Builds#crystalmage" href="/Builds#crystalmage">Crystal Mage Written Guide</a></p> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<div class="row"> 
+ <div class="col-sm-6"> 
+  <div style="max-width: 560px; max-height: 316px; margin-right: auto; margin-left: auto;"> 
+   <div class="embed-responsive embed-responsive-16by9"> 
+    <div id="T0O2xQ3y6Ms" class="youtube youtubebuildembed" style="background-size: cover; background-repeat: no-repeat; min-height: 200px;">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+  <p style="text-align: center;"><a class="wiki_link" title="Elden Ring Builds#moonlightcrusader" href="/Builds#moonlightcrusader">Moonlight Crusader Written Guide</a></p> 
+ </div> 
+ <div class="col-sm-6"> 
+  <p>&nbsp;</p> 
+  <p>&nbsp;</p> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Comet&nbsp;Notes and Tips</h3> 
+<ul> 
+ <li>Updated to patch&nbsp;<strong>1.07</strong>. See&nbsp;<a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes" target="">Patch Notes</a>&nbsp;for details.</li> 
+ <li>Other notes and player tips go here.&nbsp;</li> 
+</ul> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <th style="text-align: center;"><a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries">Elden Ring Sorceries</a></th> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Adula's+Moonblade">Adula's Moonblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ambush+Shard">Ambush Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Punishment">Briars of Punishment</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Sin">Briars of Sin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Cannon+of+Haima">Cannon of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Greatsword">Carian Greatsword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Phalanx">Carian Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Piercer">Carian Piercer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Retaliation">Carian Retaliation</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Slicer">Carian Slicer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Collapsing+Stars">Collapsing Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet+Azur">Comet Azur</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Barrage">Crystal Barrage</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Burst">Crystal Burst</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Release">Crystal Release</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Torrent">Crystal Torrent</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Eternal+Darkness">Eternal Darkness</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Explosive+Ghostflame">Explosive Ghostflame</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Fia's+Mist">Fia's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Founding+Rain+of+Stars">Founding Rain of Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Freezing+Mist">Freezing Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Frozen+Armament">Frozen Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gavel+of+Haima">Gavel of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gelmir's+Fury">Gelmir's Fury</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintblade+Phalanx">Glintblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Arc">Glintstone Arc</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Cometshard">Glintstone Cometshard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Icecrag">Glintstone Icecrag</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Pebble">Glintstone Pebble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Stars">Glintstone Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gravity+Well">Gravity Well</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Glintstone+Shard">Great Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Oracular+Bubble">Great Oracular Bubble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Greatblade+Phalanx">Greatblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Greatbow">Loretta's Greatbow</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Mastery">Loretta's Mastery</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Lucidity">Lucidity</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Downpour">Magic Downpour</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Glintblade">Magic Glintblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magma+Shot">Magma Shot</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite">Meteorite</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite+of+Astel">Meteorite of Astel</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Comet">Night Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Maiden's+Mist">Night Maiden's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Shard">Night Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Oracle+Bubbles">Oracle Bubbles</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rancorcall">Rancorcall</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ranni's+Dark+Moon">Ranni's Dark Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rennala's+Full+Moon">Rennala's Full Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Blaster">Rock Blaster</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Sling">Rock Sling</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Roiling+Magma">Roiling Magma</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rykard's+Rancor">Rykard's Rancor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Armament">Scholar's Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Shield">Scholar's Shield</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shard+Spiral">Shard Spiral</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shatter+Earth">Shatter Earth</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shattering+Crystal">Shattering Crystal</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Star+Shower">Star Shower</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Starlight">Starlight</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Stars+of+Ruin">Stars of Ruin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Swift+Glintstone+Shard">Swift Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Terra+Magica">Terra Magica</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thop's+Barrier">Thop's Barrier</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thops's+Barrier+(Spell)">Thops's Barrier (Spell)</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Tibia's+Summons">Tibia's Summons</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Blade">Unseen Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Form">Unseen Form</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)">Zamor Ice Storm (Spell)</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Register to EDIT the Wiki!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;display:none;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16799776" class="cmnt-root" data="0" data-d="1669255850000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">23 Nov 2022 21:10</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16799776" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Fantastic thing for invasions. Get a cheeky angle on coopers, charge one up and launch it. If they didn&apos;t level vigor, they will die in just one cast. It doesn&apos;t even need much buffs - just Graven-mass talisman and physic flask should suffice. Much better than Great Glinstone Shard.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16799776" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16799776" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16799776"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16799776" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16799776"></ul></li></ul></li>
+			
+				<li id="16798019" class="cmnt-root" data="0" data-d="1668734091000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">17 Nov 2022 20:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16798019" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Chain casting shouldn’t be a thing for this, it’s almost impossible to fight against considering the high damage/low fp cost and access to pressure sorceries like stars</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16798019" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16798019" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16798019"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16798019" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16798019"></ul></li></ul></li>
+			
+				<li id="16794676" class="cmnt-root" data="0" data-d="1667797440000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">07 Nov 2022 00:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16794676" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It&apos;s a pretty nuanced matter, picking your projectile:<br/><br/>Determine one of these things:<br/><br/>&quot;Am I fighting a PvE target that will die in one hit from a stronger spell, but not a weaker, and won&apos;t dodge or block.&quot; If so, go with the least expensive &apos;stronger&apos; spell necessary to one-shot, to clean the enemy in question up quickly. Good example targets would include dogs, miners, or any un-alert guard/soldier type enemies, that might otherwise become adds in an unfair fight.<br/><br/>&quot;Am I instead fighting a target that will only die in multiple hits, and won&apos;t dodge enough that I&apos;m missing casts regularly.&quot; If so, ask, &quot;A.) Do I have time and space to fire attacks unpunished, or B.) Will I need to dodge fairly regular attacks?&quot; if A, go with the more economic fp to damage ratio unless you are certain you will have an overabundance of flasks and plenty of opportunity to rest afterward, and if so proceed to B instead, if B, go for the highest damage per cast sustainable by your flasks.<br/><br/>Lastly, and this is important:<br/><br/>&quot;Am I fighting a player, and C.) are they paying attention to what I&apos;m doing, or D.) will there be distractions, drawing their attention away from my casting?&quot;<br/><br/>If C.) You want the cheapest spell that can be spammed a lot, and which will reach their location, at the current moment, or you want to throw crystal darts. If D.)Feel free to cast the hardest hitting spell that can connect before the player can react.<br/><br/>Also, as a final note, remember for scenarios where you&apos;re invaded, that you can continuously &apos;threaten&apos; to fire Loretta&apos;s Greatbow, and then roll to cancel, and not expend any FP whatsoever. Sometimes just the threat of being shot is enough to create an opening.<br/><br/>Have fun with your magical pew-pewing.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16794676" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16794676" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16794676"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16794676" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16794676"></ul></li></ul></li>
+			
+				<li id="16792297" class="cmnt-root" data="0" data-d="1667184673000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">30 Oct 2022 22:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16792297" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell is so simply strong for high Int and Mind builds. No BS, just a quick, straight bullet that demolishes everything in its path. Insanely high DPS for bosses too, and is much more flexible unlike Comet Azur.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16792297" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16792297" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16792297"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16792297" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16792297"></ul></li></ul></li>
+			
+				<li id="16792187" class="cmnt-root" data="0" data-d="1667180211000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">30 Oct 2022 21:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16792187" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">people who aren’t using these upgrades to the pebble are fundamentally misunderstanding the sorcerer playstyle at the high levels. FP efficiency needs to be squared against the wasted utility of unused fp. If you die after a tough fight with most of your fp in reserve then you are better off sacrificing some efficiency for more firepower.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16792187" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16792187" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16792187"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16792187" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16792187"></ul></li></ul></li>
+			
+				<li id="16773800" class="cmnt-root" data="3" data-d="1663210913000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">14 Sep 2022 23:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16773800" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">lvl 80 with 45 vigor and i just got one shot by this by a phantom. <br/>?????<br/>never have i seen this do more than 1000 damage let alone anywhere near that</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16773800" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16773800" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16773800"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16773800" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16773800"></ul></li></ul></li>
+			
+				<li id="16770823" class="cmnt-root" data="13" data-d="1662694777000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">08 Sep 2022 23:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16770823" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">people say its wayyy too inefficient but i wanna be a legendary wizard wielding a spell only a few have ever even brandished, and flex that i have over 52 intelligence</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16770823" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16770823" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>14</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16770823"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16770823" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16770823"></ul></li></ul></li>
+			
+				<li id="16763508" class="cmnt-root" data="16" data-d="1661564829000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">26 Aug 2022 21:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16763508" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Crystal soul spear my beloved </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16763508" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16763508" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16763508"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16763508" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16763508"></ul></li></ul></li>
+			
+				<li id="16746338" class="cmnt-root" data="13" data-d="1659084799000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">29 Jul 2022 04:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16746338" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Too much people here are focused on FP efficiency, when at 25 mind I can clear out an area from one grace to the other and I didn&apos;t chug half of my flasks.<br/>The secret is to get a bit of faith to heal with spells, especially bestial vitality, it&apos;s very FP efficient.<br/>Like that most of your flasks can be cerulean.<br/>I also use a sword for mobs that are alone/weak.<br/>Anyway, being able to one hit enemies is just awesome, and it comes at a cheap price</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16746338" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16746338" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16746338"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16746338" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16746338"></ul></li></ul></li>
+			
+				<li id="16737917" class="cmnt-root" data="12" data-d="1657944286000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">16 Jul 2022 00:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16737917" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Comet is comparable to Loretta&apos;s Greatbow. Both have similar damage and MP cost, but each has upsides over the other:<br/>- Comet has much, much shorter windup speed than Loretta&apos;s Greatbow (especially if charged), and can be cast repeatedly until your MP bar empties.<br/>- Loretta&apos;s Greatbow has half the intellgence requirement compared to Comet, and has the most extreme maximum range of any sorcery.<br/>— Courh the Explorer</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16737917" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16737917" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16737917"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16737917" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16737917"></ul></li></ul></li>
+			
+				<li id="16717226" class="cmnt-root" data="3" data-d="1655436867000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">16 Jun 2022 23:34</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16717226" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Can’t combo with carian slicer unless you jump. RIP</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16717226" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16717226" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16717226"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16717226" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16717226"></ul></li></ul></li>
+			
+				<li id="16699030" class="cmnt-root" data="13" data-d="1653875078000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">29 May 2022 21:44</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16699030" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Want to know the best PVE clear for mid-late game? Get Godfreys and the Ritual Sword and you can one shot almost all mobs with a fully charged Comet with a +8 Carian Regal Staff. The range and how AI works (most enemies will not aggro on ranged spell kills) means you can just spam this to kill trash mobs quickly. Can substitute with Loretta&apos;s Bow for greater range (slightly lower damage) </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16699030" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16699030" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16699030"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16699030" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16699030"></ul></li></ul></li>
+			
+				<li id="16696709" class="cmnt-root" data="-5" data-d="1653543499000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">26 May 2022 01:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16696709" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Pebble does 1.4k for 7 fp and Comet does 3.2k for 26 fp. Pebble is still better.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16696709" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16696709" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16696709"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16696709" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16696709"></ul></li></ul></li>
+			
+				<li id="16643667" class="cmnt-root" data="33" data-d="1650609116000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">22 Apr 2022 02:31</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16643667" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Basically just this games version of soul spear</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16643667" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16643667" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>34</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16643667"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16643667" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16643667"></ul></li></ul></li>
+			
+				<li id="16638923" class="cmnt-root" data="-1" data-d="1650451974000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=67604" rel="nofollow"  target="_blank" style="color: #;">glasscannon</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">20 Apr 2022 06:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16638923" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Almost all comment section complain about this and compare it with glintstone pebble. This sorcery is for pvp , In pvp spam glintstone pebble is useless cause opponent is smart.  Comet can chain cast from other fast bait spell and melt other player in 2 cast .<br/>PVP man!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16638923" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16638923" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>10</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16638923"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16638923" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16638923"></ul></li></ul></li>
+			
+				<li id="16605498" class="cmnt-root" data="31" data-d="1649411072000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">08 Apr 2022 05:44</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16605498" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Good spell to nuke bosses fast obviously don&apos;t use it on regular enemies the dmg per FP is bad. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16605498" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16605498" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>34</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16605498"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16605498" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16605498"></ul></li></ul></li>
+			
+				<li id="16598994" class="cmnt-root" data="-9" data-d="1649265370000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">06 Apr 2022 13:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16598994" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell gets pretty good at high mind levels, mind scaling is backloaded so you actually get the biggest returns from lvl 50-55. I see a lot of mages running something like 80 int / 30 mind, but 55 int / 55 mind will give you twice as much mana and around 25% lower incant scaling (astrologer vs carian regal) or 30% lower for lusat&apos;s. <br/><br/>If you&apos;re at 80 int 30 mind, casting glintstone pebble with lusat&apos;s staff (11 mana per cast, 160 mana = 14 casts, 413 incant) I think you would be better off going 55/55 and casting this with astrologers staff instead (26 mana per cast, 321 mana = 12 casts, 286 incant but 90% higher damage scaling).<br/><br/>If the 90% higher scaling is correct you&apos;d be doing 286 / 413 * 1.9 =~ 30% more damage per hit, but with the downside that blue flask would only get you ~2/3 of your mana bar back. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16598994" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16598994" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>16</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16598994"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16598994" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16598994"></ul></li></ul></li>
+			
+				<li id="16590543" class="cmnt-root" data="5" data-d="1649062206000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">04 Apr 2022 04:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16590543" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Definite pick as of now.... Comet became soo much useful. As of my Testing. ( At 80 INT using Lusat&apos;s Staff +10 for 413 Sorc Scaling , 1 Fully charged Comet deals 2122 damage against a Troll giant , with Carian Regal +10 at 373 Sorc Scaling , 1 Full Comet 1803 damage )..... That&apos;s approx 15% difference in damage between the 2 , Lusat&apos;s Staff gives all my Spells a 2K damage compared to Carian Regal as of 80 INT and above... As for the FP Cost i suggest having 45-50 Mind atleast to play with Lusat&apos;s penalty ( Currently i can chain cast Comet with Lusat&apos;s Staff for 7 casts without FP Flask , with a total of 280fp ). Lusat definitely outshines Carian Regal imo only case would be Full Moon Spells... Otherwise at 80 INT the 15% difference is abit handy specialy against Bosses i&apos;d say and tough enemies. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16590543" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16590543" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16590543"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16590543" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16590543"></ul></li></ul></li>
+			
+				<li id="16579949" class="cmnt-root" data="65" data-d="1648620308000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">30 Mar 2022 02:05</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16579949" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think people miss the application of this spell. This is for when something needs to die fast, and for when you&apos;re willing to accept the FP cost of that. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16579949" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16579949" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>65</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16579949"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16579949" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16579949"></ul></li></ul></li>
+			
+				<li id="16529584" class="cmnt-root" data="38" data-d="1647595951000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=63290" rel="nofollow"  target="_blank" style="color: #;">DatKami</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">18 Mar 2022 05:32</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16529584" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I ran this spell a lot even before the buff. I could cast it 4 times an FP bar and I had 8 cerulean flasks which meant I could cast this 36 times (8 flasks + 1 natural bar) and that was enough to pummel Astel. <br/><br/>In scenarios where you have FP to burn and need to nuke a boss down faster than it will two shot your sorcerer ass, this is your gun.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16529584" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16529584" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>40</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16529584"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16529584" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16529584"></ul></li></ul></li>
+			
+				<li id="16527998" class="cmnt-root" data="37" data-d="1647517130000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">17 Mar 2022 07:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16527998" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Four times the amount of FP of pebble for ~80% damage increase, in my own testing following the patch. Definitely better than it was, and pretty good for burst damage, but still a terrible FP use ratio.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16527998" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16527998" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">10</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>41</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16527998"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16527998" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16527998"></ul></li></ul></li>
+			
+				<li id="16525689" class="cmnt-root" data="1" data-d="1647513520000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=128919" rel="nofollow"  target="_blank" style="color: #;">Barrusu</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">17 Mar 2022 06:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16525689" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Now 26 FP cost</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16525689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16525689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16525689"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16525689" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16525689"></ul></li></ul></li>
+			
+				<li id="16525074" class="cmnt-root" data="7" data-d="1647512592000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">17 Mar 2022 06:23</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16525074" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The buff did this justice.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16525074" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16525074" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16525074"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16525074" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16525074"></ul></li></ul></li>
+			
+				<li id="16524016" class="cmnt-root" data="0" data-d="1647510681000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">17 Mar 2022 05:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16524016" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">They just changed the cost to 26 FP. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16524016" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16524016" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16524016"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16524016" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16524016"></ul></li></ul></li>
+			
+				<li id="16520476" class="cmnt-root" data="-4" data-d="1647427229000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">16 Mar 2022 06:40</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16520476" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is actually pretty good in PVP since you can fire it amidst quicker glintstones and throw off your opponent, otherwise it&apos;s just inferior to pebble.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16520476" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16520476" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>9</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16520476"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16520476" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16520476"></ul></li></ul></li>
+			
+				<li id="16517571" class="cmnt-root" data="-9" data-d="1647422755000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=127709" rel="nofollow"  target="_blank" style="color: #;">Xanafalgue</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">16 Mar 2022 05:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16517571" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It&apos;s literally worse than just the big bubble sorcery </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16517571" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16517571" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>10</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16517571"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16517571" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16517571"></ul></li></ul></li>
+			
+				<li id="16517482" class="cmnt-root" data="-3" data-d="1647422718000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=127709" rel="nofollow"  target="_blank" style="color: #;">Xanafalgue</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">16 Mar 2022 05:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16517482" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It&apos;s literally worse than just the big bubble sorcery </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16517482" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16517482" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16517482"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16517482" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16517482"></ul></li></ul></li>
+			
+				<li id="16498670" class="cmnt-root" data="3" data-d="1647139959000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">12 Mar 2022 21:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16498670" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Me farming for 1 day to get 52, realizing pebble is better</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16498670" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16498670" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>10</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16498670"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16498670" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16498670"></ul></li></ul></li>
+			
+				<li id="16488873" class="cmnt-root" data="21" data-d="1646985542000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">11 Mar 2022 02:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16488873" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Feels very weak when you get it, but late game it becomes much better. Radagon Icon reduces its cast speed, and can buffed by Godfrey Icon and Azur&apos;s Glitstone Crown (it will also increase fp cost of all spells). With all this it deals around 3x the damage of a Glinstone Pebble.<br/><br/>Right now at Consecrated Snowfields its much better than pebble for dealing with high HP enemies (it also easily staggers them). Pebble will always be more FP efficient, but Comet just kills stuff faster.  I&apos;m also carrying 10 FP flasks  + Primal Glintstone Blade + 40 mind, so FP is not really an issue, even while using Lusat&apos;s staff.<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16488873" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16488873" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>22</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16488873"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16488873" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16488873"></ul></li></ul></li>
+			
+				<li id="16482841" class="cmnt-root" data="2" data-d="1646861210000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=126296" rel="nofollow"  target="_blank" style="color: #;">tobz</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">09 Mar 2022 16:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16482841" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is a really good spell guys just needs stamina fortification</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16482841" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16482841" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16482841"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16482841" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16482841"></ul></li></ul></li>
+			
+				<li id="16478946" class="cmnt-root" data="9" data-d="1646794650000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">08 Mar 2022 21:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16478946" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I really like this spell at higher levels. Similar to Comet Azur, a good way to use it is with the Cerulean and Magic-Shrouding tears (no FP consumption  and boosted magic damage). You can start with a charged shot and then keep firing follow-ups until you run out of stamina. I can usually get at least six casted in total before the Cerulean tear runs out, which does massive damage.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16478946" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16478946" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16478946"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16478946" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16478946"></ul></li></ul></li>
+			
+				<li id="16475815" class="cmnt-root" data="0" data-d="1646788853000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">08 Mar 2022 20:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16475815" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">After the first cast, the follow up cast are much faster. Not FP efficient but good burst. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16475815" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16475815" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16475815"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16475815" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16475815"></ul></li></ul></li>
+			
+				<li id="16462203" class="cmnt-root" data="-14" data-d="1646576281000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">06 Mar 2022 09:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16462203" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">What a garbage spell for 52 int. Slow as sin, cost too much fp for too little damage </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16462203" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16462203" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>19</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16462203"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16462203" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16462203"></ul></li></ul></li>
+			
+				<li id="16456514" class="cmnt-root" data="4" data-d="1646467560000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">05 Mar 2022 03:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16456514" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">its got almost 3x the range and has splash damage...</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16456514" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16456514" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16456514"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16456514" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16456514"></ul></li></ul></li>
+			
+				<li id="16455815" class="cmnt-root" data="7" data-d="1646452352000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">04 Mar 2022 22:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16455815" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">What a waste of a spell, so much FP for the same as 3 pebbles or 2.5 bigger pebbles It&apos;s amazing how many cool looking spells there are that are completely terrible.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16455815" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16455815" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>22</p><i class="add">+1</i></section><section class="t-down"><span></span><p>15</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16455815"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16455815" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16455815"></ul></li></ul></li>
+			
+				<li id="16455707" class="cmnt-root" data="57" data-d="1646452256000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">04 Mar 2022 22:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16455707" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">To everyone saying this spell is too slow, try casting it after casting a faster spell, like pebble or dart. They animation chain off of each other, so you can fire a dart &amp; then a faster comet.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16455707" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16455707" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>57</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16455707"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16455707" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16455707"></ul></li></ul></li>
+			
+				<li id="16445043" class="cmnt-root" data="-3" data-d="1646371282000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">04 Mar 2022 00:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16445043" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This ability is overall not worth the investment for int, or FP cost. In the time to channel one Comet you can cast 2-3 pebbles for signigicantly cheaper and achieve higher DPS</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16445043" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16445043" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16445043"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16445043" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16445043"></ul></li></ul></li>
+			
+				<li id="16439077" class="cmnt-root" data="-5" data-d="1646290123000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">03 Mar 2022 01:48</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16439077" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">May I introduce you to worse crystal soul spear. I don’t know why it doesn’t do that much damage for me, but it may be worth trying if you have high int.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16439077" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16439077" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>9</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16439077"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16439077" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16439077"></ul></li></ul></li>
+			
+				<li id="16437141" class="cmnt-root" data="1" data-d="1646274987000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">02 Mar 2022 21:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16437141" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Requires 52 int</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16437141" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16437141" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16437141"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16437141" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16437141"></ul></li></ul></li>
+			
+				<li id="16437134" class="cmnt-root" data="1" data-d="1646274971000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">02 Mar 2022 21:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16437134" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">its 52 Int requirement</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16437134" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16437134" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16437134"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16437134" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16437134"></ul></li></ul></li>
+			
+				<li id="16436300" class="cmnt-root" data="3" data-d="1646230583000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">02 Mar 2022 09:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16436300" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Comet Soul Spear</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16436300" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16436300" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16436300"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16436300" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16436300"></ul></li></ul></li>
+			
+				<li id="16434896" class="cmnt-root" data="0" data-d="1646216947000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">02 Mar 2022 05:29</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16434896" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It requires 52 Intellect to use</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16434896" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16434896" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16434896"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16434896" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16434896"></ul></li></ul></li>
+			
+				<li id="16434363" class="cmnt-root" data="13" data-d="1646212322000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=123253" rel="nofollow"  target="_blank" style="color: #;">ATypicalPlague</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">02 Mar 2022 04:12</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16434363" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Is this spell actually any good? I feel like 2 pebbles do equivalent damage to this for a fraction of the cost. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16434363" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16434363" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>17</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16434363"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16434363" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16434363"></ul></li></ul></li>
+			
+				<li id="16432897" class="cmnt-root" data="11" data-d="1646193403000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">01 Mar 2022 22:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16432897" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The required intelligence is 52. <br/>*Me looking at my 33...* <br/>i feel like difficulty is about to spike.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16432897" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16432897" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>12</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16432897"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16432897" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16432897"></ul></li></ul></li>
+			
+				<li id="16432241" class="cmnt-root" data="3" data-d="1646188963000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">01 Mar 2022 21:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16432241" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Comet Soul Spear</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16432241" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16432241" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16432241"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16432241" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16432241"></ul></li></ul></li>
+			
+				<li id="16429778" class="cmnt-root" data="27" data-d="1646123722000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579322/Comet" rel="nofollow" target="_blank">01 Mar 2022 03:35</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16429778" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Crystal soul spear </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16429778" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16429778" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>27</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16429778"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16429778" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16429778"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Elden+Ring+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+
+
+var params = {};
+var ximapa = document.getElementById('ximap0');
+var ximapb = document.getElementById('ximap1');
+var ximapc = document.getElementById('ximap2');
+if (ximapa != null || ximapb != null || ximapc != null) {
+    window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
+        params[key] = value;
+    });
+}
+
+if (ximapa != null) {
+    if (params != null && params.id != null) {
+        ximapa.src = ximapa.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapb != null) {
+    if (params != null && params.id != null) {
+        ximapb.src = ximapb.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapc != null) {
+    if (params != null && params.id != null) {
+        ximapc.src = ximapc.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (params != null && params.code != null && params.code == 'mapB') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+        if (mapA != null && mapB != null) {
+                $('#mapA').hide();
+                $('#mapB').show();
+        }
+}
+if (params != null && params.code != null && params.code == 'mapC') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+	var mapC = $('#mapC');
+        if (mapA != null && mapB != null && mapC != null) {
+                $('#mapA').hide();
+                $('#mapC').show();
+        }
+}
+
+
+
+});
+
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7737e01acd9753f5","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>

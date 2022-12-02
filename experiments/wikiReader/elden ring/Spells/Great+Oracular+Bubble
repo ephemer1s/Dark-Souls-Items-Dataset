@@ -1,0 +1,1370 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Elden Ring Great Oracular Bubble Sorcery Guide: Where to find Great Oracular Bubble, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://eldenring.wiki.fextralife.com/Great+Oracular+Bubble" />
+		<title>Great Oracular Bubble | Elden Ring Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Elden-Ring/elden-ring-wiki-guide-favicon-32.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=ZBa1">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004d">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=00009ab">
+		<link rel="stylesheet" href="/xcss/styles.css?js=00008a">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Elden Ring Wiki" />
+			<meta property="og:title" content="Great Oracular Bubble | Elden Ring Wiki" />
+			<meta property="og:description" content="Elden Ring Great Oracular Bubble Sorcery Guide: Where to find Great Oracular Bubble, effect, requirements, how to use it, best combinations, tips, and tricks for this spell." />
+			<meta property="og:url" content="https://eldenring.wiki.fextralife.com/Great+Oracular+Bubble" />
+			<meta property="og:image" content="https://eldenring.wiki.fextralife.com/file/Elden-Ring/great_oracular_bubble_sorcery_elden_ring_wiki_guide_200px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+
+
+
+
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-ext-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '9e216d5b-fa7a-4724-bcf5-2a8fd15cce86';
+			pagex['wikiName'] = 'Elden+Ring'; 
+			pagex['wikiTitle'] = 'Elden Ring';
+			pagex['pageId'] = 'a41a5f67-2efb-4a6e-8f03-81321351afd8';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1666034176000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6Lcy06YUAAAAAKrAbBYGO0Nctqx66DwE0h4Ao8p1';
+			var cx = '013588101548136424510:ns7edn1bgi4';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://eldenring.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Elden-Ring/elden-ring-wiki-guide-walkthrough-background-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Elden+Ring+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Elden-Ring/elden-ring-wiki-logo.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Elden Ring Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Elden-Ring/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span>NEW<span class="hidden-lg"> &amp; Wiki Home</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite miniring"></span>NEW &amp; Wiki Home</a></li> 
+   <li> <a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+     <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> </li> 
+     <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> </li> 
+     <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a> </li> 
+     <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a> </li> 
+     <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+    </ul> </li> 
+   <li> <a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url"> <span class="navsprite miniring"></span>Elden Ring Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+     <li> <a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Keepsakes" itemprop="url"> <span class="navsprite miniring"></span>Keepsakes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+     <li> <a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a> </li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a> </li> 
+     <li> <a href="/Incantations" itemprop="url"> <span class="navsprite miniring"></span>Incantations</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Ashes+of+War" itemprop="url"> <span class="navsprite miniring"></span>Ashes of War</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a> </li> 
+   <li> <a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Sites+of+Grace" itemprop="url"> <span class=""></span>Sites of Grace</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"> <span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a> </li> 
+   <li> <a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a> </li> 
+   <li> <a href="/Crafting" itemprop="url"> <span class="navsprite miniring"></span>Crafting</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring+Wiki" itemprop="url"><span class="navsprite home"></span>NEW &amp; Wiki Home</a>
+<ul class="navSubMenu">
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Recently Updated</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a><hr>
+</li><li itemprop="name">
+
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a><hr>
+</li><li itemprop="name">
+
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+
+<hr></li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills (Combat Arts)</a>
+<hr></li><li itemprop="name">
+
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online Features</a><hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+
+<a href="https://fextralife.com/forums/f194/elden-ring-general/" itemprop="url">
+<span class="navsprite miniring"></span>Elden Ring Forums</a><hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+
+<hr></li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Elden+Ring" itemprop="url"><span class="navsprite miniring"></span>About Elden Ring</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patch+Notes" itemprop="url"><span class=""></span>Patch Notes</a>
+<hr>
+</li>
+
+
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name" class="">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets</a>
+
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url">Skills</a>
+<hr></li><li itemprop="name">
+
+<a href="/Torrent+(Spirit+Steed)" itemprop="url"><span class=""></span>Spirit Steed Mount</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Mechanics" itemprop="url"><span class="navsprite miniring"></span>Game Mechanics</a>
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url"><span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Keepsakes" itemprop="url">
+<span class="navsprite miniring"></span>Keepsakes</a><hr>
+</li>
+
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+
+<hr></li><li itemprop="name">
+<a href="/Buffs+and+Debuffs" itemprop="url"><span class=""></span>Buffs &amp; Debuffs</a>
+
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+<hr></li><li itemprop="name">
+
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr></li><li itemprop="name">
+
+<a href="/Rebirth" itemprop="url"><span class="navsprite miniring"></span>Rebirth - Respeccing</a>
+</li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+<ul class="navSubMenu">
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+<ul class="navSubMenu">
+
+
+
+
+
+<li itemprop="name">
+<a href="/Damage+Types" itemprop="url"><span class=""></span>Damage Types</a>
+</li>
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Spirit+Ashes" itemprop="url"><span class="navsprite miniring"></span>Spirits Ashes</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a><hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Magic+Spells" itemprop="url"><span class="navsprite miniring"></span>Spells List</a><ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Sorceries" itemprop="url"><span class="navsprite miniring"></span>Sorceries</a>
+<hr></li><li itemprop="name">
+
+<a href="/Incantations" itemprop="url">
+<span class="navsprite miniring"></span>Incantations</a>
+<hr></li>
+</ul>
+
+<hr>
+</li>
+
+
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url"><span class="navsprite miniring"></span>Talismans</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Ashes+of+War" itemprop="url">
+<span class="navsprite miniring"></span>Ashes of War</a><hr>
+</li>
+
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+<hr></li>
+</ul>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Multiplayer+Coop+and+Online" itemprop="url"><span class="navsprite miniring"></span>Online &amp; Multiplayer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP" itemprop="url"><span class="navsprite miniring"></span>PvP</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+
+<a href="/Interactive+Map" itemprop="url"><span class="navsprite miniring"></span>Elden Ring Map</a><hr>
+</li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url">Maps</a>
+<hr>
+<hr></li><li itemprop="name">
+
+<a href="/Sites+of+Grace" itemprop="url">
+<span class=""></span>Sites of Grace</a>
+</li>
+
+</ul>
+<hr>
+</li><li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Creatures+and+Enemies" itemprop="url"><span class="navsprite miniring"></span>Creatures &amp; Enemies</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Game+Progress+Route" itemprop="url">
+<span class="navsprite miniring"></span>Game Progress Route</a><hr>
+</li><li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li><li itemprop="name">
+<a href="/Side+Quests" itemprop="url"><span class="navsprite miniring"></span>Side Quests</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/Endings" itemprop="url"><span class="navsprite miniring"></span>Endings</a><hr>
+</li>
+<li itemprop="name">
+
+<a href="/Crafting" itemprop="url">
+<span class="navsprite miniring"></span>Crafting</a><hr>
+</li>
+
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses Guide</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+<a href="/" itemprop="url"><span class="navsprite g"></span>Tools &amp; Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator (WIP)</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+
+</ul>
+</li>
+
+
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="tQPfngWUrXk" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="tQPfngWUrXk" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/tQPfngWUrXk/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="9e216d5b-fa7a-4724-bcf5-2a8fd15cce86" data-pid="a41a5f67-2efb-4a6e-8f03-81321351afd8" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://eldenring.wiki.fextralife.com/Great+Oracular+Bubble">Great Oracular Bubble | Elden Ring Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 76</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 20 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 20</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://eldenring.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Magic+Spells">Magic</a>&nbsp;/&nbsp;<a href="https://eldenring.wiki.fextralife.com/Sorceries">Sorceries</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th style="text-align: center;" colspan="2"> <h2>Great Oracular Bubble</h2> </th> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="2"><img title="great_oracular_bubble_sorcery_elden_ring_wiki_guide_200px" src="/file/Elden-Ring/great_oracular_bubble_sorcery_elden_ring_wiki_guide_200px.png" alt="great oracular bubble sorcery elden ring wiki guide 200px" width="200" height="200"></td> 
+    </tr> 
+    <tr> 
+     <td>Spell Type</td> 
+     <td><a class="wiki_link" title="Elden Ring Claymen Sorceries" href="/Claymen+Sorceries" target="">Claymen Sorceries</a></td> 
+    </tr> 
+    <tr> 
+     <td>FP Cost 16</td> 
+     <td>Slots Used 1</td> 
+    </tr> 
+    <tr> 
+     <td colspan="2"><img title="item_effect_icon_elden_ring_wiki_guide_18px" src="/file/Elden-Ring/item_effects_icon_elden_ring_wiki_guide_55px_18px.png" alt="item effects icon elden ring wiki guide 55px 18px" width="18" height="18">Effect 
+      <div class="lineleft">
+        Launches a large magic bubble 
+      </div> <br><img style="float: left;" title="Attributes Requirement" src="/file/Elden-Ring/attributes-required-elden-ring-wiki-guide-18.png" alt="attributes required elden ring wiki guide 18" width="18" height="18">Requires 
+      <div class="lineleft"> 
+       <a class="wiki_link" title="Elden Ring Intelligence" href="/Intelligence" target="">Intelligence</a> 25 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Faith" href="/Faith" target="">Faith</a> 0 
+       <br> 
+       <a class="wiki_link" title="Elden Ring Arcane" href="/Arcane" target="">Arcane</a> 18 
+      </div> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Great Oracular Bubble </strong> is a&nbsp;<a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries" target="">Sorcery</a> in <a class="wiki_link" title="Elden Ring Wiki" href="/Elden+Ring+Wiki">Elden Ring</a>. <strong>Great Oracular Bubble spell</strong> creates a bubble projectile that moves forward until it explodes, dealing damage in a small AoE. Updated to&nbsp;<a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a>.</p> 
+<p>&nbsp;</p> 
+<div class="lineleft"> 
+ <p><em>Sorcery of the claymen who served as priests in the ancient</em><em> dynasty.</em></p> 
+ <p><em>Produces a gigantic magical bubble that drifts towards foes before </em><em>it naturally ruptures.&nbsp;Charging increases the delay before the bubble pops.</em></p> 
+ <p><em>The claymen search for lost oracles within their bubbles.</em></p> 
+</div> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Where to find Great Oracular Bubble</h3> 
+<p>Where to find <strong>Great Oracular Bubble </strong>:</p> 
+<ul> 
+ <li>From the <a class="wiki_link" title="Elden Ring Interactive Map?id=1315&amp;lat=-178.898437&amp;lng=138.730923&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1315&amp;lat=-178.898437&amp;lng=138.730923&amp;zoom=8&amp;code=mapB">Worshippers’ Woods site of grace</a> in <a class="wiki_link" title="Elden Ring Siofra River" href="/Siofra+River">Siofra River</a>, travel south until you find a toppled pillar you can walk up with a ghostly archer on it, at the top there will be a waygate you can use. After this, move forward into an archway to the right of another collapsed pillar, the Teardrop beetle is in a room full of claymen. <a class="wiki_link" title="Elden Ring Interactive Map?id=1311&amp;lat=-176.40625&amp;lng=133.258657&amp;zoom=8&amp;code=mapB" href="/Interactive+Map?id=1311&amp;lat=-176.40625&amp;lng=133.258657&amp;zoom=8&amp;code=mapB">Elden Ring Ineractive Map Link</a></li> 
+ <li><a class="wiki_link" title="Video Location" href="https://youtu.be/rZlWAogpAXk?t=1950">Video Location</a></li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Great Oracular Bubble Guide</h3> 
+<ul> 
+ <li>Stamina Cost:&nbsp;27</li> 
+ <li>Deals magic damage</li> 
+ <li>This is one of a handful of unexpected things whose range is increased from wearing the Arrow's Reach Talisman.</li> 
+ <li><span style="color: #ff6600;"><em>Note:</em></span> This spell received multiple buffs in <a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes">Patch 1.07</a> - it can now be used while in motion, the attack power and tracking of the bubble were both increased, and the stamina damage against guarding enemies was increased.</li> 
+</ul> 
+<div style="max-width: 560px; max-height: 316px;"> 
+ <div class="embed-responsive embed-responsive-16by9"> 
+  <div id="https://www.youtube.com/embed/gqSzUthyrsU" class="embed-responsive-item youtube-item" style="display: flex; justify-content: center;"> 
+   <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+    <div class="sk-cube sk-cube1">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube2">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube3">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube4">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube5">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube6">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube7">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube8">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube9">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Elden Ring&nbsp;Great Oracular Bubble&nbsp;Note and Tips</h3> 
+<ul> 
+ <li>Updated to patch&nbsp;<strong>1.07</strong>. See&nbsp;<a class="wiki_link" title="Elden Ring Patch Notes" href="/Patch+Notes" target="">Patch Notes</a>&nbsp;for details.</li> 
+ <li>Other notes and player tips go here.&nbsp;</li> 
+</ul> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <th style="text-align: center;"><a class="wiki_link" title="Elden Ring Sorceries" href="/Sorceries">Elden Ring Sorceries</a></th> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Adula's+Moonblade">Adula's Moonblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ambush+Shard">Ambush Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Punishment">Briars of Punishment</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Briars+of+Sin">Briars of Sin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Cannon+of+Haima">Cannon of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Greatsword">Carian Greatsword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Phalanx">Carian Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Piercer">Carian Piercer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Retaliation">Carian Retaliation</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Carian+Slicer">Carian Slicer</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Collapsing+Stars">Collapsing Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet">Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Comet+Azur">Comet Azur</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Barrage">Crystal Barrage</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Burst">Crystal Burst</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Release">Crystal Release</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Crystal+Torrent">Crystal Torrent</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Eternal+Darkness">Eternal Darkness</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Explosive+Ghostflame">Explosive Ghostflame</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Fia's+Mist">Fia's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Founding+Rain+of+Stars">Founding Rain of Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Freezing+Mist">Freezing Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Frozen+Armament">Frozen Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gavel+of+Haima">Gavel of Haima</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gelmir's+Fury">Gelmir's Fury</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintblade+Phalanx">Glintblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Arc">Glintstone Arc</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Cometshard">Glintstone Cometshard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Icecrag">Glintstone Icecrag</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Pebble">Glintstone Pebble</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Glintstone+Stars">Glintstone Stars</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Gravity+Well">Gravity Well</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Great+Glintstone+Shard">Great Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Greatblade+Phalanx">Greatblade Phalanx</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Greatbow">Loretta's Greatbow</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Loretta's+Mastery">Loretta's Mastery</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Lucidity">Lucidity</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Downpour">Magic Downpour</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magic+Glintblade">Magic Glintblade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Magma+Shot">Magma Shot</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite">Meteorite</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Meteorite+of+Astel">Meteorite of Astel</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Comet">Night Comet</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Maiden's+Mist">Night Maiden's Mist</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Night+Shard">Night Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Oracle+Bubbles">Oracle Bubbles</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rancorcall">Rancorcall</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Ranni's+Dark+Moon">Ranni's Dark Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rennala's+Full+Moon">Rennala's Full Moon</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Blaster">Rock Blaster</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rock+Sling">Rock Sling</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Roiling+Magma">Roiling Magma</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Rykard's+Rancor">Rykard's Rancor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Armament">Scholar's Armament</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Scholar's+Shield">Scholar's Shield</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shard+Spiral">Shard Spiral</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shatter+Earth">Shatter Earth</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Shattering+Crystal">Shattering Crystal</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Star+Shower">Star Shower</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Starlight">Starlight</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Stars+of+Ruin">Stars of Ruin</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Swift+Glintstone+Shard">Swift Glintstone Shard</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Terra+Magica">Terra Magica</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thop's+Barrier">Thop's Barrier</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Thops's+Barrier+(Spell)">Thops's Barrier (Spell)</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Tibia's+Summons">Tibia's Summons</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Blade">Unseen Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Unseen+Form">Unseen Form</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//eldenring.wiki.fextralife.com/Zamor+Ice+Storm+(Spell)">Zamor Ice Storm (Spell)</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Register to EDIT the Wiki!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;display:none;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16800644" class="cmnt-root" data="0" data-d="1669605398000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">27 Nov 2022 22:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16800644" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">still needs to do more damage or move faster. Currently, it does as much damage as carian piercer for basically the same fp cost (16 vs 17), but piercer is infinitely more useable and situationally useful than this, and can be buffed by dual wielding staves</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16800644" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16800644" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16800644"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16800644" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16800644"></ul></li></ul></li>
+			
+				<li id="16799305" class="cmnt-root" data="0" data-d="1669171112000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">22 Nov 2022 21:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16799305" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Scarab for this is not spawning, tried grace and quitting out. Seems bugged</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16799305" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16799305" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16799305"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16799305" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16799305"></ul></li></ul></li>
+			
+				<li id="16794771" class="cmnt-root" data="0" data-d="1667799531000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">07 Nov 2022 00:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16794771" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">How to effectively use this in pvp:<br/><br/>Bait or wait for the opponent to rush you from a distance, disengage auto lock and release straight at the ground in front of you.  <br/><br/>Also the best way to use Giantsflame Take Thee, and Magma Shot.<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16794771" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16794771" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16794771"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16794771" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16794771"></ul></li></ul></li>
+			
+				<li id="16792635" class="cmnt-root" data="0" data-d="1667193564000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">31 Oct 2022 01:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16792635" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Charged Great Oracular Bubble into Charged Night Comet w/ Godfrey Icon &amp; Arrow&apos;s Reach Talisman. Lovely combo.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16792635" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16792635" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16792635"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16792635" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16792635"></ul></li></ul></li>
+			
+				<li id="16791411" class="cmnt-root" data="0" data-d="1666842113000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">26 Oct 2022 23:41</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16791411" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">If you look closely you’ll see that this “bubble” is actually a single thread spinning incredibly fast.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16791411" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16791411" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16791411"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16791411" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16791411"></ul></li></ul></li>
+			
+				<li id="16782165" class="cmnt-root" data="0" data-d="1664771521000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">03 Oct 2022 00:32</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16782165" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Uncharged moves faster and further than uncharged for some forsaken reason.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16782165" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16782165" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16782165"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16782165" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16782165"></ul></li></ul></li>
+			
+				<li id="16769663" class="cmnt-root" data="9" data-d="1662519768000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">06 Sep 2022 23:02</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16769663" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Was trying to think of build ideas I used this for entrapment on my strength mage it worked well for getting my meteorite weapons into them but I can&apos;t take a counter hit thanks to my split stats<br/>If I want the albernauric staff it seems to scale the spell better but my stats :/</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16769663" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16769663" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16769663"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16769663" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16769663"></ul></li></ul></li>
+			
+				<li id="16764803" class="cmnt-root" data="7" data-d="1661760187000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">29 Aug 2022 04:03</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16764803" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">MOAB Incoming!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16764803" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16764803" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16764803"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16764803" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16764803"></ul></li></ul></li>
+			
+				<li id="16741113" class="cmnt-root" data="16" data-d="1658397221000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">21 Jul 2022 05:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16741113" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">can do a lot of damage but the cast time is absurdly slow, even with radagon icon. expect to take a huge hit to the face if you try to use this during a boss fight</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16741113" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16741113" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16741113"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16741113" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16741113"></ul></li></ul></li>
+			
+				<li id="16713551" class="cmnt-root" data="22" data-d="1655066899000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">12 Jun 2022 16:48</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16713551" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I cant believe it but i killed 4 people in my first hour of pvp with this. Damage is good, explosion is quite big and they dont disappear if you cast 2nd and 3rd one, but its very easy to dodge and it doesnt track well. But who cares, its a bubble! </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16713551" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16713551" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>23</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16713551"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16713551" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16713551"></ul></li></ul></li>
+			
+				<li id="16710920" class="cmnt-root" data="7" data-d="1654806873000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">09 Jun 2022 16:34</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16710920" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does this spell scale with arc or should I only use the minimum points? </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16710920" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16710920" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16710920"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16710920" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16710920"></ul></li></ul></li>
+			
+				<li id="16707344" class="cmnt-root" data="9" data-d="1654485590000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">05 Jun 2022 23:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16707344" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Goes faster the more dex you have. Godfrey bubble does outrageous damage. Does about as much damage as a moon spell for less fp. Bubble is love. Bubble is life.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16707344" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16707344" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16707344"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16707344" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16707344"></ul></li></ul></li>
+			
+				<li id="16690687" class="cmnt-root" data="15" data-d="1653022796000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">20 May 2022 00:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16690687" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This spell is underrated in PVE, it has almost as range as lorreta&apos;s greatbow and does more damage while costing less fp. I use this as most long range spell for indoor areas and some outdoor areas.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16690687" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16690687" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>15</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16690687"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16690687" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16690687"></ul></li></ul></li>
+			
+				<li id="16684736" class="cmnt-root" data="16" data-d="1652671594000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=122046" rel="nofollow"  target="_blank" style="color: #;">Lenox</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">15 May 2022 23:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16684736" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Glintstone Pebble = 343 damage = 49.00 damage per FP<br/>Great Oracular bubble = 796 damage = 49.75 damage per FP (charged)<br/><br/>Tested on trolls south of Knight Bernahl&apos;s Warmaster&apos;s Shack</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16684736" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16684736" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16684736"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16684736" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16684736"></ul></li></ul></li>
+			
+				<li id="16684515" class="cmnt-root" data="2" data-d="1652670039000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">15 May 2022 23:00</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16684515" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This sorcery will cause Silver Tear enemies in Nokstella to pause seemingly permanently upon hitting. Especially useful against the shielded ones, but may only work once per mob. Does not work on the large balls or the lightning-charged ones.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16684515" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16684515" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16684515"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16684515" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16684515"></ul></li></ul></li>
+			
+				<li id="16672066" class="cmnt-root" data="15" data-d="1651878957000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">06 May 2022 19:15</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16672066" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">PLEASE From make this and the other bubble sorcery viable in pve and pvp they look so cool. Guess I’ll stick to my holy bubble blowers for now :’(</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16672066" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16672066" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16672066"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16672066" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16672066"></ul></li></ul></li>
+			
+				<li id="16669112" class="cmnt-root" data="3" data-d="1651752997000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">05 May 2022 08:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16669112" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">mark on interactive mar is incorrect</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16669112" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16669112" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16669112"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16669112" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16669112"></ul></li></ul></li>
+			
+				<li id="16644992" class="cmnt-root" data="8" data-d="1650851831000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">24 Apr 2022 21:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16644992" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Gonna cosplay Syfa.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16644992" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16644992" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16644992"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16644992" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16644992"></ul></li></ul></li>
+			
+				<li id="16643063" class="cmnt-root" data="14" data-d="1650603062000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">22 Apr 2022 00:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16643063" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">If you want to play around with this, would recommend wearing the Silver Tear Mask as it gives you +8 Arcane, meaning you only need 10 Arcane.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16643063" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16643063" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>15</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16643063"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16643063" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16643063"></ul></li></ul></li>
+			
+				<li id="16640334" class="cmnt-root" data="3" data-d="1650473141000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">20 Apr 2022 12:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16640334" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Almost the same range as Loretta&apos;s Greatbow, very good damage for FP, etc. Probably worth the points in ARC.<br/><br/>It should have more range than Loretta&apos;s, in my opinion. Its windup and travel time are pretty brutal compensators. Give it a niche in the form of great range.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16640334" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16640334" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16640334"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16640334" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16640334"></ul></li></ul></li>
+			
+				<li id="16638718" class="cmnt-root" data="19" data-d="1650450011000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">20 Apr 2022 06:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16638718" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Ironically a good spell; that just got a lot better after patch 1.04. Now if only we had a water element.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16638718" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16638718" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>19</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16638718"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16638718" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16638718"></ul></li></ul></li>
+			
+				<li id="16618400" class="cmnt-root" data="9" data-d="1649905819000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">13 Apr 2022 23:10</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16618400" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Another great thing about this spell is that it is perfectly safe using it on edges as it will NOT make you fall off of one. Unlike other spells like Loretta&apos;s Greatbow where you moving is actually moving the position of your character and therefore being able to fall, Great Oracle Bubble&apos;s casting animation naturally moves you forward, which prevents you from falling off an edge. This is really useful against a mob that is under you and you have to try and get close to the edge in order for your projectiles to not hit the ground, something which Greatbow is infamous of.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16618400" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16618400" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16618400"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16618400" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16618400"></ul></li></ul></li>
+			
+				<li id="16612869" class="cmnt-root" data="74" data-d="1649744479000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">12 Apr 2022 02:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16612869" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">JOJO I GIVE YOU THE LAST OF MY POWER</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16612869" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16612869" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>77</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16612869"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16612869" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16612869"></ul></li></ul></li>
+			
+				<li id="16604504" class="cmnt-root" data="38" data-d="1649397399000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">08 Apr 2022 01:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16604504" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">SHIIIZAAAAAAAAAAAAA</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16604504" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16604504" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>40</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16604504"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16604504" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16604504"></ul></li></ul></li>
+			
+				<li id="16590558" class="cmnt-root" data="2" data-d="1649062210000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">04 Apr 2022 04:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16590558" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is east of where it is marked on the map.  just an FYI.  it should be placed with the Merchant.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16590558" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16590558" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16590558"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16590558" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16590558"></ul></li></ul></li>
+			
+				<li id="16584071" class="cmnt-root" data="7" data-d="1648718794000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">31 Mar 2022 05:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16584071" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Pop the bubble! Pop the bubble! Pop the bubble! You can&apos;t hurt Bubble buddy, he&apos;s my friend!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16584071" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16584071" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16584071"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16584071" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16584071"></ul></li></ul></li>
+			
+				<li id="16580657" class="cmnt-root" data="2" data-d="1648630070000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">30 Mar 2022 04:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16580657" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">god damn fightinggame fireball, this one</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16580657" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16580657" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16580657"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16580657" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16580657"></ul></li></ul></li>
+			
+				<li id="16573773" class="cmnt-root" data="8" data-d="1648452538000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">28 Mar 2022 03:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16573773" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I tried making this my main spell. While the range, tracking, and damage is good, its travel speed and more importantly dreadfully slow casting speed make it unplayable against bosses. You need something to hold aggro so you can shoot. So its situational useful I suppose. But it couldnt give me the arcane-based mage I hoped for.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16573773" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16573773" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16573773"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16573773" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16573773"></ul></li></ul></li>
+			
+				<li id="16567956" class="cmnt-root" data="1" data-d="1648176737000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">24 Mar 2022 22:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16567956" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This thing might have a longer cast time and move slow but it is a literal homing nuke. In invasions if you can apply pressure with other spells or the PVE of the level then you can one shot lower vigor hosts and summons.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16567956" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16567956" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16567956"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16567956" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16567956"></ul></li></ul></li>
+			
+				<li id="16566437" class="cmnt-root" data="0" data-d="1648109166000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">24 Mar 2022 04:06</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16566437" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does this actually count as an invisibility spell that gets buffed by Staff of Loss? I guess it makes sense. It fits into the assassin mage playstyle.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16566437" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16566437" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16566437"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16566437" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16566437"></ul></li></ul></li>
+			
+				<li id="16564687" class="cmnt-root" data="19" data-d="1648033900000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">23 Mar 2022 07:11</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16564687" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does this get buffed by the Envoy Crown? Im tempted to run a bubble build</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16564687" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16564687" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>22</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16564687"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16564687" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16564687"></ul></li></ul></li>
+			
+				<li id="16548901" class="cmnt-root" data="21" data-d="1647868838000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">21 Mar 2022 09:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16548901" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Great for the Wooper build. it&apos;s a shame aqua-tail (aspects of the crucible: tail) is an incantation</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16548901" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16548901" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>23</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16548901"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16548901" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16548901"></ul></li></ul></li>
+			
+				<li id="16548806" class="cmnt-root" data="-1" data-d="1647868804000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">21 Mar 2022 09:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16548806" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Great for the Wooper build. it&apos;s a shame aqua-tail (aspects of the crucible: tail) is an incantation</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16548806" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16548806" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16548806"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16548806" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16548806"></ul></li></ul></li>
+			
+				<li id="16547204" class="cmnt-root" data="3" data-d="1647864199000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">21 Mar 2022 08:03</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16547204" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">With the base arcane and high int, this bubble hits like a truck. It’s balanced by having a long cast time but great for pulling ads or getting the drop on people. Pretty long range but slow.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16547204" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16547204" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16547204"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16547204" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16547204"></ul></li></ul></li>
+			
+				<li id="16526472" class="cmnt-root" data="21" data-d="1647514877000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">17 Mar 2022 07:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16526472" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Ridiculously good Damage / FP ratio</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16526472" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16526472" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>22</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16526472"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16526472" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16526472"></ul></li></ul></li>
+			
+				<li id="16513051" class="cmnt-root" data="67" data-d="1647341476000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">15 Mar 2022 06:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16513051" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Bubble.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16513051" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16513051" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>69</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16513051"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16513051" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16513051"></ul></li></ul></li>
+			
+				<li id="16508005" class="cmnt-root" data="8" data-d="1647255692000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">14 Mar 2022 07:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16508005" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">How does the range compare to Loretta&apos;s Greatbow?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16508005" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16508005" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16508005"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16508005" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16508005"></ul></li></ul></li>
+			
+				<li id="16498907" class="cmnt-root" data="39" data-d="1647140417000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">12 Mar 2022 22:00</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16498907" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This BUBBLE so big and mysterious. The only one arcane magic. Why is it even here.... The faith arcane spel made up of blood fire ice rotten holy and dark power. The Mages have 2 bubbles....</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16498907" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16498907" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>42</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16498907"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16498907" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16498907"></ul></li></ul></li>
+			
+				<li id="16480344" class="cmnt-root" data="26" data-d="1646799908000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">08 Mar 2022 23:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16480344" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">i cant get the AOE to work but this spell is an absolute FP to Damage POWERHOUSE. If you can get guaranteed hits safely its the fastest way to farm high HP enemies and cheese bosses. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16480344" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16480344" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>27</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16480344"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16480344" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16480344"></ul></li></ul></li>
+			
+				<li id="16477153" class="cmnt-root" data="1" data-d="1646791780000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">08 Mar 2022 21:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16477153" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I started using this recently. It&apos;s okay. Definitely hindered by it&apos;s long cast time so not very useful during rapid encounters. However, if you can find the space and timing to cast a fully charged orb the damage is devastating to smaller mobs and may knock down larger mobs. This is definitely a &quot;bomb&quot; in the sense that you won&apos;t be rapidly firing these off.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16477153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16477153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16477153"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16477153" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16477153"></ul></li></ul></li>
+			
+				<li id="16466277" class="cmnt-root" data="3" data-d="1646648482000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">07 Mar 2022 05:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16466277" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The spell wasn&apos;t usable when I invaded. I would like to know why?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16466277" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16466277" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16466277"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16466277" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16466277"></ul></li></ul></li>
+			
+				<li id="16452381" class="cmnt-root" data="36" data-d="1646411322000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">04 Mar 2022 11:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16452381" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Definitely worth the 8 points in Arcane IMHO. It is slightly more FP efficient than Glintstone Pebble in any scenario where you would need 3 or more casts of the latter, it has crazy long range, and a huge AoE. It&apos;s not meant to be used in the heat of combat of course, but if you have time to set up an ambush this spell can severely weaken or outright kill a lot of otherwise tricky enemies long before they manage to reach you.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16452381" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16452381" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>38</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16452381"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16452381" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16452381"></ul></li></ul></li>
+			
+				<li id="16451559" class="cmnt-root" data="14" data-d="1646399159000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">04 Mar 2022 08:05</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16451559" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Has anyone looked at the damage the bubble spells do and how they scale? Like - are they weak because maybe they need deeper arcane stats to do better?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16451559" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16451559" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>15</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16451559"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16451559" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16451559"></ul></li></ul></li>
+			
+				<li id="16445369" class="cmnt-root" data="5" data-d="1646372025000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">04 Mar 2022 00:33</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16445369" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Crazy dmg for its FP cost and decent explosion radius but its casting speed and the projectile speed are ridiculously slow. If you already have 18 arcane, it will be quite useful in some situations, but if you&apos;re raising arcane just so that you could use this spell, it&apos;s a pretty bad idea.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16445369" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16445369" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16445369"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16445369" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16445369"></ul></li></ul></li>
+			
+				<li id="16437251" class="cmnt-root" data="-18" data-d="1646275330000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">02 Mar 2022 21:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16437251" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I spent nearly a full hour looking for this spell. Found it just to realize it&apos;s super duper bad. If you&apos;re reading this to look for help finding it, there&apos;s a few guides on youtube, but really I just wouldn&apos;t bother.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16437251" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16437251" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>18</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16437251"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16437251" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16437251"></ul></li></ul></li>
+			
+				<li id="16436194" class="cmnt-root" data="4" data-d="1646229534000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">02 Mar 2022 08:58</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16436194" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">My favourite spell to snipe. Sadly, it&apos;s very situational. You need to &quot;feel&quot; how far will it go and how big the explosion is. If placed correctly, it can wipe out a whole group of mobs. It&apos;s best to use as a sniping spell. I&apos;m kinda biased to be honest so take what I say with a grain of salt.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16436194" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16436194" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16436194"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16436194" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16436194"></ul></li></ul></li>
+			
+				<li id="16428689" class="cmnt-root" data="6" data-d="1646114396000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">01 Mar 2022 00:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16428689" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">In the river (not the city level), go to the fallen over pillar you walk along (ghost archer is on it) and take the waygate. This puts you on the same layer of river as the dragonkin solider. This spell is to the left in a little insert filled with zombies.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16428689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16428689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16428689"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16428689" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16428689"></ul></li></ul></li>
+			
+				<li id="16428086" class="cmnt-root" data="0" data-d="1646109940000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">28 Feb 2022 23:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16428086" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Found a good video showing where to get it https://www.youtube.com/watch?v=WVVjckI6vFE</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16428086" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16428086" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16428086"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16428086" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16428086"></ul></li></ul></li>
+			
+				<li id="16425913" class="cmnt-root" data="2" data-d="1646055464000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t579149/Great-Oracular-Bubble" rel="nofollow" target="_blank">28 Feb 2022 08:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=193&p=16425913" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Has anyone actually found this spell yet? I&apos;ve found the regular oracle bubbles. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16425913" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16425913" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16425913"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16425913" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16425913"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Elden+Ring+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/Tz2DYReRUa" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+
+
+var params = {};
+var ximapa = document.getElementById('ximap0');
+var ximapb = document.getElementById('ximap1');
+var ximapc = document.getElementById('ximap2');
+if (ximapa != null || ximapb != null || ximapc != null) {
+    window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m, key, value) {
+        params[key] = value;
+    });
+}
+
+if (ximapa != null) {
+    if (params != null && params.id != null) {
+        ximapa.src = ximapa.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapb != null) {
+    if (params != null && params.id != null) {
+        ximapb.src = ximapb.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (ximapc != null) {
+    if (params != null && params.id != null) {
+        ximapc.src = ximapc.src + '?id=' + params.id + '&lat=' + params.lat + '&lng=' + params.lng + '&zoom=' + params.zoom;
+    }
+}
+if (params != null && params.code != null && params.code == 'mapB') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+        if (mapA != null && mapB != null) {
+                $('#mapA').hide();
+                $('#mapB').show();
+        }
+}
+if (params != null && params.code != null && params.code == 'mapC') {
+        var mapA = $('#mapA');
+        var mapB = $('#mapB');
+	var mapC = $('#mapC');
+        if (mapA != null && mapB != null && mapC != null) {
+                $('#mapA').hide();
+                $('#mapC').show();
+        }
+}
+
+
+
+});
+
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7737efd81aefa208","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>
