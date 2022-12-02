@@ -62,7 +62,7 @@ def createTitle(fname, title=None):
 if __name__ == "__main__":
 
     if len(sys.argv) != 3:
-        print("Use:\n\tpython3 wikiReader.py <input directory path> <output file path>")
+        print("Use:\n\tpython3 wikiReader.py <inputs directory path> <output file path>")
         sys.exit()
 
     # Create title for tsv file
