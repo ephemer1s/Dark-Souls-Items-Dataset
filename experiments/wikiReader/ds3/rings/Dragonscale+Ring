@@ -1,0 +1,1302 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Dragonscale Ring is a Ring in Dark Souls 3. Dragonscale Ring location, effects, lore, notes and tips for Dark Souls 3." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://darksouls3.wiki.fextralife.com/Dragonscale+Ring" />
+		<title>Dragonscale Ring | Dark Souls 3 Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Dark-Souls-3/dks3favicon-310.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=00004e">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004e">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=0003az">
+		<link rel="stylesheet" href="/xcss/styles.css?js=0003az">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Dark Souls 3 Wiki" />
+			<meta property="og:title" content="Dragonscale Ring | Dark Souls 3 Wiki" />
+			<meta property="og:description" content="Dragonscale Ring is a Ring in Dark Souls 3. Dragonscale Ring location, effects, lore, notes and tips for Dark Souls 3." />
+			<meta property="og:url" content="https://darksouls3.wiki.fextralife.com/Dragonscale+Ring" />
+			<meta property="og:image" content="https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/dragonscale_ring.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+		
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = 'aaf8ad9b-f903-442a-8278-d073a0b3fd9f';
+			pagex['wikiName'] = 'Dark+Souls+3'; 
+			pagex['wikiTitle'] = 'Dark Souls 3';
+			pagex['pageId'] = '190c0179-e4e8-402f-a4c9-3a95dcc941ae';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1613996105000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = true;
+			var grc = '6LeHAAkUAAAAAOJfOLOZ2x6NLhAnsz_F9YRG0xxK';
+			var cx = '013854915774803668174:ebtpsc_yloq';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://darksouls3.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Dark+Souls+3+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Dark-Souls-3/DKS3WikiLogo3.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Dark Souls 3 Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Demo/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span><span class="hidden-lg">Wiki </span>Home<span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Dark+Souls+3+Wiki" itemprop="url"><span class="navsprite miniring"></span>Wiki Home</a></li> 
+   <li> <a href="/Media+&amp;+Community" itemprop="url"><span class="navsprite miniring"></span>Media &amp; Community</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Media+&amp;+Art" itemprop="url"><span class="navsprite miniring"></span>Media &amp; Art<span class="navsprite arrowright"></span></a> 
+      <ul class="subsub"> 
+       <li> <a href="/Streams+Index" itemprop="url">Streams Index</a> </li> 
+       <li> <a href="/Fan+Art" itemprop="url">Fan Art</a> </li> 
+       <li> <a href="/Comedy" itemprop="url">Comedy</a> </li> 
+      </ul> </li> 
+     <li> <a href="https://fextralife.com/forums/f83/dark-souls-iii/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Forums</a> </li> 
+     <li> <a href="/Chatroom" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Chatroom</a> </li> 
+     <li> <a href="/Player+IDs" itemprop="url"><span class="navsprite miniring"></span>Player IDs<span class="navsprite arrowright"></span></a> 
+      <ul class="subsub"> 
+       <li> <a href="/Steam+Ids" itemprop="url">Steam</a> </li> 
+       <li> <a href="/Playstation+Network+Ids" itemprop="url">Playstation Network</a> </li> 
+       <li> <a href="/Xbox+Live+Ids" itemprop="url">Xbox Live</a> </li> 
+      </ul> </li> 
+     <li> <a href="/Community+Events" itemprop="url"><span class="navsprite miniring"></span>Community Events</a> </li> 
+     <li> <a href="/YouTube+Partners" itemprop="url"><span class="navsprite miniring"></span>YouTube Partners</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Forums" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Dark+Souls+3" itemprop="url"><span class="navsprite miniring"></span>Dark Souls 3<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patches" itemprop="url">Patch Notes</a> </li> 
+     <li> <a href="/Controls" itemprop="url">Controls</a> </li> 
+     <li> <a href="/Reviews" itemprop="url">Reviews</a> </li> 
+     <li> <a href="/Pre-Release+Information" itemprop="url">Pre-Release Information</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Illusory+Walls" itemprop="url">Illusory Walls</a> </li> 
+     <li> <a href="/Rare+Items" itemprop="url">Rare Items</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Bonfires" itemprop="url"><span class="navsprite miniring"></span>Bonfires</a> </li> 
+   <li> <a href="/Lord+of+Cinder" itemprop="url"><span class="navsprite miniring"></span>Lord of Cinder</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Gifts" itemprop="url"><span class="navsprite miniring"></span>Gifts</a> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Stat+Calculators" itemprop="url">Stat Calculators</a> </li> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic" itemprop="url"><span class="navsprite miniring"></span>Spells<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Miracles" itemprop="url">Miracles</a> </li> 
+     <li> <a href="/Pyromancies" itemprop="url">Pyromancies</a> </li> 
+     <li> <a href="/Sorceries" itemprop="url">Sorceries</a> </li> 
+     <li> <a href="/Int-Faith+Staff+Magic+Adjustments" itemprop="url">Int-Faith Magic Adjustments</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Soul+Transposition" itemprop="url"><span class="navsprite miniring"></span>Soul Transposition</a> </li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Boss+Soul+Weapons" itemprop="url">Boss Souls Weapons</a> </li> 
+     <li> <a href="/Flames" itemprop="url">Flames</a> </li> 
+     <li> <a href="/Staves" itemprop="url">Staves</a> </li> 
+     <li> <a href="/Chimes" itemprop="url">Chimes</a> </li> 
+     <li> <a href="/Talismans" itemprop="url">Talismans</a> </li> 
+     <li> <a href="/Weapon+Attack+Rating+&amp;+Scaling+Calculator" itemprop="url">Attack Rating Calculator</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a> </li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Hollow+Arena" itemprop="url"><span class="navsprite miniring"></span>Hollow Arena</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Bonfires" itemprop="url">Bonfires</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+     <li> <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Tools+&amp;+Calculators" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator</a> </li> 
+   <li> <a href="/Weapon+Attack+Rating+&amp;+Scaling+Calculator" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/Armor+Optimizer" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li> 
+   <li> <a href="/Mechanics+Research" itemprop="url"><span class="navsprite miniring"></span>Mechanics Research</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name">
+<a href="/Dark+Souls+3+Wiki" itemprop="url"><span class="navsprite home"></span>Wiki Home</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Media+&+Community" itemprop="url"><span class="navsprite miniring"></span>Media & Community</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Media+&+Art" itemprop="url"><span class="navsprite miniring"></span>Media & Art<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Streams+Index" itemprop="url">Streams Index</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Fan+Art" itemprop="url">Fan Art</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Comedy" itemprop="url">Comedy</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/forums/f83/dark-souls-iii/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Forums</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chatroom" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Chatroom</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Player+IDs" itemprop="url"><span class="navsprite miniring"></span>Player IDs<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Steam+Ids" itemprop="url">Steam</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Playstation+Network+Ids" itemprop="url">Playstation Network</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Xbox+Live+Ids" itemprop="url">Xbox Live</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Community+Events" itemprop="url"><span class="navsprite miniring"></span>Community Events</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/YouTube+Partners" itemprop="url"><span class="navsprite miniring"></span>YouTube Partners</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Forums" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Dark+Souls+3" itemprop="url"><span class="navsprite miniring"></span>Dark Souls 3<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patches" itemprop="url">Patch Notes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url">Controls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Reviews" itemprop="url">Reviews</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Pre-Release+Information" itemprop="url">Pre-Release Information</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Illusory+Walls" itemprop="url"></span>Illusory Walls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Rare+Items" itemprop="url"></span>Rare Items</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url"></span>Skills</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bonfires" itemprop="url"><span class="navsprite miniring"></span>Bonfires</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lord+of+Cinder" itemprop="url"><span class="navsprite miniring"></span>Lord of Cinder</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gifts" itemprop="url"><span class="navsprite miniring"></span>Gifts</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Stat+Calculators" itemprop="url">Stat Calculators</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+</li>
+</ul>
+<li itemprop="name">
+<a href="/Equipment+&+Magic" itemprop="url"><span class="navsprite c"></span>Equipment & Magic</span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Magic" itemprop="url"><span class="navsprite miniring"></span>Spells<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Miracles" itemprop="url">Miracles</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Pyromancies" itemprop="url">Pyromancies</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Sorceries" itemprop="url">Sorceries</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Int-Faith+Staff+Magic+Adjustments" itemprop="url">Int-Faith Magic Adjustments</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Soul+Transposition" itemprop="url"><span class="navsprite miniring"></span>Soul Transposition</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Boss+Soul+Weapons" itemprop="url">Boss Souls Weapons</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Flames" itemprop="url">Flames</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Staves" itemprop="url">Staves</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chimes" itemprop="url">Chimes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url">Talismans</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapon+Attack+Rating+&+Scaling+Calculator" itemprop="url">Attack Rating Calculator</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+</li>
+</ul>
+<li itemprop="name">
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Hollow+Arena" itemprop="url"><span class="navsprite miniring"></span>Hollow Arena</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url"></span>Maps</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bonfires" itemprop="url">Bonfires</a>
+</li>
+</ul>
+<hr>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Guides+&+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides & Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy & Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Tools+&+Calculators" itemprop="url"><span class="navsprite g"></span>Tools & Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapon+Attack+Rating+&+Scaling+Calculator" itemprop="url"><span class="navsprite miniring"></span>Weapon AR & Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Armor+Optimizer" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Mechanics+Research" itemprop="url"><span class="navsprite miniring"></span>Mechanics Research</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="nEoymzsjZW0" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="nEoymzsjZW0" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/nEoymzsjZW0/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="aaf8ad9b-f903-442a-8278-d073a0b3fd9f" data-pid="190c0179-e4e8-402f-a4c9-3a95dcc941ae" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://darksouls3.wiki.fextralife.com/Dragonscale+Ring">Dragonscale Ring | Dark Souls 3 Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 90</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 25 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 25</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://darksouls3.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://darksouls3.wiki.fextralife.com/Rings">Rings</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center;"> <h3>Dragonscale Ring</h3> </td> 
+    </tr> 
+    <tr> 
+     <td><img style="display: block; margin-left: auto; margin-right: auto;" src="/file/Dark-Souls-3/dragonscale_ring.png" alt="" width="100" height="116"></td> 
+    </tr> 
+    <tr> 
+     <td><br> 
+      <blockquote> 
+       <p>Ring of Oceiros, former king of Lothric. Reduces damage from backstabs.</p> 
+       <p>In his later years, Oceiros became fascinated with dragons. After going mad, he was more commonly known as the Consumed King. Many assassins were dispatched to his domain, but none returned.</p> 
+       <p>The Consumed King ascribed his resilience to the divine protection of the dragon scale."</p> 
+      </blockquote> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Dragonscale Ring</strong> is a <a class="wiki_link" href="/Rings">Ring</a> in <strong>Dark Souls 3</strong>.</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Dragonscale Ring Effect</h3> 
+<ul> 
+ <li>Reduces damage taken from backstabs by 30%.</li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Where to Find Dragonscale Ring</h3> 
+<ul> 
+ <li>Looted from a corpse in the <a class="wiki_link" title="Consumed King's Garden" href="/Consumed+King's+Garden">Consumed King's Garden</a>. It's halfway up the second lift in this area. You will need to jump off as it goes up or down. ()</li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Notes</h3> 
+<ul> 
+ <li>The Dragonscale Ring is the only effective counter against the Hornet Ring's critical boost. It is an invaluable tool if one finds themselves prone to suffering at the hand of critical attacks.</li> 
+ <li>The Dragonscale Ring will change the damage dealt by the Dark Hand's grab attack weapon art, Sacred Flame, and backstabs. With the ring on, you will take 24% less damage from the Dark Hand grab, 30% less from Sacred Flame, and 30% less from backstabs.</li> 
+ <li>When the Hornet Ring is involved, you instead take 18% less damage from the Dark Hand grab (meaning you not only negate the entire effect of the Hornet Ring, but you also negate enough damage to reduce the damage further than the "base" damage of the grab), you will take 30% less damage from Sacred Flame as normal (Hornet Ring does not affect Sacred Flame), and you will take 8.9% less damage from Backstabs (once again negating the entire Hornet Ring bonus, as well as some of the normal damage).</li> 
+ <li>Plunging attacks may or may not be affected by the Dragonscale ring. This needs more testing.</li> 
+</ul> 
+<p>&nbsp;</p> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center;"><a class="wiki_link" href="/Rings">Rings</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Aldrich's+Ruby">Aldrich's Ruby</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Aldrich's+Sapphire">Aldrich's Sapphire</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ashen+Estus+Ring">Ashen Estus Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Bellowing+Dragoncrest+Ring">Bellowing Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Bloodbite+Ring">Bloodbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Blue+Tearstone+Ring">Blue Tearstone Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Calamity+Ring">Calamity Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Carthus+Bloodring">Carthus Bloodring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Carthus+Milkring">Carthus Milkring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Chillbite+Ring">Chillbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Chloranthy+Ring">Chloranthy Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring">Covetous Gold Serpent Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring">Covetous Silver Serpent Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Cursebite+Ring">Cursebite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dark+Clutch+Ring">Dark Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring">Dark Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Darkmoon+Ring">Darkmoon Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Deep+Ring">Deep Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dusk+Crown+Ring">Dusk Crown Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Estus+Ring">Estus Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Farron+Ring">Farron Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Fire+Clutch+Ring">Fire Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring">Flame Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Fleshbite+Ring">Fleshbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Flynn's+Ring">Flynn's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Great+Swamp+Ring">Great Swamp Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Havel's+Ring">Havel's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hawk+Ring">Hawk Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hornet+Ring">Hornet Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Horsehoof+Ring">Horsehoof Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hunter's+Ring">Hunter's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight's+Ring">Knight's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight+Slayer's+Ring">Knight Slayer's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight+Slayer+Ring">Knight Slayer Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Leo+Ring">Leo Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Life+Ring">Life Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lightning+Clutch+Ring">Lightning Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring">Lingering Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lloyd's+Shield+Ring">Lloyd's Shield Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring">Lloyd's Sword Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Magic+Clutch+Ring">Magic Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring">Magic Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Morne's+Ring">Morne's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Obscuring+Ring">Obscuring Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Poisonbite+Ring">Poisonbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Pontiff's+Left+Eye">Pontiff's Left Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Pontiff's+Right+Eye">Pontiff's Right Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Priestess+Ring">Priestess Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Prisoner's+Chain">Prisoner's Chain</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Red+Tearstone">Red Tearstone</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Red+Tearstone+Ring">Red Tearstone Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Reversal+Ring">Reversal Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Favor">Ring of Favor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Sacrifice">Ring of Sacrifice</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection">Ring of Steel Protection</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye">Ring of the Evil Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+the+Sun's+First+Born">Ring of the Sun's First Born</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Sage+Ring">Sage Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Saint's+Ring">Saint's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Scholar+Ring">Scholar Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Silvercat+Ring">Silvercat Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Skull+Ring">Skull Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Draconcrest+Ring">Slumbering Draconcrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Dragon+Ring">Slumbering Dragon Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Dragoncrest+Ring">Slumbering Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring">Speckled Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Sun+Princess+Ring">Sun Princess Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring">Thunder Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Untrue+Dark+Ring">Untrue Dark Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Untrue+White+Ring">Untrue White Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Witch's+ring">Witch's ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Witch+Ring">Witch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Wolf+Ring">Wolf Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Wood+Grain+Ring">Wood Grain Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Young+Dragon+Ring">Young Dragon Ring</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Tired of anon posting? Register!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16358482" class="cmnt-root" data="23" data-d="1627098166000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">23 Jul 2021 23:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16358482" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Makes me miss the GHOST BACKPACK from ds2</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16358482" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16358482" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>23</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16358482"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16358482" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16358482"></ul></li></ul></li>
+			
+				<li id="16346876" class="cmnt-root" data="13" data-d="1623030465000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">06 Jun 2021 21:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16346876" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">How ironic the location we found this ring, is also the location we can immediately backstab an enemy lol</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16346876" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16346876" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16346876"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16346876" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16346876"></ul></li></ul></li>
+			
+				<li id="16337600" class="cmnt-root" data="4" data-d="1620156870000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">04 May 2021 15:34</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16337600" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Pretty good ring but its pretty hard to fit over other more useful rings (slot 1 and 2 are almost always favor ring and prisoner&apos;s chain) while other slots are occupied by hornet, chloranthy,havel&apos;s,life ring,etc oftenly</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16337600" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16337600" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16337600"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16337600" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16337600"></ul></li></ul></li>
+			
+				<li id="16326748" class="cmnt-root" data="1" data-d="1617632040000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">05 Apr 2021 10:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16326748" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">2021 shout-out.. I&apos;m pretty certain this ring is amazing on my duel weird weapon buffer... Most the people around now only fish and latency to skilled players hornet dagger ripostes and backestab fishing happens... The chaos dagger definitely gets a nerfed riposte from this ring.. as it no longer is garanteed to break my tears </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16326748" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16326748" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16326748"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16326748" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16326748"></ul></li></ul></li>
+			
+				<li id="16314715" class="cmnt-root" data="1" data-d="1614743802000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">02 Mar 2021 22:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16314715" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">useful for being a greatlance turtle</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16314715" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16314715" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16314715"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16314715" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16314715"></ul></li></ul></li>
+			
+				<li id="16308188" class="cmnt-root" data="-4" data-d="1613115451000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">12 Feb 2021 02:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16308188" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This ring pretty much tells you that if you choose to me a more pure spell casterm you&apos;re gonna need to backside covered as you&apos;re backstab bait. The poisecastbois probably could use this ring too.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16308188" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16308188" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>5</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16308188"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16308188" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16308188"></ul></li></ul></li>
+			
+				<li id="16285803" class="cmnt-root" data="25" data-d="1607798150000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">12 Dec 2020 13:35</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16285803" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Useful when ganking ChaseTheBro</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16285803" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16285803" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>26</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16285803"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16285803" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16285803"></ul></li></ul></li>
+			
+				<li id="16274744" class="cmnt-root" data="7" data-d="1604898490000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">09 Nov 2020 00:08</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16274744" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Only affects PvP backstabs, PvE backstabs are unaffected</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16274744" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16274744" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16274744"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16274744" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16274744"></ul></li></ul></li>
+			
+				<li id="16245154" class="cmnt-root" data="18" data-d="1597343765000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">13 Aug 2020 14:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16245154" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Best ring for a Farron Greatsword user who tends to get little too excited with the L1 attacks.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16245154" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16245154" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>18</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16245154"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16245154" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16245154"></ul></li></ul></li>
+			
+				<li id="16217343" class="cmnt-root" data="52" data-d="1590348429000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">24 May 2020 15:27</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16217343" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Perfect for garbage players like myself</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16217343" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16217343" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>52</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16217343"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16217343" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16217343"></ul></li></ul></li>
+			
+				<li id="16200676" class="cmnt-root" data="20" data-d="1586588831000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">11 Apr 2020 03:07</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16200676" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It&apos;d be a lot more interesting if this ring worked on general critical damage rather than just backstabs. Swapping to this when you see someone trying to set up a parry would add some more depth to the fight.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16200676" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16200676" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>20</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16200676"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16200676" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16200676"></ul></li></ul></li>
+			
+				<li id="16154662" class="cmnt-root" data="52" data-d="1570966970000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">13 Oct 2019 07:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16154662" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">one thing people forget that if someone uses a hornet ring that gives 100% + 30% = 130% and if you counter it with this ring it doesnt bring it back to 100% because 30% of 130 isnt 30 but 39. if you dont undersant: you counter the entire hornet ring AND an addicional 9% of the damage</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16154662" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16154662" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>52</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16154662"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16154662" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16154662"></ul></li></ul></li>
+			
+				<li id="16138589" class="cmnt-root" data="4" data-d="1565567564000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">11 Aug 2019 19:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16138589" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Hawkwood the Deserter wears this ring,</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16138589" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16138589" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16138589"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16138589" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16138589"></ul></li></ul></li>
+			
+				<li id="16124669" class="cmnt-root" data="5" data-d="1559148626000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 May 2019 12:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16124669" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The doors best friend. You can&apos;t get parried with them anyway.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16124669" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16124669" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16124669"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16124669" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16124669"></ul></li></ul></li>
+			
+				<li id="16117271" class="cmnt-root" data="41" data-d="1556436675000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">28 Apr 2019 03:31</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16117271" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Am I the only one dissapointed that its not a ghost on your back like DS2?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16117271" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16117271" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>41</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16117271"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16117271" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16117271"></ul></li></ul></li>
+			
+				<li id="16098383" class="cmnt-root" data="5" data-d="1551686956000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">04 Mar 2019 03:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16098383" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Doesnt work for ripostes by the way, should probably change that. Tested it today with a friend, only works on backstabs</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16098383" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16098383" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16098383"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16098383" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16098383"></ul></li></ul></li>
+			
+				<li id="16095800" class="cmnt-root" data="-2" data-d="1550590435000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">19 Feb 2019 10:33</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16095800" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Wait, is this only for backstabs or does it decrease riposte dmage too? Would this help against Hollowslayer builds spamming r1 for crits?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16095800" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16095800" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">11</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16095800"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16095800" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16095800"></ul></li></ul></li>
+			
+				<li id="16078034" class="cmnt-root" data="12" data-d="1542900398000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">22 Nov 2018 10:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16078034" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I would think this would be helpful in Spear of the Church ganks what with all the hosts with 3 phantoms n crap</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16078034" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16078034" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>12</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16078034"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16078034" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16078034"></ul></li></ul></li>
+			
+				<li id="16076410" class="cmnt-root" data="9" data-d="1542092444000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">13 Nov 2018 02:00</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16076410" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">If someone is spamming parries praying for a lucky shot, just throw this on your last ring slot rather than whatever other throwaway ring you have there. Ignore all the git gud bull*****from kids who have never invaded in their life, any decent invader will be swapping their last ring around during an invasion anyway. I&apos;ll take a 300 point damage reduction from a 1,000HP spammer attack over an extra dash of stamina regen any day.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16076410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16076410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16076410"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16076410" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16076410"></ul></li></ul></li>
+			
+				<li id="16068153" class="cmnt-root" data="-29" data-d="1538200817000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 Sep 2018 02:00</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16068153" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">this ring is a false hope. if you are gud you avoid getting critted. If you are aren&apos;t gud you will be critted until you are dead.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16068153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16068153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">5</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>32</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16068153"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16068153" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16068153"></ul></li></ul></li>
+			
+				<li id="16061587" class="cmnt-root" data="6" data-d="1535618069000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/68914_1537046680.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=68914" rel="nofollow"  target="_blank" style="color: #;">Polyedra</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">30 Aug 2018 04:34</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16061587" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This is a good defensive ring if you can fit it. Anyone can get backstabbed these days and this ring will ease the hurt. In particular ultra users should get out of their way to open a slot for this ring, in my opinion. (I never ultra but I sometimes backstab those who do)</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16061587" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16061587" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16061587"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16061587" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16061587"></ul></li></ul></li>
+			
+				<li id="16033271" class="cmnt-root" data="-17" data-d="1526001253000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">10 May 2018 21:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16033271" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This ring is only good on an ugs build since they are the most prone to backstabs. And if you get backstabbed with any with any other build,  it was likely due to your own stupidity.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16033271" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16033271" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>19</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16033271"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16033271" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16033271"></ul></li></ul></li>
+			
+				<li id="16031941" class="cmnt-root" data="32" data-d="1525406404000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">04 May 2018 00:00</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16031941" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">30% seems too low for such a highly specialized ring. The damage reduction should be at least 50%.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16031941" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16031941" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>36</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16031941"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16031941" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16031941"></ul></li></ul></li>
+			
+				<li id="15981857" class="cmnt-root" data="-12" data-d="1508096564000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">15 Oct 2017 15:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15981857" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I find I always end up with one of three sets of Rings when I do a Build.<br/><br/>Favor, Havels, Chloranthony, SITUATIONAL<br/>Favor, Speckled Stoneplate, Knight Slayers, SITUATIONAL<br/>Favor, Wolf, Dragonscale, SITUATIONAL</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15981857" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15981857" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15981857"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15981857" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15981857"></ul></li></ul></li>
+			
+				<li id="15935039" class="cmnt-root" data="0" data-d="1493445113000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 Apr 2017 01:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15935039" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I started maining this in group PvP cuz I&apos;m usually using soothing sunlight to cover my partner. People literally don&apos;t stop trying to backstab when they see casters. Also it&apos;s good for people who fish. Honestly I wish the left backstab fishing in DS1 and PvE. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15935039" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15935039" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15935039"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15935039" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15935039"></ul></li></ul></li>
+			
+				<li id="15876736" class="cmnt-root" data="13" data-d="1480420398000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 Nov 2016 06:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15876736" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Seems to reduce all crit-damage (though not sure if all by 30%) It let me survive a hornet riposte so it definitely does something.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15876736" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15876736" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>14</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15876736"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15876736" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15876736"></ul></li></ul></li>
+			
+				<li id="15800796" class="cmnt-root" data="13" data-d="1473576664000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">11 Sep 2016 02:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15800796" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I tried getting backstabbed by enemies with and without this ring equipped and there was no damage difference whatsoever. Can else confirm this?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15800796" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15800796" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15800796"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15800796" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15800796"></ul></li></ul></li>
+			
+				<li id="15784552" class="cmnt-root" data="7" data-d="1463860947000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">21 May 2016 16:02</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15784552" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">so is it only backstabs and not frontal ripostes?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15784552" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15784552" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">9</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15784552"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15784552" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15784552"></ul></li></ul></li>
+			
+				<li id="15778092" class="cmnt-root" data="63" data-d="1462403987000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">04 May 2016 19:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15778092" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">against MLG pro godfathers swinging their bucklers like they are trying to fly</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15778092" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15778092" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>64</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15778092"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15778092" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15778092"></ul></li></ul></li>
+			
+				<li id="15776120" class="cmnt-root" data="33" data-d="1462146957000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">01 May 2016 19:55</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15776120" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I tested the different crit with my friend while the dragonscale ring was equipped and it also reduced the damage from the parry, the poise break and the plunging attack</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15776120" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15776120" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>35</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15776120"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15776120" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15776120"></ul></li></ul></li>
+			
+				<li id="15766100" class="cmnt-root" data="0" data-d="1461164109000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">20 Apr 2016 10:55</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15766100" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does anyone know if this affects any other critical types (i.e. headshots, or guard-breaks)?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15766100" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15766100" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15766100"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15766100" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15766100"></ul></li></ul></li>
+			
+				<li id="15764242" class="cmnt-root" data="-2" data-d="1461058741000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">19 Apr 2016 05:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15764242" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I can imagine people using this ring while using Iron Flesh</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15764242" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15764242" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15764242"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15764242" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15764242"></ul></li></ul></li>
+			
+				<li id="15759514" class="cmnt-root" data="4" data-d="1460824309000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">16 Apr 2016 12:31</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15759514" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">A bit shoddy guidance here but will try my best.After defeating the dancer and lowering the ladder, climb up it and take a left. Infront of you will be a knight, and behind him an elevator towards ocerious.After reaching the ground floor you&apos;ll want to stick to the right after finishing up any hostiles. No need to hug the wall in the toxic puddles though.After a while you&apos;ll reach a shortcut elevator, ride it half way and jump off. A few meteres ahead will be the ring along with a priest.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15759514" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15759514" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15759514"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15759514" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15759514"></ul></li></ul></li>
+			
+				<li id="15749137" class="cmnt-root" data="1" data-d="1459253939000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 Mar 2016 08:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15749137" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">from EZSPECIAL via /r/DarkSouls3JPN sent 19 minutes agoMight be wrong but isn&apos;t that the one you get by dropping off the lift near oceiros? The one you use as a shortcut to get back to oceiros boss room, from the dancer bonfire</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15749137" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15749137" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15749137"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15749137" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15749137"></ul></li></ul></li>
+			
+				<li id="15749053" class="cmnt-root" data="2" data-d="1459230775000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t529949/Dragonscale-Ring" rel="nofollow" target="_blank">29 Mar 2016 01:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15749053" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I only need this ring I think, any ideas. I think I looked everywhere</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15749053" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15749053" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15749053"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15749053" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15749053"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Dark+Souls+3+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/s7SvMmf" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/s7SvMmf" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						<li style="display: none;"><span class="glyphicon glyphicon-user" style="margin-right: 0.36em;"></span><strong><span class="onlineusers"></span></strong> Ashen Ones Online</li>
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+});
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"773f6ba03fd35401","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>

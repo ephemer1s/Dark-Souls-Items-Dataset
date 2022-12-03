@@ -1,0 +1,1335 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Lloyd's Sword Ring is a Ring in Dark Souls 3. Lloyd's Sword Ring location, effects, lore, notes and tips for Dark Souls 3." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring" />
+		<title>Lloyd's Sword Ring | Dark Souls 3 Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Dark-Souls-3/dks3favicon-310.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=00004e">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004e">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=0003az">
+		<link rel="stylesheet" href="/xcss/styles.css?js=0003az">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Dark Souls 3 Wiki" />
+			<meta property="og:title" content="Lloyd's Sword Ring | Dark Souls 3 Wiki" />
+			<meta property="og:description" content="Lloyd's Sword Ring is a Ring in Dark Souls 3. Lloyd's Sword Ring location, effects, lore, notes and tips for Dark Souls 3." />
+			<meta property="og:url" content="https://darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring" />
+			<meta property="og:image" content="https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/lloyds_sword_ring.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+		
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = 'aaf8ad9b-f903-442a-8278-d073a0b3fd9f';
+			pagex['wikiName'] = 'Dark+Souls+3'; 
+			pagex['wikiTitle'] = 'Dark Souls 3';
+			pagex['pageId'] = '5742e1c2-0182-455f-b545-4067b247f84a';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1590739705000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = true;
+			var grc = '6LeHAAkUAAAAAOJfOLOZ2x6NLhAnsz_F9YRG0xxK';
+			var cx = '013854915774803668174:ebtpsc_yloq';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://darksouls3.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Dark-Souls-3---pl/dks3background.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Dark+Souls+3+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Dark-Souls-3/DKS3WikiLogo3.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Dark Souls 3 Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Demo/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span><span class="hidden-lg">Wiki </span>Home<span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Dark+Souls+3+Wiki" itemprop="url"><span class="navsprite miniring"></span>Wiki Home</a></li> 
+   <li> <a href="/Media+&amp;+Community" itemprop="url"><span class="navsprite miniring"></span>Media &amp; Community</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Media+&amp;+Art" itemprop="url"><span class="navsprite miniring"></span>Media &amp; Art<span class="navsprite arrowright"></span></a> 
+      <ul class="subsub"> 
+       <li> <a href="/Streams+Index" itemprop="url">Streams Index</a> </li> 
+       <li> <a href="/Fan+Art" itemprop="url">Fan Art</a> </li> 
+       <li> <a href="/Comedy" itemprop="url">Comedy</a> </li> 
+      </ul> </li> 
+     <li> <a href="https://fextralife.com/forums/f83/dark-souls-iii/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Forums</a> </li> 
+     <li> <a href="/Chatroom" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Chatroom</a> </li> 
+     <li> <a href="/Player+IDs" itemprop="url"><span class="navsprite miniring"></span>Player IDs<span class="navsprite arrowright"></span></a> 
+      <ul class="subsub"> 
+       <li> <a href="/Steam+Ids" itemprop="url">Steam</a> </li> 
+       <li> <a href="/Playstation+Network+Ids" itemprop="url">Playstation Network</a> </li> 
+       <li> <a href="/Xbox+Live+Ids" itemprop="url">Xbox Live</a> </li> 
+      </ul> </li> 
+     <li> <a href="/Community+Events" itemprop="url"><span class="navsprite miniring"></span>Community Events</a> </li> 
+     <li> <a href="/YouTube+Partners" itemprop="url"><span class="navsprite miniring"></span>YouTube Partners</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Forums" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Dark+Souls+3" itemprop="url"><span class="navsprite miniring"></span>Dark Souls 3<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Patches" itemprop="url">Patch Notes</a> </li> 
+     <li> <a href="/Controls" itemprop="url">Controls</a> </li> 
+     <li> <a href="/Reviews" itemprop="url">Reviews</a> </li> 
+     <li> <a href="/Pre-Release+Information" itemprop="url">Pre-Release Information</a> </li> 
+    </ul> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Illusory+Walls" itemprop="url">Illusory Walls</a> </li> 
+     <li> <a href="/Rare+Items" itemprop="url">Rare Items</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Skills" itemprop="url">Skills</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Bonfires" itemprop="url"><span class="navsprite miniring"></span>Bonfires</a> </li> 
+   <li> <a href="/Lord+of+Cinder" itemprop="url"><span class="navsprite miniring"></span>Lord of Cinder</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Gifts" itemprop="url"><span class="navsprite miniring"></span>Gifts</a> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Stat+Calculators" itemprop="url">Stat Calculators</a> </li> 
+     <li> <a href="/Status+Effects" itemprop="url">Status Effects</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a> </li> 
+   <li> <a href="/Magic" itemprop="url"><span class="navsprite miniring"></span>Spells<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Miracles" itemprop="url">Miracles</a> </li> 
+     <li> <a href="/Pyromancies" itemprop="url">Pyromancies</a> </li> 
+     <li> <a href="/Sorceries" itemprop="url">Sorceries</a> </li> 
+     <li> <a href="/Int-Faith+Staff+Magic+Adjustments" itemprop="url">Int-Faith Magic Adjustments</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Soul+Transposition" itemprop="url"><span class="navsprite miniring"></span>Soul Transposition</a> </li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Boss+Soul+Weapons" itemprop="url">Boss Souls Weapons</a> </li> 
+     <li> <a href="/Flames" itemprop="url">Flames</a> </li> 
+     <li> <a href="/Staves" itemprop="url">Staves</a> </li> 
+     <li> <a href="/Chimes" itemprop="url">Chimes</a> </li> 
+     <li> <a href="/Talismans" itemprop="url">Talismans</a> </li> 
+     <li> <a href="/Weapon+Attack+Rating+&amp;+Scaling+Calculator" itemprop="url">Attack Rating Calculator</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armor" itemprop="url">Chest Armor</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leg+Armor" itemprop="url">Leg Armor</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Consumables" itemprop="url">Consumables</a> </li> 
+     <li> <a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a> </li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/Hollow+Arena" itemprop="url"><span class="navsprite miniring"></span>Hollow Arena</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+     <li> <a href="/Bonfires" itemprop="url">Bonfires</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a> </li> 
+   <li> <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies<span class="navsprite arrowright"></span></a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+     <li> <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a> </li> 
+   <li> <a href="/Trophy+&amp;+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy &amp; Achievement Guide</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite g"></span>Tools<span class="hidden-lg"> &amp; Calculators</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Tools+&amp;+Calculators" itemprop="url"><span class="navsprite miniring"></span>Tools &amp; Calculators</a></li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator</a> </li> 
+   <li> <a href="/Weapon+Attack+Rating+&amp;+Scaling+Calculator" itemprop="url"><span class="navsprite miniring"></span>Weapon AR &amp; Scaling Calculator</a> </li> 
+   <li> <a href="/Armor+Optimizer" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a> </li> 
+   <li> <a href="/Mechanics+Research" itemprop="url"><span class="navsprite miniring"></span>Mechanics Research</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li itemprop="name">
+<a href="/Dark+Souls+3+Wiki" itemprop="url"><span class="navsprite home"></span>Wiki Home</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Media+&+Community" itemprop="url"><span class="navsprite miniring"></span>Media & Community</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Media+&+Art" itemprop="url"><span class="navsprite miniring"></span>Media & Art<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Streams+Index" itemprop="url">Streams Index</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Fan+Art" itemprop="url">Fan Art</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Comedy" itemprop="url">Comedy</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/forums/f83/dark-souls-iii/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Forums</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chatroom" itemprop="url"><span class="navsprite miniring"></span>Dark Souls III Chatroom</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Player+IDs" itemprop="url"><span class="navsprite miniring"></span>Player IDs<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Steam+Ids" itemprop="url">Steam</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Playstation+Network+Ids" itemprop="url">Playstation Network</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Xbox+Live+Ids" itemprop="url">Xbox Live</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Community+Events" itemprop="url"><span class="navsprite miniring"></span>Community Events</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/YouTube+Partners" itemprop="url"><span class="navsprite miniring"></span>YouTube Partners</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Forums" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/Shop/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Dark+Souls+3" itemprop="url"><span class="navsprite miniring"></span>Dark Souls 3<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Patches" itemprop="url">Patch Notes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url">Controls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Reviews" itemprop="url">Reviews</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Pre-Release+Information" itemprop="url">Pre-Release Information</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Secrets" itemprop="url"><span class="navsprite miniring"></span>Secrets<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Illusory+Walls" itemprop="url"></span>Illusory Walls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Rare+Items" itemprop="url"></span>Rare Items</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Controls" itemprop="url"><span class="navsprite miniring"></span>Controls</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Combat" itemprop="url"><span class="navsprite miniring"></span>Combat<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url"></span>Skills</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bonfires" itemprop="url"><span class="navsprite miniring"></span>Bonfires</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lord+of+Cinder" itemprop="url"><span class="navsprite miniring"></span>Lord of Cinder</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/FAQ" itemprop="url"><span class="navsprite miniring"></span>FAQs</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gifts" itemprop="url"><span class="navsprite miniring"></span>Gifts</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Stat+Calculators" itemprop="url">Stat Calculators</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Status+Effects" itemprop="url">Status Effects</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+</li>
+</ul>
+</li>
+</ul>
+<li itemprop="name">
+<a href="/Equipment+&+Magic" itemprop="url"><span class="navsprite c"></span>Equipment & Magic</span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Skills" itemprop="url"><span class="navsprite miniring"></span>Skills</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Magic" itemprop="url"><span class="navsprite miniring"></span>Spells<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Miracles" itemprop="url">Miracles</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Pyromancies" itemprop="url">Pyromancies</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Sorceries" itemprop="url">Sorceries</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Int-Faith+Staff+Magic+Adjustments" itemprop="url">Int-Faith Magic Adjustments</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Soul+Transposition" itemprop="url"><span class="navsprite miniring"></span>Soul Transposition</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Boss+Soul+Weapons" itemprop="url">Boss Souls Weapons</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Flames" itemprop="url">Flames</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Staves" itemprop="url">Staves</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chimes" itemprop="url">Chimes</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Talismans" itemprop="url">Talismans</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapon+Attack+Rating+&+Scaling+Calculator" itemprop="url">Attack Rating Calculator</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Helms" itemprop="url">Helms</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Chest+Armor" itemprop="url">Chest Armor</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Gauntlets" itemprop="url">Gauntlets</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Leg+Armor" itemprop="url">Leg Armor</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Key+Items" itemprop="url">Key Items</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Consumables" itemprop="url">Consumables</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Multiplayer+Items" itemprop="url">Multiplayer Items</a>
+</li>
+</ul>
+</li>
+</ul>
+<li itemprop="name">
+<a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Hollow+Arena" itemprop="url"><span class="navsprite miniring"></span>Hollow Arena</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Maps" itemprop="url"></span>Maps</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bonfires" itemprop="url">Bonfires</a>
+</li>
+</ul>
+<hr>
+<li itemprop="name">
+<a href="/Covenants" itemprop="url"><span class="navsprite miniring"></span>Covenants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Merchants" itemprop="url"><span class="navsprite miniring"></span>Merchants</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies<span class="navsprite arrowright"></span></a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Bosses" itemprop="url">Bosses</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a>
+</li>
+</ul>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Guides+&+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides & Walkthroughs</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Trophy+&+Achievement+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy & Achievement Guide</a>
+</li>
+</ul>
+</li>
+<li itemprop="name">
+<a href="/Tools+&+Calculators" itemprop="url"><span class="navsprite g"></span>Tools & Calculators</a>
+<ul class="navSubMenu">
+<li itemprop="name">
+<a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Build+Calculator" itemprop="url"><span class="navsprite miniring"></span>Build Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Weapon+Attack+Rating+&+Scaling+Calculator" itemprop="url"><span class="navsprite miniring"></span>Weapon AR & Scaling Calculator</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Armor+Optimizer" itemprop="url"><span class="navsprite miniring"></span>Armor Optimizer</a>
+<hr>
+</li>
+<li itemprop="name">
+<a href="/Mechanics+Research" itemprop="url"><span class="navsprite miniring"></span>Mechanics Research</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="nEoymzsjZW0" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="nEoymzsjZW0" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/nEoymzsjZW0/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="aaf8ad9b-f903-442a-8278-d073a0b3fd9f" data-pid="5742e1c2-0182-455f-b545-4067b247f84a" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://darksouls3.wiki.fextralife.com/Lloyd's+Sword+Ring">Lloyd's Sword Ring | Dark Souls 3 Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 97</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 22 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 22</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="https://darksouls3.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="https://darksouls3.wiki.fextralife.com/Rings">Rings</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center;"> <h3>Lloyd's Sword Ring</h3> </td> 
+    </tr> 
+    <tr> 
+     <td><img style="display: block; margin-left: auto; margin-right: auto;" src="/file/Dark-Souls-3/lloyds_sword_ring.png" alt="" width="100" height="113"></td> 
+    </tr> 
+    <tr> 
+     <td><br> 
+      <blockquote> 
+       <p>Ring given to knights of the Way of White. Depicts Allfather Lloyd's Sword of Law. <br><br>Boosts attack power when HP is full. <br><br>Much time has passed since the worship of Lloyd was common in the Way of White. The clerics of Carim had always strongly asserted that Lloyd was a derivative fraud, and that the Allfather title was self-proclaimed.</p> 
+      </blockquote> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p>&nbsp;<strong>Lloyd's Sword Ring</strong> is a <a class="wiki_link" href="/Rings">Ring</a> in <strong>Dark Souls 3</strong>.</p> 
+<p>&nbsp;</p> 
+<h3 id="toc0" class="bonfire">Lloyd's Sword Ring Effect</h3> 
+<ul> 
+ <li>Boosts <strong>Attack Rating</strong> when HP is full (over 99% HP) 
+  <ul> 
+   <li><strong>PVE</strong> =&nbsp;10%&nbsp;</li> 
+   <li><strong>PVP</strong> = 10%</li> 
+  </ul> </li> 
+ <li>Weight: 0.9</li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 id="toc1" class="bonfire"><a name="x--item Locations"></a>Where to Find Lloyd's Sword Ring</h3> 
+<ul> 
+ <li>Found at the <a class="wiki_link" title="Cathedral of the Deep" href="/Cathedral+of+the+Deep">Cathedral of the Deep</a> near the first giant you encounter that swings at you. It's on the ground on corpse as you run by.</li> 
+ <li>Watch the <a class="wiki_link" title="Fextra Video" href="https://youtu.be/iZdeJfTOiIU?t=2h11m41s">Fextra Video</a> at 2h 11mins 41 secs in.</li> 
+ <li><a class="wiki_link" href="https://youtu.be/ZE-BL52HUNY">Lloyd's Sword Ring Location</a></li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 id="toc2" class="bonfire"><a name="x--Notes"></a>Notes</h3> 
+<ul> 
+ <li>Boosts all damage dealt while the buff is active.<br>Confirmed with: <a class="wiki_link" title="Wrath of the Gods" href="/Wrath+of+the+Gods">Wrath of the Gods</a>, <a class="wiki_link" title="Sunlight Spear" href="/Sunlight+Spear">Sunlight Spear</a>, <a class="wiki_link" title="Crystal Soul Spear" href="/Crystal+Soul+Spear">Crystal Soul Spear</a>. ~12-13% damage increase.</li> 
+ <li>This does NOT work with consumable item damage (Tested with Firebombs and Throwing Knives)</li> 
+ <li>The boost to AR is effectively 10% greater. 
+  <ul> 
+   <li>Your damage gets amplified slightly more than just 10%, thanks to how defense works in this game.</li> 
+   <li>To simplify, BIG DAMAGE pierces enemy defenses VERY WELL.<br>while <span style="font-size: 8pt;">small damage</span>&nbsp;pierces enemy defenses <span style="font-size: 8pt;">very little</span>.</li> 
+  </ul> </li> 
+ <li>Tested on Hollows at High Wall of Lothric: 
+  <ul> 
+   <li>322 AR (no ring) R1 = 298 damage =&nbsp;0.925% of AR.</li> 
+   <li>354 AR (with ring) R1 = 336 damage =&nbsp;0.949% of AR.</li> 
+  </ul> </li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 id="toc3" class="bonfire"><a name="x--Trivia"></a>Trivia</h3> 
+<ul> 
+ <li>Trivia goes here</li> 
+</ul> 
+<p>&nbsp;</p> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center;"><a class="wiki_link" href="/Rings">Rings</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Aldrich's+Ruby">Aldrich's Ruby</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Aldrich's+Sapphire">Aldrich's Sapphire</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ashen+Estus+Ring">Ashen Estus Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Bellowing+Dragoncrest+Ring">Bellowing Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Bloodbite+Ring">Bloodbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Blue+Tearstone+Ring">Blue Tearstone Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Calamity+Ring">Calamity Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Carthus+Bloodring">Carthus Bloodring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Carthus+Milkring">Carthus Milkring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Chillbite+Ring">Chillbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Chloranthy+Ring">Chloranthy Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Covetous+Gold+Serpent+Ring">Covetous Gold Serpent Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Covetous+Silver+Serpent+Ring">Covetous Silver Serpent Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Cursebite+Ring">Cursebite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dark+Clutch+Ring">Dark Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dark+Stoneplate+Ring">Dark Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Darkmoon+Ring">Darkmoon Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Deep+Ring">Deep Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dragonscale+Ring">Dragonscale Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Dusk+Crown+Ring">Dusk Crown Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Estus+Ring">Estus Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Farron+Ring">Farron Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Fire+Clutch+Ring">Fire Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Flame+Stoneplate+Ring">Flame Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Fleshbite+Ring">Fleshbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Flynn's+Ring">Flynn's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Great+Swamp+Ring">Great Swamp Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Havel's+Ring">Havel's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hawk+Ring">Hawk Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hornet+Ring">Hornet Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Horsehoof+Ring">Horsehoof Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Hunter's+Ring">Hunter's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight's+Ring">Knight's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight+Slayer's+Ring">Knight Slayer's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Knight+Slayer+Ring">Knight Slayer Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Leo+Ring">Leo Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Life+Ring">Life Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lightning+Clutch+Ring">Lightning Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lingering+Dragoncrest+Ring">Lingering Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Lloyd's+Shield+Ring">Lloyd's Shield Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Magic+Clutch+Ring">Magic Clutch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Magic+Stoneplate+Ring">Magic Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Morne's+Ring">Morne's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Obscuring+Ring">Obscuring Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Poisonbite+Ring">Poisonbite Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Pontiff's+Left+Eye">Pontiff's Left Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Pontiff's+Right+Eye">Pontiff's Right Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Priestess+Ring">Priestess Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Prisoner's+Chain">Prisoner's Chain</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Red+Tearstone">Red Tearstone</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Red+Tearstone+Ring">Red Tearstone Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Reversal+Ring">Reversal Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Favor">Ring of Favor</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Sacrifice">Ring of Sacrifice</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+Steel+Protection">Ring of Steel Protection</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+the+Evil+Eye">Ring of the Evil Eye</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Ring+of+the+Sun's+First+Born">Ring of the Sun's First Born</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Sage+Ring">Sage Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Saint's+Ring">Saint's Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Scholar+Ring">Scholar Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Silvercat+Ring">Silvercat Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Skull+Ring">Skull Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Draconcrest+Ring">Slumbering Draconcrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Dragon+Ring">Slumbering Dragon Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Slumbering+Dragoncrest+Ring">Slumbering Dragoncrest Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Speckled+Stoneplate+Ring">Speckled Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Sun+Princess+Ring">Sun Princess Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Thunder+Stoneplate+Ring">Thunder Stoneplate Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Untrue+Dark+Ring">Untrue Dark Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Untrue+White+Ring">Untrue White Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Witch's+ring">Witch's ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Witch+Ring">Witch Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Wolf+Ring">Wolf Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Wood+Grain+Ring">Wood Grain Ring</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//darksouls3.wiki.fextralife.com/Young+Dragon+Ring">Young Dragon Ring</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Tired of anon posting? Register!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16789038" class="cmnt-root" data="0" data-d="1666318762000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">20 Oct 2022 22:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16789038" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">does the ring&apos;s effect stack with warcry? not terribly important but I would like to know</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16789038" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16789038" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16789038"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16789038" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16789038"></ul></li></ul></li>
+			
+				<li id="16365802" class="cmnt-root" data="25" data-d="1629477637000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">20 Aug 2021 12:40</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16365802" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I highly recommend wearing this + Sun Princess Ring as soon as you find them if this is your first playthrough of the game. Since first time players tend to move more patiently through areas and explore all the corners and paths, you will have plenty of downtime between fights to let the sun ring heal you to max HP and get the attack bonus. It&apos;s an excellent combo for regular enemies, but for boss fights, instead you should pair this ring with the Estus Ring, which will heal you extra when you use your flask, making you more likely to hit max hp when you heal during the boss fight.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16365802" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16365802" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>25</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16365802"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16365802" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16365802"></ul></li></ul></li>
+			
+				<li id="16358975" class="cmnt-root" data="9" data-d="1627301149000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">26 Jul 2021 08:05</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16358975" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This bad boy saved me in Irithyll of the Boreal Valley<br/>Gave me just enough damage to two-shot most Pontiff Knights, which made the whole area alot easier</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16358975" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16358975" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16358975"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16358975" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16358975"></ul></li></ul></li>
+			
+				<li id="16357253" class="cmnt-root" data="3" data-d="1626682148000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">19 Jul 2021 04:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16357253" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Strange. The sword in the ring reminds me of the pursuer&apos;s ultra greatsword from ds2. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16357253" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16357253" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16357253"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16357253" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16357253"></ul></li></ul></li>
+			
+				<li id="16335305" class="cmnt-root" data="0" data-d="1619554714000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">27 Apr 2021 16:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16335305" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Witch&apos;s ring is listed twice in the rings section here.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16335305" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16335305" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16335305"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16335305" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16335305"></ul></li></ul></li>
+			
+				<li id="16329014" class="cmnt-root" data="9" data-d="1618126607000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">11 Apr 2021 03:36</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16329014" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I love how patronising this page is.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16329014" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16329014" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16329014"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16329014" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16329014"></ul></li></ul></li>
+			
+				<li id="16325974" class="cmnt-root" data="3" data-d="1617429558000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">03 Apr 2021 01:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16325974" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Big very well<br/>Small berry little</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16325974" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16325974" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16325974"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16325974" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16325974"></ul></li></ul></li>
+			
+				<li id="16273755" class="cmnt-root" data="6" data-d="1604600032000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">05 Nov 2020 13:13</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16273755" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Is this ring better than the Red Tearstone Ring? Red Tearstone seems to provide a bigger buff, and both require you to be really cautious and dodge well to keep the buff. Which one is better? I&apos;ve used Lloyd&apos;s Sword Ring for most of the game, but the damage increase doesn&apos;t seem to be making much of a difference.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16273755" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16273755" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16273755"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16273755" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16273755"></ul></li></ul></li>
+			
+				<li id="16268339" class="cmnt-root" data="13" data-d="1603147416000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">19 Oct 2020 18:43</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16268339" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Perfect for bow only run</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16268339" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16268339" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16268339"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16268339" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16268339"></ul></li></ul></li>
+			
+				<li id="16257747" class="cmnt-root" data="1" data-d="1600365160000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">17 Sep 2020 13:52</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16257747" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Bubble boy build</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16257747" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16257747" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16257747"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16257747" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16257747"></ul></li></ul></li>
+			
+				<li id="16255775" class="cmnt-root" data="4" data-d="1599787208000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">10 Sep 2020 21:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16255775" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">&quot;0.949% of AR&quot;. That would be 0,336 damage.<br/>You either use percentage or an absolute multiplier.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16255775" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16255775" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16255775"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16255775" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16255775"></ul></li></ul></li>
+			
+				<li id="16246519" class="cmnt-root" data="1" data-d="1597677246000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">17 Aug 2020 11:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16246519" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">In PVE, there are too many little falls you have to take that chip off just a bit of your health to dismiss the buff, forcing you to chug</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16246519" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16246519" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16246519"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16246519" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16246519"></ul></li></ul></li>
+			
+				<li id="16213588" class="cmnt-root" data="32" data-d="1589408070000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">13 May 2020 18:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16213588" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">imagine this ring in real life, you stub your toe, get a headache or cough to hard, POOF, all your magic strength is gone</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16213588" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16213588" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>32</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16213588"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16213588" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16213588"></ul></li></ul></li>
+			
+				<li id="16202547" class="cmnt-root" data="4" data-d="1586997480000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/65005_1586997390.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=65005" rel="nofollow"  target="_blank" style="color: #;">The5lacker</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">15 Apr 2020 20:38</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16202547" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Useful if you&apos;re supremely confident in your dodging/parrying, or if you&apos;re investing in a Regen build. Blessed weapons, Sun Princess Ring, the works.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16202547" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16202547" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16202547"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16202547" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16202547"></ul></li></ul></li>
+			
+				<li id="16163216" class="cmnt-root" data="0" data-d="1573993745000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/66189_1506752004.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=66189" rel="nofollow"  target="_blank" style="color: #;">Grim_Reaper</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">17 Nov 2019 07:29</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16163216" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">So we need this RIng to do more damage in superb condition than we would deal in bad shape....&quot;interesting&quot;.... &amp;gt;_&amp;gt;</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16163216" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16163216" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16163216"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16163216" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16163216"></ul></li></ul></li>
+			
+				<li id="16154475" class="cmnt-root" data="7" data-d="1570910323000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">12 Oct 2019 15:58</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16154475" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Works great for hitless</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16154475" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16154475" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16154475"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16154475" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16154475"></ul></li></ul></li>
+			
+				<li id="16153155" class="cmnt-root" data="2" data-d="1570504985000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">07 Oct 2019 23:23</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16153155" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Superb PvE ring</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16153155" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16153155" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16153155"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16153155" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16153155"></ul></li></ul></li>
+			
+				<li id="16142153" class="cmnt-root" data="-3" data-d="1566808137000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/66189_1506752004.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=66189" rel="nofollow"  target="_blank" style="color: #;">Grim_Reaper</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">26 Aug 2019 04:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16142153" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">What devides the newbs from the vets? A blue and a red aura.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16142153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16142153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>10</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16142153"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16142153" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16142153"></ul></li></ul></li>
+			
+				<li id="16078161" class="cmnt-root" data="13" data-d="1542960869000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=68543" rel="nofollow"  target="_blank" style="color: #;">Jputt85</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">23 Nov 2018 03:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16078161" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Was tinkering around with my build when I discovered something. If you wear this ring and the dusk crown ring at the same time, it amplifies the attack bonus.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16078161" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16078161" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>17</p><i class="add">+1</i></section><section class="t-down"><span></span><p>4</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16078161"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16078161" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16078161"></ul></li></ul></li>
+			
+				<li id="16060860" class="cmnt-root" data="-6" data-d="1535338872000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">26 Aug 2018 23:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16060860" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">whoever wrote those notes: 1) it&apos;s a mess 2) you speak as if enemy defenses were a mystery. Rule of thumb: Deal greater damage, and more percentage of your damage will go through an enemy&apos;s defenses. no need to write 10 paragraphs about it.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16060860" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16060860" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>11</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16060860"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16060860" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16060860"></ul></li></ul></li>
+			
+				<li id="16054013" class="cmnt-root" data="1" data-d="1532975170000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">30 Jul 2018 14:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16054013" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Remember to use the dusk crown, the blind mask and the scholar’s candlestick if you want max damage along with the clutch rings. The masks change depending on if you’re using sorceries or dark sorceries.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16054013" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16054013" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16054013"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16054013" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16054013"></ul></li></ul></li>
+			
+				<li id="16031227" class="cmnt-root" data="2" data-d="1525099058000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">30 Apr 2018 10:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16031227" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">who is loyd he is in dark souls two (loyds talismans) and is in dark souls 3 i have not seen any lore about him.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16031227" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16031227" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16031227"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16031227" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16031227"></ul></li></ul></li>
+			
+				<li id="16021975" class="cmnt-root" data="0" data-d="1521738750000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">22 Mar 2018 13:12</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16021975" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">In Irithyll going down the ladder to the giant Rat-doggos, one of the Drang Knights kicked me and dealt 7 damage of my (unembered) 947 HP and the ring was still active. This might need more testing than one thought.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16021975" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16021975" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>13</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16021975"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16021975" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16021975"></ul></li></ul></li>
+			
+				<li id="16011752" class="cmnt-root" data="2" data-d="1518920200000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">17 Feb 2018 21:16</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16011752" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I mostly enjoy this ring during co-oping for valorizing damage while having no aggro. It also synergizes well with the &quot;Sun Princess Ring&quot; .</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16011752" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16011752" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16011752"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16011752" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16011752"></ul></li></ul></li>
+			
+				<li id="16008430" class="cmnt-root" data="6" data-d="1517837745000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">05 Feb 2018 08:35</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16008430" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">does not seem to increase projectile dmgs, tested with throwing knives and lightning urns</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16008430" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16008430" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16008430"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16008430" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16008430"></ul></li></ul></li>
+			
+				<li id="16005244" class="cmnt-root" data="5" data-d="1517098675000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">27 Jan 2018 19:17</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=16005244" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This ring has a use, but is it USEFUL? Depends on the situation.<br/><br/>In PvE, this ring is good for late game-low SL runs where pretty much everything one shots you. Good incentive really, don&apos;t get hit and you&apos;ll have bonus damage on top of being alive. <br/><br/>Not good for hyper builds though, doesn&apos;t even work for hyper builds.<br/><br/>In PvP, this ring doesn&apos;t really work unless:<br/>A. You have a long ranged weapon.<br/>B. You have a fast weapon and are good at dodging.<br/>C. You are a caster and are good at dodging.<br/>D. You are really, really good at parrying.<br/>E. You have a really good sense of spacing.<br/>F. You have really bad connection.<br/>or<br/>G. You are using hacks to get infinite health.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16005244" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16005244" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16005244"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16005244" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16005244"></ul></li></ul></li>
+			
+				<li id="15988147" class="cmnt-root" data="5" data-d="1510568458000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">13 Nov 2017 05:20</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15988147" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Good ring for hyper mode or glass cannon builds.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15988147" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15988147" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15988147"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15988147" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15988147"></ul></li></ul></li>
+			
+				<li id="15981139" class="cmnt-root" data="-22" data-d="1507835975000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">12 Oct 2017 15:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15981139" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Basically this ring is useless.. just like the other one -_-</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15981139" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15981139" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>25</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15981139"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15981139" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15981139"></ul></li></ul></li>
+			
+				<li id="15968595" class="cmnt-root" data="3" data-d="1503857264000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">27 Aug 2017 14:07</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15968595" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The section in notes &quot;boost to AR is misleading&quot; seems like its based on game knowledge prior to people figuring out how AR&amp;gt;RES=ABS works. If the item is increasing AR by 10% then it will change the absorption reduction/damage multiplier breakpoints in a lot of situations.<br/><br/>The summary is correct though. As with increasing AR in other ways, you will net more damage vs low resistance enemies and players.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15968595" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15968595" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15968595"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15968595" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15968595"></ul></li></ul></li>
+			
+				<li id="15958282" class="cmnt-root" data="3" data-d="1499872446000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">12 Jul 2017 11:14</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15958282" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Great synergy for faith casters, since you have the most access to healing and are at full health most of the time.<br/>Both Lloyd rings are natural equips for clerics.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15958282" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15958282" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15958282"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15958282" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15958282"></ul></li></ul></li>
+			
+				<li id="15957899" class="cmnt-root" data="8" data-d="1499745884000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=66808" rel="nofollow"  target="_blank" style="color: #;">SirCranburry</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">11 Jul 2017 00:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15957899" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This ring is perfect for farming, as most farm routes involve taking minimal damage</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15957899" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15957899" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15957899"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15957899" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15957899"></ul></li></ul></li>
+			
+				<li id="15879129" class="cmnt-root" data="17" data-d="1481164920000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">07 Dec 2016 21:42</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15879129" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Theres is a perfect niche use for this ring. It fits well in the stealth build (how i play) invisibility spell with  lingering dragon crest for duration aldrich sapphire for FP regen and slumbering dragon crest for no footsteps. That combined with a luck/dex build and a nice stabby dagger is an excellent way to make your way through most of the game. Few enemies can still perceive you at more than 2 meters with the gear on, so your always at full hp<br/></p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15879129" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15879129" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>18</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15879129"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15879129" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15879129"></ul></li></ul></li>
+			
+				<li id="15794617" class="cmnt-root" data="29" data-d="1469010309000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">20 Jul 2016 06:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15794617" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">You don&apos;t have to be at full hp for it to work, just very close. with my warrior who has 1045 hp the ring was still in effect at 1036 hp</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15794617" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15794617" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>34</p><i class="add">+1</i></section><section class="t-down"><span></span><p>5</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15794617"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15794617" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15794617"></ul></li></ul></li>
+			
+				<li id="15773787" class="cmnt-root" data="3" data-d="1461869445000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">28 Apr 2016 14:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15773787" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Both of the Lloyd rings give a creepy sound when being equipped.Lore, Secret, just scaring the ***** out of me? I don&apos;t know ...</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15773787" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15773787" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15773787"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15773787" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15773787"></ul></li></ul></li>
+			
+				<li id="15771980" class="cmnt-root" data="-6" data-d="1461680310000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">26 Apr 2016 10:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15771980" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The only reason for using this ring is if you plan on going full archer, or for some heavy sniping. Mages already have spell boost rings so I don&apos;t see a reason to use this one.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15771980" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15771980" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>9</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15771980"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15771980" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15771980"></ul></li></ul></li>
+			
+				<li id="15770663" class="cmnt-root" data="-18" data-d="1461568153000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">25 Apr 2016 03:09</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15770663" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I fail to see any reason to use this ring, to be honest. +10% damage while full health? That is a pretty significant boost, yes, but only if you&apos;re full health, and regardless if you&apos;re playing PvP or PvE, you&apos;re almost never going to be at full health through most of the fights. You&apos;ll most often only get a +10% boost the first 1-3 hits, before you&apos;re hit yourself.If you want a +damage boost ring, I still think;* Chloranty Ring (+7 stamina, for more dodging AND attacking, skill uses etc),* Ring of Favor (+10% stamina for more of the same as Chloranty),* any of the three attunement rings for more spells (Saint&apos;s ring, Deep Ring or Darkmoon Ring, +1, +1, +2 attunements respectively),* Young Dragon Ring or Bellowing Dragoncrest Rings (boost sorcery damage by +12% and +20% respectively),* Great Swamp Ring and Witch&apos;s Ring (+12% and +20% respectively on Pyromancy damage),* Morne&apos;s Ring and Rung of the Sun&apos;s First born (+12% and +20% respectively on miracle-damage),* any of the Three Pillars (Knight&apos;s, Scholar, Priestess rings, which gives you +5 of Strenght, Intelligence and Faith respectively, for more damage using weapons, sorceries and damage-miracles), or the Hunter&apos;s ring (+5 Dex) for more weapon/magic damage* Leo Ring (which boosts counterattack damage with +15%)* Hornet Ring (+30% critical damage)* Farron Ring (+30% consumption of FP while using skills, effectively letting you use more Skills)* any of the four Clutch Rings (+15% elemental damage, at the cost of +10 physical incoming damage)* Red Tearstone Ring (even if it&apos;s only active when less than 20%hp, that&apos;s still alot more of the time than you&apos;ll be at *full* health, and it gives *twice* the damageboost!)* Pontiff&apos;s Right Eye (+15% damage, compared to the Lloyd&apos;s +10%, even if you need to attack 3-5 times quick)* Flynn&apos;s Ring (which boosts your damage with up to +15% when having low equip load (5% of max), down to no damage boost at 45.6% E.L., and 10% damage boost at 15% equip load. This ring is just as effective as Lloyd&apos;s ring while using less than 15% E.L., but while Lloyd&apos;s only work until you&apos;re hit ONCE, I see alot of people actually running around with no armor, effectively being under the desired E.L.)And that&apos;s not even counting Knight Slayer&apos;s Ring, or Horsehoof Ring, which is rings that eats away on the enemies stamina bar while they&apos;re blocking, effectively letting you break their guard for clean hits.Say, for discussions sake, that you are not a caster (therefore neglecting 9 entire rings, the +12% and +20% of the caster damage rings (sorcery, pyromancy, miracle) and the attunement rings) and only uses melee, that means there&apos;s still;* Chloranty/Ring of Favor (that gives you more stamina/stamina regen for more attacks),* The Knight&apos;s Ring and The Hunter&apos;s Ring (+5 Strenght and +5 Dexterity respectively for more weapon damage),* the Leo Ring and Hornet rings (for greater damage while backstabbing and counterattacking - which, while still situational, is still going to occur more often than you being at full hp),* Farron Ring (for getting more high damaging weapon skills out of your FP)* the elemental Clutch Rings (which increases weapons infuse-damage with +15%),* the RTSR (while still being situational with the 20%-of-max-hp thing is still going to occur more often than full hp AND being double boost),* and the Flynn and Pontiff&apos;s rings - still not counting the stamina-penalty-when-blocking-rings (Hoorsehoof and Knight slayer).That means there&apos;s 13 rings which has the potential to be of greater use for you to deal damage, than this Lloyd&apos;s ring, seeing as *one hit, or poison/toxic ticks, or even falling damage* is all it takes for you to lose out of a 10% damage boost.While most of them are somewhat situational (backstabbing only, counterattacking only, being at 20%hp, having lower E.L., attacking more than 3-5 times in a rapid succession, using Weapon Skills to boost attack, using infused/buffed weapons, or killing off the enemies stamina when they block to stagger them), they all have their uses that is vastly superior than a &quot;+10% damage increase, unless you&apos;re hit even once&quot;.And if you&apos;re a caster, I see no reason to use it anyway, since if you want to be a glass-cannon caster, you&apos;ll still use;* a +12%boost ring for your class (Young Dragon Ring - Sorcery, Great Swamp Ring - Pyromancy, Morne&apos;s Ring - Miracles)* a +20%boost ring for your class (Bellowing Dragoncrest Ring - Sorcery, Witch&apos;s Ring - Pyromancy, Ring of the Sun&apos;s First Born - Miracles)(netting you a +32% boost, or is it +34.4% boost? Not sure if they stack additively or multiplicatively)* a Clutch ring of your chosen elemental (+15% boost)and either an attunement ring (Darkmoon Rings +2 attunement slots), Sage Ring (for faster spellcasting), Ashen Estus Ring (for gaining more FP/use of flask = more spellcasts), Scholar/Priestess Ring (+5 of Intelligence or Faith respectively), Dusk Crown Ring (-25% FP useage / spell = more spells, therefore more damage)This means, if you use the three first rings I mentioned, you&apos;ll have a +47% boost of your spell damage (Great Swamp Ring, Witch&apos;s Ring, Fire Clutch Ring = +47% pyromancy bonus), and if you use Darkmoon Rings you&apos;ll have plenty of more spells to use, or (which I recommend) Ashen Estus Ring for more FP/flask use.Even if you go Glass-cannon mode and want to maximize your damage output, *any other ring*, in *any combination* is still going to be better than this Lloyd&apos;s Sword Ring.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15770663" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15770663" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">11</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>24</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15770663"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15770663" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15770663"></ul></li></ul></li>
+			
+				<li id="15769315" class="cmnt-root" data="1" data-d="1461457735000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">23 Apr 2016 20:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15769315" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Works on bows/crossbows?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15769315" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15769315" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15769315"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15769315" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15769315"></ul></li></ul></li>
+			
+				<li id="15765612" class="cmnt-root" data="1" data-d="1461131594000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=47384" rel="nofollow"  target="_blank" style="color: #;">Supercodebreak</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">20 Apr 2016 01:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15765612" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">around 10% sorry for estimate.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15765612" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15765612" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15765612"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15765612" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15765612"></ul></li></ul></li>
+			
+				<li id="15764539" class="cmnt-root" data="3" data-d="1461074216000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">19 Apr 2016 09:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15764539" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I&apos;m not sure if this is bug or not, but HP doesn&apos;t need to be 100% full.I have 977 maximum HP and still gives me full bonus at 969, but not at 967. Full HP probably means &amp;gt;99%.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15764539" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15764539" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15764539"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15764539" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15764539"></ul></li></ul></li>
+			
+				<li id="15759256" class="cmnt-root" data="1" data-d="1460813572000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">16 Apr 2016 09:32</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15759256" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Just tested it. Works perfecty with spells.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15759256" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15759256" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15759256"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15759256" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15759256"></ul></li></ul></li>
+			
+				<li id="15755529" class="cmnt-root" data="1" data-d="1460619136000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">14 Apr 2016 03:32</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15755529" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does this boost spell damage as well as physical damage?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15755529" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15755529" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15755529"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15755529" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15755529"></ul></li></ul></li>
+			
+				<li id="15752278" class="cmnt-root" data="1" data-d="1460165219000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t530260/Lloyd's-Sword-Ring" rel="nofollow" target="_blank">08 Apr 2016 21:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=165&p=15752278" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">i will give it a try</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15752278" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15752278" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15752278"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15752278" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15752278"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Dark+Souls+3+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/s7SvMmf" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #ab966f;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/s7SvMmf" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						<li style="display: none;"><span class="glyphicon glyphicon-user" style="margin-right: 0.36em;"></span><strong><span class="onlineusers"></span></strong> Ashen Ones Online</li>
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+});
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"773f7256de3ea1f8","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>
