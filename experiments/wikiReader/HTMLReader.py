@@ -4,6 +4,7 @@ Construct raw data from HTML files
 
 HELP_MSG = "Use:\n\tpython3 HTMLReader.py <input directory path> <output file path> [-c]\n-c : combine mode, will combine files in input dir into one"
 
+from asyncore import read
 from bs4 import BeautifulSoup
 import pandas as pd
 import sys
@@ -75,7 +76,14 @@ def extractData(context):
     cat = node[1].get_text()
     subcat = node[2].get_text()
 
+    
     # Then find the description
+    
+    '''
+    ------------------------------------------------------------------------------------
+    Modify below part if any format mismatch found
+    ------------------------------------------------------------------------------------
+    '''
 
     # first try Dark Souls 3 style HTML format
     # where desc are located in <blockquote>
@@ -88,17 +96,20 @@ def extractData(context):
         desc = node[0].get_text()
 
     # Dark Soul 1, 2 format
+    # as well as elden ring's
     # which located in first several occurances of <p>
     else:
         node = soup.find_all("p")
 
         desc = ""
         for subnode in node:
-            s = subnode.get_text()
-            if len(s) > 1:
-                desc += s + "\n"
-            else:
-                break
+            ems = subnode.find_all("em")
+            if len(ems) > 0:
+                for s in ems:
+                    # skipp the context that are too short
+                    # usually they are not what we want
+                    if (len(s.get_text()) > 5):
+                        desc += s.get_text() + '\n'
 
     return (item, src, cat, subcat, desc)
 
@@ -106,7 +117,7 @@ def extractData(context):
 #----------------------------------------------------------------------------------------------------------------
 
 if __name__ == "__main__":
-
+    
     if len(sys.argv) not in (3, 4):
         print(HELP_MSG)
         sys.exit()
