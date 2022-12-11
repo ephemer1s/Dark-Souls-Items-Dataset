@@ -1,0 +1,1499 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Large Sword of Moonlight is a Weapon in Demon's Souls. Large Sword of Moonlight guide with all stats, location, upgrades, lore, and tips." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://demonssouls.wiki.fextralife.com/Large+Sword+of+Moonlight" />
+		<title>Large Sword of Moonlight | Demons Souls Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Demons-Souls/demons-souls-wiki.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=00004e">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004g">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=0003az">
+		<link rel="stylesheet" href="/xcss/styles.css?js=0003az">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Demons Souls Wiki" />
+			<meta property="og:title" content="Large Sword of Moonlight | Demons Souls Wiki" />
+			<meta property="og:description" content="Large Sword of Moonlight is a Weapon in Demon's Souls. Large Sword of Moonlight guide with all stats, location, upgrades, lore, and tips." />
+			<meta property="og:url" content="https://demonssouls.wiki.fextralife.com/Large+Sword+of+Moonlight" />
+			<meta property="og:image" content="https://demonssouls.wiki.fextralife.com/file/Demons-Souls/large_sword_of_moonlight_weapons_demons_souls_remake_wiki_guide_64px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+		
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '77417417-0e39-45e5-b101-0deb4ab39061';
+			pagex['wikiName'] = 'Demons+Souls'; 
+			pagex['wikiTitle'] = 'Demons Souls';
+			pagex['pageId'] = '63700e61-e873-48ac-998b-1b069f870e1d';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1666968233000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6LdQDSMUAAAAAMh7M7RxIO4c43SaptRYkLFEOUhq';
+			var cx = '013588101548136424510:vaz2h5xdxxw';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://demonssouls.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Demons+Souls+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Demons-Souls/demons-souls-wiki-logo-smalls.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Demons Souls Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name navigation-avatar" style="width:100%;"><a href="#"><img id="avatar" src="https://swcdn.fextralife.com/images/avatar.png" alt="" style="border-left-width:0px;width:30px;height:30px;"></a></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Demo/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span><span class="hidden-lg">Wiki </span>Home<span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Demons+Souls+Wiki" itemprop="url"><span class="navsprite miniring"></span>Wiki Home</a></li> 
+   <li> <a href="https://fextralife.com/forums/f4/demons-souls/" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/shop" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Demons+Souls" itemprop="url"><span class="navsprite miniring"></span>About Demon's Souls</a> </li> 
+   <li> <a href="/Demon's+Souls+Remake" itemprop="url"><span class="navsprite miniring"></span>Demon's Souls Remake Hub</a> </li> 
+   <li> <a href="/Patch+Notes" itemprop="url"><span class="navsprite miniring"></span>Patch Notes</a> </li> 
+   <li> <a href="/Controls" itemprop="url"> <span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"> <span class="navsprite miniring"></span>Combat</a> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"> <span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"> <span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> </li> 
+   <li> <a href="/Status+Effects" itemprop="url"><span class="navsprite miniring"></span>Status Effects</a> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a> </li> 
+   <li> <a href="/Character+Tendency" itemprop="url"><span class="navsprite miniring"></span>Character Tendency</a> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Spells" itemprop="url"><span class="navsprite miniring"></span>Spells</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Magic+Spells" itemprop="url"><span class=""></span>Magic Spells</a> </li> 
+     <li> <a href="/Miracles" itemprop="url">Miracles</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Boss+Soul+Weapons" itemprop="url"><span class=""></span>Boss Soul Weapons</a> </li> 
+     <li> <a href="/Catalysts" itemprop="url">Catalysts</a> </li> 
+     <li> <a href="/Talismans" itemprop="url">Talismans</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armors" itemprop="url">Chest Armors</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leggings" itemprop="url">Leggings</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Eye+Stones" itemprop="url">Eye Stones</a> </li> 
+     <li> <a href="/Stones" itemprop="url"> <span class=""></span>Stones</a> </li> 
+     <li> <a href="/Consumables" itemprop="url"> <span class=""></span>Consumables</a> </li> 
+     <li> <a href="/Projectiles" itemprop="url"> <span class=""></span>Projectiles</a> </li> 
+     <li> <a href="/Ammunition" itemprop="url"> <span class=""></span>Ammunition</a> </li> 
+     <li> <a href="/Souls" itemprop="url"> <span class=""></span>Souls</a> </li> 
+     <li> <a href="/Demon's+Souls" itemprop="url"><span class=""></span>Demon's Souls</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a> </li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li> 
+   <li> <a href="/Photo+Mode" itemprop="url"> <span class="navsprite miniring"></span>Photo Mode</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Fractured+Mode" itemprop="url"><span class="navsprite miniring"></span>Fractured Mode</a> </li> 
+   <li> <a href="/World+Tendency" itemprop="url"> <span class="navsprite miniring"></span>World tendency</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+    </ul> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+     <li> <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a> </li> 
+   <li> <a href="/Trophy+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy Guide</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+					<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Demons+Souls+Wiki" itemprop="url"><span class="navsprite home"></span>Wiki Home</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+                <a href="https://fextralife.com/forums/f4/demons-souls/" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://fextralife.com/shop" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+              </li>
+            </ul>
+          </li>
+          <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+                <a href="/Demons+Souls" itemprop="url"><span class="navsprite miniring"></span>About Demon's Souls</a>
+               
+                <hr>
+              </li>
+       
+              <li itemprop="name">
+                <a href="/Demon's+Souls+Remake" itemprop="url"><span class="navsprite miniring"></span>Demon's Souls Remake Hub</a>
+                <hr>
+              </li><li itemprop="name">
+                <a href="/Patch+Notes" itemprop="url"><span class="navsprite miniring"></span>Patch Notes</a>
+<hr>
+              <hr></li><li itemprop="name">
+
+<a href="/Controls" itemprop="url">
+<span class="navsprite miniring"></span>Controls</a><hr>
+</li><li itemprop="name">
+
+<a href="/Combat" itemprop="url">
+<span class="navsprite miniring"></span>Combat</a><hr>
+</li>
+              <li itemprop="name">
+                <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+
+<a href="/FAQ" itemprop="url">
+<span class="navsprite miniring"></span>FAQs</a>
+</li>
+			                
+            </ul>
+          </li>
+          <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url">
+<span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+                <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+                <hr>
+              </li>
+                 <li itemprop="name">
+                <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+                <hr>
+              </li>
+                 <li itemprop="name">
+                <a href="/Status+Effects" itemprop="url"><span class="navsprite miniring"></span>Status Effects</a>
+                <hr>
+              </li>
+             <li itemprop="name">
+                <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+                <hr>
+              </li><li itemprop="name">
+
+<a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a><hr>
+</li>
+             <li itemprop="name">
+                <a href="/Character+Tendency" itemprop="url"><span class="navsprite miniring"></span>Character Tendency</a>
+                <hr>
+              </li>
+       
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+				<ul class="navSubMenu">
+				  <li itemprop="name">
+                    <a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+                    <hr>
+                  </li>
+                  <li itemprop="name">
+                    <a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+                  </li>
+                </ul>
+              </li>
+			 </ul>  
+            </li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+              <a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+              <ul class="navSubMenu">	  
+				    <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Spells" itemprop="url"><span class="navsprite miniring"></span>Spells</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Magic+Spells" itemprop="url"><span class=""></span>Magic Spells</a>
+                  
+<hr></li><li itemprop="name">
+                    <a href="/Miracles" itemprop="url">Miracles</a>
+                    
+                  </li>
+				    
+                </ul>
+                <hr>
+              </li>				  
+                <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Boss+Soul+Weapons" itemprop="url"><span class=""></span>Boss Soul Weapons</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Catalysts" itemprop="url">Catalysts</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Talismans" itemprop="url">Talismans</a>
+                  
+                  </li>
+                </ul>
+                <hr>
+              </li>
+                <li itemprop="name">
+                  <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+                  <hr>
+                </li>
+                <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Helms" itemprop="url">Helms</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Chest+Armors" itemprop="url">Chest Armors</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Gauntlets" itemprop="url">Gauntlets</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Leggings" itemprop="url">Leggings</a>
+			     </li>
+                </ul>
+                <hr>
+              </li>
+                <li itemprop="name">
+                  <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a>
+				  <hr>
+                </li>
+				 <li itemprop="name">
+                  <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+				  <hr>
+				 </li>
+				  <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+				  <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Key+Items" itemprop="url">Key Items</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Eye+Stones" itemprop="url">Eye Stones</a>
+                    <hr>
+                  </li><li itemprop="name">
+
+<a href="/Stones" itemprop="url">
+<span class=""></span>Stones</a><hr>
+</li><li itemprop="name">
+
+<a href="/Consumables" itemprop="url">
+<span class=""></span>Consumables</a><hr>
+</li><li itemprop="name">
+
+<a href="/Projectiles" itemprop="url">
+<span class=""></span>Projectiles</a><hr>
+</li><li itemprop="name">
+
+<a href="/Ammunition" itemprop="url">
+<span class=""></span>Ammunition</a><hr>
+</li><li itemprop="name">
+
+<a href="/Souls" itemprop="url">
+<span class=""></span>Souls</a><hr>
+</li>
+				    
+                      
+                      
+                     
+                      <li itemprop="name">
+                    <a href="/Demon's+Souls" itemprop="url"><span class=""></span>Demon's Souls</a>
+                    <hr>
+                  </li>
+                </ul>
+              </li>
+			 </ul>  
+          </li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+            <ul class="navSubMenu">
+               <li itemprop="name">
+                <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+			     <hr></li><li itemprop="name">
+
+<a href="/Photo+Mode" itemprop="url">
+<span class="navsprite miniring"></span>Photo Mode</a>
+</li>
+                </ul>
+              </li>
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+                <ul class="navSubMenu">
+<li itemprop="name">
+                    <a href="/Fractured+Mode" itemprop="url"><span class="navsprite miniring"></span>Fractured Mode</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/World+Tendency" itemprop="url">
+<span class="navsprite miniring"></span>World tendency</a><hr>
+</li>
+                  <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                    <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+					<ul class="navSubMenu">
+					<li itemprop="name">
+                    <a href="/Maps" itemprop="url">Maps</a>
+					</li>
+					</ul>
+					<hr>			
+			        </li><li itemprop="name">
+                    <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+                    <hr>
+					</li>
+					<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                    <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies</a>
+				   <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Bosses" itemprop="url">Bosses</a>
+                    <hr>
+					</li>
+					<li itemprop="name">
+                    <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a>
+					</li>
+					</ul>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+			     </li>
+                </ul>
+              </li>
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+                  <ul class="navSubMenu">
+                    <li itemprop="name">
+                      <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+					  <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+                      <hr>
+                    </li><li itemprop="name">
+
+<a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a><hr>
+</li>
+                    <li itemprop="name">
+                      <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Trophy+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy Guide</a>					
+			     </li>
+                </ul>
+              </li>
+
+                
+              
+            
+		
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="nEoymzsjZW0" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="nEoymzsjZW0" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/nEoymzsjZW0/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="77417417-0e39-45e5-b101-0deb4ab39061" data-pid="63700e61-e873-48ac-998b-1b069f870e1d" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://demonssouls.wiki.fextralife.com/Large+Sword+of+Moonlight">Large Sword of Moonlight | Demons Souls Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 105</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 27 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 27</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="//demonssouls.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="//demonssouls.wiki.fextralife.com/Weapons">Weapons</a>&nbsp;/&nbsp;<a href="//demonssouls.wiki.fextralife.com/Large+Swords">Large Swords</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th colspan="20"><img style="display: block; margin-left: auto; margin-right: auto;" title="Large Sword of Moonlight" src="/file/Demons-Souls/large_sword_of_moonlight_weapons_demons_souls_remake_wiki_guide_150px.png" alt="large sword of moonlight weapons demons souls remake wiki guide 150px" width="150" height="234"> <h2>Large Sword of Moonlight</h2> </th> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="physical attack power demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td colspan="5"><img style="display: block; margin-left: auto; margin-right: auto;" title="Plague" src="/file/Demons-Souls/plague_25px.jpg" alt="plague 25px" width="20" height="20"></td> 
+     <td style="text-align: center;" colspan="5">-</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Magical Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="magic attack power demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">100</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="display: block; margin-left: auto; margin-right: auto;" title="Critical Strike" src="/file/Demons-Souls/critical_strike_25px.jpg" alt="critical strike 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">-</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="fire attack demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="display: block; margin-left: auto; margin-right: auto;" title="Durability" src="/file/Demons-Souls/durability_25px.jpg" alt="durability 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">900</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Bleeding" src="/file/Demons-Souls/bleeding_25px.jpg" alt="bleeding 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">-</td> 
+     <td style="text-align: center;" colspan="5"><img title="Weight" src="/file/Demons-Souls/weight-demonssouls_25px.jpg" alt="weight demonssouls 25px" width="20" height="20"></td> 
+     <td style="text-align: center;" colspan="5">2.0</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Poison" src="/file/Demons-Souls/poison_25px.jpg" alt="poison 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">-</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img title="Damage Reduction" src="/file/Demons-Souls/damage-reduction-demonssouls_25px.jpg" alt="damage reduction demonssouls 25px" width="20" height="20">&nbsp; 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">40/80</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5">&nbsp;</td> 
+     <td style="text-align: center;" colspan="5">&nbsp;</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img title="Guard Break Reduction" src="/file/Demons-Souls/guard-break-reduction_25px.jpg" alt="guard break reduction 25px" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">45</td> 
+    </tr> 
+    <tr> 
+     <th colspan="20">Requirements &amp; Bonus</th> 
+    </tr> 
+    <tr> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="strength demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="dexterity demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="magic demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="faith demonssouls 25px" width="20" height="20"> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">24</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">S</td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Weapon Type</td> 
+     <td colspan="8"><a class="wiki_link" title="Demons Souls Large Swords" href="/Large+Swords">Large Swords</a></td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Buffable</td> 
+     <td colspan="8">No</td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Damage Type</td> 
+     <td colspan="8">Normal</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Large Sword of Moonlight</strong> is&nbsp;<a class="wiki_link" title="Demons Souls Large Swords" href="/Large+Swords">Large Sword Weapon</a>&nbsp;in&nbsp;<a class="wiki_link" title="Demons Souls Wiki" href="/Demons+Souls+Wiki">Demon's Souls and Demon's Souls Remake</a>.&nbsp;<strong>Large Swords</strong>&nbsp;are usually held with both hands and are capable of inflicting a huge amount of damage towards hostile characters but are slow, making the player vulnerable to fast enemy attacks.</p> 
+<p>&nbsp;</p> 
+<blockquote> 
+ <p>The legendary large sword that reflects moonlight. Widely known in association with Moonlight Knight Vito.</p> 
+ <p>It's one of the few Revelations from God. The blue crystal blade is composed only of light, so it's impossible to block with a shield.</p> 
+</blockquote> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Large Sword of Moonlight Location:&nbsp;</h3> 
+<ul> 
+ <li>Found in: <a class="wiki_link" title="Demons Souls Swamp of Sorrow" href="/Swamp+of+Sorrow" target="">Swamp of Sorrow</a>, where you find the nest of <a class="wiki_link" title="Demons Souls Phosphorescent Slug" href="/Phosphorescent+Slug">Phosphorescent Slugs</a>. Once you hit it enough times, many slugs will drop to the ground. Now go to where they've fallen and you will find the sword, among all the hostile slugs.<br><a class="wiki_link" href="https://youtu.be/Qt5Bf020f0s?t=2171">Video Location: Shown in our walkthrough video at 36:36. Click here to watch it </a></li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Large Sword of Moonlight Notes and Tips</h3> 
+<ul> 
+ <li>This sword is classified as a <a class="wiki_link" title="Demons Souls Large Swords" href="/Large+Swords">Large Sword</a></li> 
+ <li>It is one of two swords in the game that cannot be blocked by <a class="wiki_link" title="Demons Souls shields" href="/shields">shields</a>, the other being the <a class="wiki_link" title="Demons Souls Blind" href="/Blind">Blind</a>.</li> 
+ <li>The sword has magic reduction built in. A successful block reduces Magic damage by 80%.</li> 
+ <li>The Large Sword of Moonlight +0 can be traded with <a class="wiki_link" title="Demons Souls Sparkly the Crow" href="/Sparkly+the+Crow">Sparkly the Crow</a> for a <a class="wiki_link" title="Demons Souls Ring of Devout Prayer" href="/Ring+of+Devout+Prayer">Ring of Devout Prayer</a>.</li> 
+ <li>This weapon is a recurrent theme in all FromSoftware games: 
+  <ul> 
+   <li><a class="wiki_link" title="Demons Souls Moonlight Greatsword" href="https://darksouls.wiki.fextralife.com/Moonlight+Greatsword">Moonlight Greatsword in Dark Souls</a></li> 
+   <li><a class="wiki_link" title="Demons Souls Moonlight Greatsword" href="https://darksouls2.wiki.fextralife.com/Moonlight+Greatsword">Moonlight Greatsword in Dark Souls 2</a></li> 
+   <li><a class="wiki_link" title="Demons Souls Moonlight Greatsword" href="https://darksouls3.wiki.fextralife.com/Moonlight+Greatsword">Moonlight Greatsword in Dark Souls 3</a></li> 
+   <li><a class="wiki_link" title="Demons Souls Holy Moonlight Sword" href="https://bloodborne.wiki.fextralife.com/Holy+Moonlight+Sword">Holy Moonlight Sword in Bloodborne</a></li> 
+   <li><a class="wiki_link" href="https://eldenring.wiki.fextralife.com/Dark+Moon+Greatsword" title="Demons Souls Dark Moon Greatsword">Dark Moon Greatsword in Elden Ring</a></li> 
+  </ul> </li> 
+</ul> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Videos Related&nbsp;to&nbsp;Large Sword of Moonlight</h3> 
+<div style="max-width: 540px; max-height: 315px;"> 
+ <div class="embed-responsive embed-responsive-16by9"> 
+  <div id="https://www.youtube.com/embed/5ZPKqZwLDqo" class="youtube-item embed-responsive-item" style="display: flex; justify-content: center;"> 
+   <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+    <div class="sk-cube sk-cube1">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube2">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube3">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube4">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube5">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube6">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube7">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube8">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube9">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<div style="max-width: 540px; max-height: 315px;"> 
+ <div class="embed-responsive embed-responsive-16by9" style="text-align: left;"> 
+  <div id="https://www.youtube.com/embed/7woHcjS7rbU" class="youtube-item embed-responsive-item" style="display: flex; justify-content: center;"> 
+   <div class="sk-cube-grid" style="display: block; margin: auto;"> 
+    <div class="sk-cube sk-cube1">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube2">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube3">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube4">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube5">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube6">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube7">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube8">
+      &nbsp; 
+    </div> 
+    <div class="sk-cube sk-cube9">
+      &nbsp; 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Large Sword of Moonlight Moveset<strong><br></strong></h3> 
+<div class="row"> 
+ <div class="col-sm-4"> 
+  <div class="table-responsive"> 
+   <table class="wiki_table"> 
+    <thead> 
+     <tr> 
+      <th>Attack Type</th> 
+      <th>Effect</th> 
+     </tr> 
+    </thead> 
+    <tbody> 
+     <tr> 
+      <td>One-handed R1</td> 
+      <td>Horizontal cuts</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed R2</td> 
+      <td>Downward chop</td> 
+     </tr> 
+     <tr> 
+      <td>Two-handed R1</td> 
+      <td>Horizontal cuts</td> 
+     </tr> 
+     <tr> 
+      <td>Two-handed R2</td> 
+      <td>Downward chop</td> 
+     </tr> 
+     <tr> 
+      <td>Running/Backstep attack</td> 
+      <td>Charging chop</td> 
+     </tr> 
+     <tr> 
+      <td>Rolling attack</td> 
+      <td>Low sweeping attack</td> 
+     </tr> 
+     <tr> 
+      <td>Push</td> 
+      <td>Quick push</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed L1</td> 
+      <td>Block</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed L2</td> 
+      <td>Horizontal cut</td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<h3 class="titlearea">Large Sword Of Moonlight Upgrades</h3> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <thead> 
+   <tr style="46px; text-align: center;"> 
+    <td style="text-align: center;">&nbsp;</td> 
+    <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+    <td style="text-align: center;" colspan="5"> <h4>Stat Bonus</h4> </td> 
+    <td style="text-align: center;"> <h4>Total Requirements</h4> </td> 
+   </tr> 
+   <tr style="46px; text-align: center;"> 
+    <td style="text-align: center;">Name</td> 
+    <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="physical attack power demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="magic attack power demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="fire attack demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="strength demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="dexterity demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="magic demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="faith demonssouls 25px" width="20" height="20"></td> 
+    <td style="text-align: center;">Special</td> 
+    <td style="text-align: center;">Special</td> 
+   </tr> 
+  </thead> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.05 Faith Bonus</td> 
+    <td style="text-align: center;">-</td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight +1</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.10 Faith Bonus</td> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Colorless Demon's Soul" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight +2</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.15 Faith Bonus</td> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Colorless Demon's Soul" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight +3</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.175 Faith Bonus</td> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Colorless Demon's Soul" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight +4</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.20 Faith Bonus</td> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Colorless Demon's Soul" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;">Large Sword of Moonlight +5</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">100</td> 
+    <td style="text-align: center;">0</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">-</td> 
+    <td style="text-align: center;">S</td> 
+    <td style="text-align: center;">x1.275 Faith Bonus</td> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Colorless Demon's Soul" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center;"><a class="wiki_link" title="Demons Souls Large Swords" href="/Large+Swords" target="">Large Swords</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Bastard+Sword">Bastard Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Claymore">Claymore</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Flamberge">Flamberge</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Morion+Blade">Morion Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Northern+Regalia">Northern Regalia</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Soulbrandt">Soulbrandt</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Tired of anon posting? Register!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16747364" class="cmnt-root" data="8" data-d="1659333705000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">01 Aug 2022 02:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16747364" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Though best for cleric/paladin types, it’s still a good weapon for mages. Just pair it with the Talisman of Beasts and the extra points you put into faith will strengthen your sorceries as well.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16747364" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16747364" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16747364"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16747364" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16747364"></ul></li></ul></li>
+			
+				<li id="16746955" class="cmnt-root" data="3" data-d="1659197912000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">30 Jul 2022 12:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16746955" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Doubles as a decent torch in really dark areas.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16746955" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16746955" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>4</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16746955"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16746955" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16746955"></ul></li></ul></li>
+			
+				<li id="16744212" class="cmnt-root" data="75" data-d="1658806464000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">25 Jul 2022 23:34</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16744212" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">How you get the Moonlight Greatsword in FromSoftware games:<br/><br/>DS1: By cutting off the tail of the last surviving dragon from the Age of Ancients.<br/><br/>DS2: By transposing the soul of a magical spider empowered by a bonfire aesthetic or a second playthrough.<br/><br/>DS3: By transposing the soul of a king consumed by an obsession with dragons that he became one himself.<br/><br/>Bloodborne: From defeating a monster who used the sword as a guide throughout most of their life.<br/><br/>Elden Ring: From becoming the consort of an empyrean who you helped defy her destiny and receiving as a gift.<br/><br/>Demon’s Souls:  S l u g s</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16744212" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16744212" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>77</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16744212"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16744212" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16744212"></ul></li></ul></li>
+			
+				<li id="16741410" class="cmnt-root" data="13" data-d="1658455487000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">21 Jul 2022 22:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16741410" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This weapon is good because:<br/>1. No split so the damage is reduced only one time <br/>2. It weighs nothing to be a greatsword<br/>3. No str/dex requirements<br/>4. Easily obtainable<br/>5. It can be upgraded (sadly only the scaling is affected, not the base damage)<br/>6. Bypass most of the shields<br/>7. Is cool as **** so the damage is increased by just wielding the sword, it&apos;s a psychological buff, the most OP buff of all</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16741410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16741410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>14</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16741410"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16741410" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16741410"></ul></li></ul></li>
+			
+				<li id="16725689" class="cmnt-root" data="32" data-d="1656392460000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">28 Jun 2022 01:01</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16725689" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">f in the comments for everyone who thought it scaled with intelligence.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16725689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16725689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>32</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16725689"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16725689" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16725689"></ul></li></ul></li>
+			
+				<li id="16658399" class="cmnt-root" data="7" data-d="1651270912000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">29 Apr 2022 18:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16658399" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">By God at mine side, I will slay thee daemons!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16658399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16658399" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16658399"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16658399" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16658399"></ul></li></ul></li>
+			
+				<li id="16645101" class="cmnt-root" data="2" data-d="1650899982000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">25 Apr 2022 11:19</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16645101" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Oh it&apos;s a faith weapon in this game? That&apos;s neat.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16645101" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16645101" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16645101"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16645101" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16645101"></ul></li></ul></li>
+			
+				<li id="16644097" class="cmnt-root" data="-6" data-d="1650671239000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">22 Apr 2022 19:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16644097" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Wow. This didn&apos;t do nearly as much damage as I was expecting. I only had 16 faith when I found it, and I didn&apos;t get it until nearly the end of the game. So I grinded out 8 level at Altar Of Storms. Was super excited to try out the DeS version of this legendary weapon annnnd...it just wasn&apos;t very good. Since it was so late game for me, I had multiple other weapons that outclassed it, even my other Crescent weapons out preformed it. Enemies not being able to block it is pretty cool, but there really aren&apos;t very many enemies who block in the first place so it&apos;s not that useful and I only play PvE. Those 8 levels would have been much more helpful in Magic, Strength or Dex. Shame that it only scales in Faith. Still absolutely love the weapon, but in this case it was disappointing.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16644097" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16644097" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>11</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16644097"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16644097" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16644097"></ul></li></ul></li>
+			
+				<li id="16499410" class="cmnt-root" data="36" data-d="1647150627000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">13 Mar 2022 00:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16499410" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Ah, you were at my side all along. My true mentor. My guiding moonlight. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16499410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16499410" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>37</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16499410"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16499410" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16499410"></ul></li></ul></li>
+			
+				<li id="16402689" class="cmnt-root" data="37" data-d="1642393554000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">16 Jan 2022 23:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16402689" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I don’t know who needs to hear this and I’m probably 10+ years late but you can use soul remains to pull the slugs off the sword once the pile has dropped. Just throw one to the side every few seconds and eventually the sword will be easily obtainable.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16402689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16402689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>37</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16402689"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16402689" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16402689"></ul></li></ul></li>
+			
+				<li id="16396990" class="cmnt-root" data="5" data-d="1640677705000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">28 Dec 2021 02:48</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16396990" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">*Insert Ludwig reference here*</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16396990" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16396990" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16396990"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16396990" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16396990"></ul></li></ul></li>
+			
+				<li id="16396539" class="cmnt-root" data="-2" data-d="1640519328000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">26 Dec 2021 06:48</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16396539" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Looks great. By the time I found it though I had a Blessed Mirdan Hammer +1 or +2 that was already outperforming it at either 25 or 28 faith, which is a shame...</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16396539" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16396539" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>0</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16396539"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16396539" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16396539"></ul></li></ul></li>
+			
+				<li id="16394280" class="cmnt-root" data="-4" data-d="1639610750000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">15 Dec 2021 18:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16394280" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Even at 60 Faith this is still inferior to the Northern Regalia, provided you are at PWCT or PBCT. I was kind of bummed with how weak Faith-focused builds feel.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16394280" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16394280" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>6</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16394280"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16394280" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16394280"></ul></li></ul></li>
+			
+				<li id="16391411" class="cmnt-root" data="10" data-d="1638413592000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">01 Dec 2021 21:53</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16391411" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">As usual info is great but linked timestamp is just horrifically bad, please change it to 27:35 since that&apos;s the initial location + how to get to the slug hive then to the sword itself instead of &quot;OH HEY! ITS A SWORD!&quot; timestamp </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16391411" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16391411" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16391411"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16391411" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16391411"></ul></li></ul></li>
+			
+				<li id="16365401" class="cmnt-root" data="47" data-d="1629315548000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">18 Aug 2021 15:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16365401" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It scales with faith!? Been putting my points into magic :(</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16365401" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16365401" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>47</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16365401"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16365401" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16365401"></ul></li></ul></li>
+			
+				<li id="16365379" class="cmnt-root" data="7" data-d="1629308411000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">18 Aug 2021 13:40</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16365379" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Because it ignores shields does that also mean it can&apos;t be parried? </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16365379" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16365379" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16365379"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16365379" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16365379"></ul></li></ul></li>
+			
+				<li id="16353231" class="cmnt-root" data="-92" data-d="1625242904000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">02 Jul 2021 12:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16353231" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Literally use any Dragon Weapon instead.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16353231" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16353231" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>95</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16353231"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16353231" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16353231"></ul></li></ul></li>
+			
+				<li id="16339900" class="cmnt-root" data="6" data-d="1620782792000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">11 May 2021 21:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16339900" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This weapon in antique mode with the Saints set is absolutely beautiful.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16339900" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16339900" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16339900"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16339900" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16339900"></ul></li></ul></li>
+			
+				<li id="16339555" class="cmnt-root" data="7" data-d="1620697193000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">10 May 2021 21:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16339555" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">My favorite redesign in the remake, it looks awesome</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16339555" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16339555" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16339555"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16339555" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16339555"></ul></li></ul></li>
+			
+				<li id="16330652" class="cmnt-root" data="132" data-d="1618454618000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">14 Apr 2021 22:43</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16330652" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">My true mentor, my guiding moonlight (horse noises, eargasmic music starts)</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16330652" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16330652" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>134</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16330652"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16330652" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16330652"></ul></li></ul></li>
+			
+				<li id="16312326" class="cmnt-root" data="41" data-d="1614178258000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">24 Feb 2021 09:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16312326" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Good hunter, have you seen the thread of light?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16312326" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16312326" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>42</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16312326"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16312326" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16312326"></ul></li></ul></li>
+			
+				<li id="16310774" class="cmnt-root" data="3" data-d="1613762472000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">19 Feb 2021 14:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16310774" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Equipping this in the Remake , while having the Talisman of Beasts and having the God&apos;s Wrath Miracle... It just shreds with the AoE ( You do get Bonus Damage while having the Moonlight Sword on , for a pretty Satisfying AoE ). Also works really well against Most Bosses with God&apos;s Wrath... Even though i&apos;m mainly a Magic Build character with Blueblood Sword &amp;amp; Magic Spells. But the Talisman of Beasts works really well with a High Magic Stat &amp;amp; decent Faith stat Soul Levels... This is also the only Large Sword in the Remake that cuts through Shields aswell along with Blind , which makes it very viable weapon specialy Late game or NG+ runs.... However , the Blueblood Sword excels at Damage outputs considering it can be Buffed with Resin Buffs &amp;amp; other Spell buffs too for Insane Damage.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16310774" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16310774" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16310774"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16310774" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16310774"></ul></li></ul></li>
+			
+				<li id="16303794" class="cmnt-root" data="16" data-d="1611955422000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=105078" rel="nofollow"  target="_blank" style="color: #;">DemonsSoulsMaster</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">29 Jan 2021 16:23</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16303794" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Watching a noob try to block this thing with his shield while you relentlessly abuse him is sad and amazing at the same time.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16303794" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16303794" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>31</p><i class="add">+1</i></section><section class="t-down"><span></span><p>15</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16303794"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16303794" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16303794"></ul></li></ul></li>
+			
+				<li id="16293577" class="cmnt-root" data="19" data-d="1609465843000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">31 Dec 2020 20:50</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16293577" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Does this thing shoot projectiles like in DS and BB? </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16293577" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16293577" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>21</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16293577"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16293577" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16293577"></ul></li></ul></li>
+			
+				<li id="16292829" class="cmnt-root" data="14" data-d="1609293326000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">29 Dec 2020 20:55</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16292829" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I&apos;m not getting a lot of damage out of it at 45 faith and +5 upgrade. 300 base magic, but on NG+ its not scaling high enough. Its fantastic for killing shields, but fails to achieve great output. I went back to using blessed weapons instead that scaled higher, and bust this out whenever someone invades. Its a great R1 spammer in that situation.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16292829" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16292829" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>2</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16292829"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16292829" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16292829"></ul></li></ul></li>
+			
+				<li id="16285153" class="cmnt-root" data="-6" data-d="1607619857000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/100785_1631030869.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=100785" rel="nofollow"  target="_blank" style="color: #;">SlaveKnightKos</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">10 Dec 2020 12:04</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16285153" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">No wonder I couldn&apos;t break the MLG of the person I invaded, 900 durability!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16285153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16285153" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>14</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16285153"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16285153" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16285153"></ul></li></ul></li>
+			
+				<li id="16284902" class="cmnt-root" data="12" data-d="1607565119000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">09 Dec 2020 20:51</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16284902" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Nowhere does it mention how much of a ****ing beast this things durability is. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16284902" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16284902" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>12</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16284902"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16284902" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16284902"></ul></li></ul></li>
+			
+				<li id="16281880" class="cmnt-root" data="9" data-d="1606840628000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">01 Dec 2020 11:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16281880" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This sword is not appearing in my game.  Does world tendency play a role?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16281880" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16281880" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>12</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16281880"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16281880" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16281880"></ul></li></ul></li>
+			
+				<li id="16281364" class="cmnt-root" data="25" data-d="1606714756000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/100785_1631030869.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=100785" rel="nofollow"  target="_blank" style="color: #;">SlaveKnightKos</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">30 Nov 2020 00:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16281364" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The light weapon esque  aura around it looks amazing</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16281364" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16281364" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>26</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16281364"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16281364" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16281364"></ul></li></ul></li>
+			
+				<li id="16279059" class="cmnt-root" data="181" data-d="1606149124000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">23 Nov 2020 11:32</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16279059" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">ahhhhhh, you were at my side at along</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16279059" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16279059" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>188</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16279059"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16279059" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16279059"></ul></li></ul></li>
+			
+				<li id="16277946" class="cmnt-root" data="-23" data-d="1605821491000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/100785_1631030869.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=100785" rel="nofollow"  target="_blank" style="color: #;">SlaveKnightKos</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">19 Nov 2020 16:31</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16277946" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Looks closer to the Blue Moon Greatsword from Dark Souls 2 than any of the other Moonlight Greatsword</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16277946" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16277946" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>28</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16277946"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16277946" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16277946"></ul></li></ul></li>
+			
+				<li id="16276951" class="cmnt-root" data="4" data-d="1605547768000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">16 Nov 2020 12:29</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16276951" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment"> </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16276951" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16276951" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>5</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16276951"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16276951" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16276951"></ul></li></ul></li>
+			
+				<li id="16276689" class="cmnt-root" data="0" data-d="1605474508000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">15 Nov 2020 16:08</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16276689" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">When clicking <br/>Moonlight Greatsword in Dark Souls 3 it take you to the Dark Souls 2 version of the sword, not the Dark Souls 3 as it should</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16276689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16276689" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>3</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16276689"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16276689" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16276689"></ul></li></ul></li>
+			
+				<li id="16276650" class="cmnt-root" data="80" data-d="1605463122000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">15 Nov 2020 12:58</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16276650" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">this weapon looks amazing in the remake</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16276650" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16276650" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>83</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16276650"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16276650" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16276650"></ul></li></ul></li>
+			
+				<li id="16276218" class="cmnt-root" data="-11" data-d="1605326391000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">13 Nov 2020 22:59</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16276218" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It ain&apos;t just a recurring theme in &quot;Soulsborne&quot; <br/>go play some King&apos;s Field and Armored Core ya goofs.<br/>Best Sword No matter what though.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16276218" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16276218" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>30</p><i class="add">+1</i></section><section class="t-down"><span></span><p>41</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16276218"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16276218" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16276218"></ul></li></ul></li>
+			
+				<li id="16264211" class="cmnt-root" data="-37" data-d="1602209912000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/100785_1631030869.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=100785" rel="nofollow"  target="_blank" style="color: #;">SlaveKnightKos</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">08 Oct 2020 22:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16264211" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This would be a great low level weapon in the remake to obliterate those casuls that think shields can protect them. Would probably work better with Blind though. <br/>[T]/</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16264211" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16264211" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>7</p><i class="add">+1</i></section><section class="t-down"><span></span><p>44</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16264211"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16264211" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16264211"></ul></li></ul></li>
+			
+				<li id="16258543" class="cmnt-root" data="64" data-d="1600601188000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">20 Sep 2020 07:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16258543" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">It uses faith?! I skipped over it during my faith playthrogh becuase I assumed it uses intellegence like the other souls games..</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16258543" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16258543" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>64</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16258543"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16258543" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16258543"></ul></li></ul></li>
+			
+				<li id="16257836" class="cmnt-root" data="19" data-d="1600385401000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">17 Sep 2020 19:30</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16257836" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Can’t wait to use this in remake</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16257836" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16257836" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>19</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16257836"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16257836" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16257836"></ul></li></ul></li>
+			
+				<li id="16227262" class="cmnt-root" data="11" data-d="1592955700000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/80450_1561118198.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=80450" rel="nofollow"  target="_blank" style="color: #;">Gr4ndp4_4rt0r145</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">23 Jun 2020 19:41</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16227262" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Particularly useful for killing Bearbugs, the Red and Blue Dragons and the Flamelurker and Armor Spider.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16227262" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16227262" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16227262"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16227262" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16227262"></ul></li></ul></li>
+			
+				<li id="16212309" class="cmnt-root" data="18" data-d="1589138269000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">10 May 2020 15:17</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16212309" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">The best iteration of the MGS in the series, in my opinion.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16212309" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16212309" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>25</p><i class="add">+1</i></section><section class="t-down"><span></span><p>7</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16212309"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16212309" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16212309"></ul></li></ul></li>
+			
+				<li id="16206522" class="cmnt-root" data="78" data-d="1587901534000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">26 Apr 2020 07:45</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16206522" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Aah, you were at my side, all along.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16206522" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16206522" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>84</p><i class="add">+1</i></section><section class="t-down"><span></span><p>6</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16206522"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16206522" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16206522"></ul></li></ul></li>
+			
+				<li id="16144353" class="cmnt-root" data="27" data-d="1567470111000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">02 Sep 2019 20:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16144353" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Not just recurrent in the Soulsbournes, but also King’s Field.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16144353" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16144353" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">4</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>28</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16144353"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16144353" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16144353"></ul></li></ul></li>
+			
+				<li id="16130527" class="cmnt-root" data="-11" data-d="1562088414000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">02 Jul 2019 13:26</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16130527" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">A revelation from god? Was this Astraeas weapon until she casted god (and his revelation, this sword) away?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16130527" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16130527" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>2</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16130527"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16130527" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16130527"></ul></li></ul></li>
+			
+				<li id="16119814" class="cmnt-root" data="7" data-d="1557292681000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">08 May 2019 01:18</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16119814" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I think the damage chart is off. It goes 100, 200, and then 100 for the rest of it for some reason. I feel like this is not accurate.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16119814" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16119814" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16119814"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16119814" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16119814"></ul></li></ul></li>
+			
+				<li id="15958172" class="cmnt-root" data="111" data-d="1499832806000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">12 Jul 2017 00:13</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=15958172" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Ahh, You were at my side all along!</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15958172" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15958172" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>117</p><i class="add">+1</i></section><section class="t-down"><span></span><p>6</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15958172"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15958172" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15958172"></ul></li></ul></li>
+			
+				<li id="15946131" class="cmnt-root" data="34" data-d="1493425546000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541862/Large-Sword-of-Moonlight" rel="nofollow" target="_blank">28 Apr 2017 20:25</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=15946131" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">I have a str/fth build and this thing rips through those red eye Knights like butter! :-D</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15946131" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15946131" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>34</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15946131"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15946131" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15946131"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Demons+Souls+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #AB966F;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/ea7vKvt" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #AB966F;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/ea7vKvt" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+});
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"778168a51a17f995","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>

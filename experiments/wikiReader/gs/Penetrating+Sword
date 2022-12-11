@@ -1,0 +1,2919 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="description" content="Penetrating Sword is a Weapon in Demon's Souls. Penetrating Sword guide with all stats, location, upgrades, lore, and tips for Demon's Souls." />
+		<meta name="msvalidate.01" content="663178F9F25C3ED57D64CFF2E5B7FFAA" />
+		<meta name="google-site-verification" content="bQqyY4AeKKKWxUQrr34-kgQNWyCx7DtDJ3nbKkYZrag" />		
+		<meta name="google-site-verification" content="BkHcHuN8mXWUPZ0QBrK4fTUij37eEjGHixZPyEbkZdg" />
+		<link rel="canonical" href="https://demonssouls.wiki.fextralife.com/Penetrating+Sword" />
+		<title>Penetrating Sword | Demons Souls Wiki</title>
+		
+		<link type="logos/x-icon" href="/file/Demons-Souls/demons-souls-wiki.png" rel="shortcut icon">
+		
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/glyphiconfallback6-min.css?v=00004e">
+		<link rel="stylesheet" href="https://swcdn.fextralife.com/css/styles-global-min.css?js=00004g">
+		<link rel="stylesheet" href="/xcss/theme-general.css?js=0003az">
+		<link rel="stylesheet" href="/xcss/styles.css?js=0003az">
+		
+			<meta property="og:type" content="article" />
+			<meta property="og:site_name" content="Demons Souls Wiki" />
+			<meta property="og:title" content="Penetrating Sword | Demons Souls Wiki" />
+			<meta property="og:description" content="Penetrating Sword is a Weapon in Demon's Souls. Penetrating Sword guide with all stats, location, upgrades, lore, and tips for Demon's Souls." />
+			<meta property="og:url" content="https://demonssouls.wiki.fextralife.com/Penetrating+Sword" />
+			<meta property="og:image" content="https://demonssouls.wiki.fextralife.com/file/Demons-Souls/penetrating_word_weapons_demons_souls_remake_wiki_guide_64px.png">
+		
+		<script data-cfasync="false">
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-43196770-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Y3QYVHQWZC');
+		</script>
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/js/utils-min.js?js=0003az"></script>
+		
+		<script data-cfasync="false" defer type="text/javascript" src="https://swcdn.fextralife.com/wiki/js/page-general-min.js?js=0007f"></script>
+		<script data-cfasync="false" type="text/javascript">
+			// Picture element HTML5 shiv
+			document.createElement( "picture" );
+
+			var pagex = new Object();
+			pagex['wikiId'] = '77417417-0e39-45e5-b101-0deb4ab39061';
+			pagex['wikiName'] = 'Demons+Souls'; 
+			pagex['wikiTitle'] = 'Demons Souls';
+			pagex['pageId'] = '17cf9ec3-cc92-4dd1-9c78-a5a537dbd27e';
+			pagex['pageName'] = '';
+			pagex['title'] = '';
+			pagex['pageContent'] = null;
+			pagex['pageContentFlag'] = null;
+
+			var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+			var plud = new Date(1616977397000);
+			var dindex = plud.toString().indexOf(' (');
+			var fd = dindex == -1 ? plud.toString() : plud.toString().substring(0, dindex);
+			fd = plud.getFullYear() + '-' + ((plud.getMonth()+1).toString().length == 1 ? '0' + (plud.getMonth()+1) : (plud.getMonth()+1)) + '-' + (plud.getDate().toString().length == 1 ? '0' + plud.getDate() : plud.getDate()) + 'T' + (fd.substr(fd.length - 17));
+			fd = fd.replace(' GMT', '');
+			pagex['ipDateModified'] = fd;
+			var pglmd = ("0" + plud.getDate()).slice(-2) + ' ' + monthNames[plud.getMonth()] + ' ' + plud.getFullYear() + ' ' + ("0" + plud.getHours()).slice(-2) + ':' + ("0" + plud.getMinutes()).slice(-2);
+			pagex['dateModified'] = pglmd;
+
+
+//			var hasOnlineUsers = false;
+			var grc = '6LdQDSMUAAAAAMh7M7RxIO4c43SaptRYkLFEOUhq';
+			var cx = '013588101548136424510:vaz2h5xdxxw';
+
+function getCookie(name) {var nameEQ = name + "=";var ca = document.cookie.split(';');for (var i = 0; i < ca.length; i++) {var c = ca[i];while (c.charAt(0) == ' ') c = c.substring(1, c.length);if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);}return null;}
+function setCookie(name,value,days) {var expires = "";if (days) {var date = new Date();date.setTime(date.getTime() + (days*24*60*60*1000));expires = "; expires=" + date.toUTCString();}document.cookie = name + "=" + (value || "")  + expires + ";domain=.fextralife.com;path=/";}
+function loadMyCookie(callback){var xobj = new XMLHttpRequest();xobj.overrideMimeType('application/json');xobj.open('GET', 'https://demonssouls.wiki.fextralife.com/ws/wiki/ex?d=' + new Date().getTime(), true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == '200') {callback(xobj.responseText);}};xobj.send(null);}
+var ua = '001';
+var c = getCookie('gxnwc');
+if (c == null){var woc = getCookie('wlbfo');if (woc != null) {loadMyCookie(function(response){c = getCookie('gxnwc');if (c != null){window.location.href = location;}});}}
+if (c != null) {
+        var u = c.split(':');
+        ua = u[3];
+}
+var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');
+		</script>
+	</head>
+	<body style="background-color: #111;font-size: 14px;color:#fff;">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KW2R3PT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<div id="div-gpt-ad-1551140609289-0"></div>
+		<picture>
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+		<picture>
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 1000px)">
+			<source srcset="/file/Demons-Souls/demons-souls-wiki-backgrounds-min.jpg" media="(min-width: 600px)">
+			<img class="bg" srcset="" alt="">
+		</picture>
+
+		<div class="ios-fix">
+			<div id="fex-menu-fixed">
+				<a class="toggle" href="#"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></a>
+				<div class="fex-search-menu-wrapper">
+					<input id="spf" type="search" class="fex-search-menu" placeholder="Search" style="width: 100% !important;">
+				</div>
+			</div>
+			<div class="container-fluid fex-bg-image">
+				
+
+
+
+
+<form id="form-header" method="post" action="/ws/authentication/logout">
+	<div class="clearfix">
+		<div style="/*margin-left:35px;*/" itemtype="https://schema.org/Brand" itemscope="">
+			<a class="WikiLogo WikiElement" href="/Demons+Souls+Wiki" itemprop="url">
+				<picture>
+					<source srcset="/file/Demons-Souls/demons-souls-wiki-logo-smalls.png" media="(min-width: 1100px)">
+					<img srcset="" alt="Demons Souls Wiki" style="height:65px;">
+				</picture>
+			</a>
+		</div>
+		<div class="ad-banner hidden-xs">
+			<div id="header-add-a">
+				<div id="div-gpt-ad-1551140609289-3"></div>
+			</div>
+<div id="video-header">
+			</div>
+		</div>
+		<div id="fex-account">
+			<div class="responsive" role="group">
+				<div id="user-menu" class="sub btn-group btn-group-sm">
+					<button id="umname" type="button" class="usrSignIn buser-options btn btn-default" style="width:initial;">Sign In</button>
+					<ul class="user-options muser-options dropdown-menu" style="display:none;"></ul>
+					<button type="button" class="bhelp-options btn btn-default" style="width:initial;">Help</button>
+					<ul class="help-options mhelp-options dropdown-menu" style="display:none;"></ul>
+					<button id="usrSignOut" type="button" class="btn btn-default" style="display:none;">Sign Out</button>
+				</div>
+				<div id="userMenuBtn" class="fex-name"></div>
+			</div>
+		</div>
+	</div>
+</form>
+
+				<div class="fex-main">
+					<div id="wrapper">
+						<nav class="visible-lg navbar navbar-inverse navbar-fixed-top">
+							<div class="container-fluid">
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#fextra-navbar-collapse-1" aria-expanded="false">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="fextraswordsmenu">
+										<a href="https://fextralife.com/" itemprop="url">
+											<picture>
+												<source media="(min-width: 1100px)" srcset="/file/Demo/fextra-swords-white-42px.png">
+												<img srcset="" alt="Fextralife" style="width: 42px;padding-top: 10px;">
+											</picture>
+										</a>
+									</div>
+								</div>
+								<div class="collapse navbar-collapse" id="fextra-navbar-collapse-1">
+									<ul id="navMenux" class="nav navbar-nav" itemscope itemtype="https://schema.org/SiteNavigationElement">
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite home"></span><span class="hidden-lg">Wiki </span>Home<span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Demons+Souls+Wiki" itemprop="url"><span class="navsprite miniring"></span>Wiki Home</a></li> 
+   <li> <a href="https://fextralife.com/forums/f4/demons-souls/" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a> </li> 
+   <li> <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a> </li> 
+   <li> <a href="https://fextralife.com/shop" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a> </li> 
+   <li> <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a> </li> 
+   <li> <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite a"></span>General<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/General+Information" itemprop="url"><span class="navsprite miniring"></span>General Information</a></li> 
+   <li> <a href="/Demons+Souls" itemprop="url"><span class="navsprite miniring"></span>About Demon's Souls</a> </li> 
+   <li> <a href="/Demon's+Souls+Remake" itemprop="url"><span class="navsprite miniring"></span>Demon's Souls Remake Hub</a> </li> 
+   <li> <a href="/Patch+Notes" itemprop="url"><span class="navsprite miniring"></span>Patch Notes</a> </li> 
+   <li> <a href="/Controls" itemprop="url"> <span class="navsprite miniring"></span>Controls</a> </li> 
+   <li> <a href="/Combat" itemprop="url"> <span class="navsprite miniring"></span>Combat</a> </li> 
+   <li> <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a> </li> 
+   <li> <a href="/FAQ" itemprop="url"> <span class="navsprite miniring"></span>FAQs</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite b"></span>Character<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Character+Information" itemprop="url"><span class="navsprite miniring"></span>Character Information</a></li> 
+   <li> <a href="/Character+Creation" itemprop="url"> <span class="navsprite miniring"></span>Character Creation</a> </li> 
+   <li> <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a> </li> 
+   <li> <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a> </li> 
+   <li> <a href="/Status+Effects" itemprop="url"><span class="navsprite miniring"></span>Status Effects</a> </li> 
+   <li> <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a> </li> 
+   <li> <a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a> </li> 
+   <li> <a href="/Character+Tendency" itemprop="url"><span class="navsprite miniring"></span>Character Tendency</a> </li> 
+   <li> <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a> 
+    <ul class="subsub"> 
+     <li> <a href="/PvE+Builds" itemprop="url">PvE Builds</a> </li> 
+     <li> <a href="/PvP+Builds" itemprop="url">PvP Builds</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite c"></span>Equipment<span class="hidden-lg"> &amp; Magic</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite miniring"></span>Equipment &amp; Magic</a></li> 
+   <li> <a href="/Spells" itemprop="url"><span class="navsprite miniring"></span>Spells</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Magic+Spells" itemprop="url"><span class=""></span>Magic Spells</a> </li> 
+     <li> <a href="/Miracles" itemprop="url">Miracles</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Boss+Soul+Weapons" itemprop="url"><span class=""></span>Boss Soul Weapons</a> </li> 
+     <li> <a href="/Catalysts" itemprop="url">Catalysts</a> </li> 
+     <li> <a href="/Talismans" itemprop="url">Talismans</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a> </li> 
+   <li> <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Helms" itemprop="url">Helms</a> </li> 
+     <li> <a href="/Chest+Armors" itemprop="url">Chest Armors</a> </li> 
+     <li> <a href="/Gauntlets" itemprop="url">Gauntlets</a> </li> 
+     <li> <a href="/Leggings" itemprop="url">Leggings</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a> </li> 
+   <li> <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a> </li> 
+   <li> <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Key+Items" itemprop="url">Key Items</a> </li> 
+     <li> <a href="/Eye+Stones" itemprop="url">Eye Stones</a> </li> 
+     <li> <a href="/Stones" itemprop="url"> <span class=""></span>Stones</a> </li> 
+     <li> <a href="/Consumables" itemprop="url"> <span class=""></span>Consumables</a> </li> 
+     <li> <a href="/Projectiles" itemprop="url"> <span class=""></span>Projectiles</a> </li> 
+     <li> <a href="/Ammunition" itemprop="url"> <span class=""></span>Ammunition</a> </li> 
+     <li> <a href="/Souls" itemprop="url"> <span class=""></span>Souls</a> </li> 
+     <li> <a href="/Demon's+Souls" itemprop="url"><span class=""></span>Demon's Souls</a> </li> 
+    </ul> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite d"></span>Online<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Online+Information" itemprop="url"><span class="navsprite miniring"></span>Online Information</a></li> 
+   <li> <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a> </li> 
+   <li> <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a> </li> 
+   <li> <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a> </li> 
+   <li> <a href="/Photo+Mode" itemprop="url"> <span class="navsprite miniring"></span>Photo Mode</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite e"></span>World<span class="hidden-lg"> Information</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/World+Information" itemprop="url"><span class="navsprite miniring"></span>World Information</a></li> 
+   <li> <a href="/Fractured+Mode" itemprop="url"><span class="navsprite miniring"></span>Fractured Mode</a> </li> 
+   <li> <a href="/World+Tendency" itemprop="url"> <span class="navsprite miniring"></span>World tendency</a> </li> 
+   <li> <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Maps" itemprop="url">Maps</a> </li> 
+    </ul> </li> 
+   <li> <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a> </li> 
+   <li> <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies</a> 
+    <ul class="subsub"> 
+     <li> <a href="/Bosses" itemprop="url">Bosses</a> </li> 
+     <li> <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a> </li> 
+    </ul> </li> 
+   <li> <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a> </li>
+  </ul></li> 
+ <li class="dropdown" itemprop="name"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="navsprite f"></span>Guides<span class="hidden-lg"> &amp; Walkthroughs</span><span class="caret"></span></a> 
+  <ul class="dropdown-menu">
+   <li><a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite miniring"></span>Guides &amp; Walkthroughs</a></li> 
+   <li> <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a> </li> 
+   <li> <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a> </li> 
+   <li> <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a> </li> 
+   <li> <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a> </li> 
+   <li> <a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a> </li> 
+   <li> <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a> </li> 
+   <li> <a href="/Trophy+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy Guide</a> </li>
+  </ul></li>
+</ul>
+									<div class="navbar-form navbar-right" style="padding-top:10px;">
+										<div class="form-group">
+											<input type="text" class="form-control" placeholder="Search" id="spf">
+										</div>
+									</div>
+									<ul class="nav navbar-nav navbar-right" style="margin-top:5px;">
+										<li><a href="https://fextralife.com/be-a-vip" target="_blank"><i class="glyphicon glyphicon-star" style="color: gold;"></i> VIP</a></li>
+										<li id="menu-user-slot">
+											<a id="user-slot" href="#" class="sign-in" itemprop="url"><span id="user-avatar" class="glyphicon glyphicon-user"></span> <span class="user">Guest</span></a>
+											<ul class="user-options dropdown-menu"></ul>
+										</li>
+										<li class="dropdown">
+											<a href="#" itemprop="url" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-question-sign"></span> Help<span class="caret"></span></a>
+											<ul class="help-options dropdown-menu"></ul>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+						<div id="sidebar-wrapper">
+							<div class="row">
+								<div class="col-sm-4" style="text-align:center; "><div class="addthis_inline_follow_toolbox" style="margin-left:auto;margin-right:auto;margin-top:-12px"></div></div>
+								<div id="join-vip-container" class="col-sm-8" style="height:22px;"></div>
+							</div>
+							<div class="sidebar-nav">
+								
+
+
+
+
+<div class="hidden-lg">
+	<nav id="sidebar">
+		<div class="form-inline fex-search-wrapper hidden-sm hidden-xs">
+			<div class="input-group input-group-sm" style="width: 100%;">
+				<input id="spf" type="text" class="form-control fex-search" placeholder="Search it up... (hit enter)" style="width: 100% !important;">
+				<div id="search-trigger" data="not-loaded" style="display:none;"><gcse:searchbox></gcse:searchbox></div>
+				<br>
+				<span class="input-group-btn"></span>
+			</div>
+		</div>
+		<ul id="navMenu" itemscope itemtype="https://schema.org/SiteNavigationElement">
+					<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Demons+Souls+Wiki" itemprop="url"><span class="navsprite home"></span>Wiki Home</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+                <a href="https://fextralife.com/forums/f4/demons-souls/" itemprop="url"><span class="navsprite miniring"></span>Wiki Forums</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/todo" itemprop="url"><span class="navsprite miniring"></span>Wiki To-Do</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://fextralife.com/shop" itemprop="url"><span class="navsprite miniring"></span>Wiki Shop</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Blog</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="https://www.wiki.fextralife.com/" target="_blank" itemprop="url"><span class="navsprite miniring"></span>Fextralife Wiki Hub</a>
+              </li>
+            </ul>
+          </li>
+          <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/General+Information" itemprop="url"><span class="navsprite a"></span>General Information</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+                <a href="/Demons+Souls" itemprop="url"><span class="navsprite miniring"></span>About Demon's Souls</a>
+               
+                <hr>
+              </li>
+       
+              <li itemprop="name">
+                <a href="/Demon's+Souls+Remake" itemprop="url"><span class="navsprite miniring"></span>Demon's Souls Remake Hub</a>
+                <hr>
+              </li><li itemprop="name">
+                <a href="/Patch+Notes" itemprop="url"><span class="navsprite miniring"></span>Patch Notes</a>
+<hr>
+              <hr></li><li itemprop="name">
+
+<a href="/Controls" itemprop="url">
+<span class="navsprite miniring"></span>Controls</a><hr>
+</li><li itemprop="name">
+
+<a href="/Combat" itemprop="url">
+<span class="navsprite miniring"></span>Combat</a><hr>
+</li>
+              <li itemprop="name">
+                <a href="/DLC" itemprop="url"><span class="navsprite miniring"></span>DLC</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+
+<a href="/FAQ" itemprop="url">
+<span class="navsprite miniring"></span>FAQs</a>
+</li>
+			                
+            </ul>
+          </li>
+          <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Character+Information" itemprop="url"><span class="navsprite b"></span>Character Information</a>
+            <ul class="navSubMenu">
+              <li itemprop="name">
+
+<a href="/Character+Creation" itemprop="url">
+<span class="navsprite miniring"></span>Character Creation</a><hr>
+</li><li itemprop="name">
+                <a href="/Classes" itemprop="url"><span class="navsprite miniring"></span>Classes</a>
+                <hr>
+              </li>
+                 <li itemprop="name">
+                <a href="/Stats" itemprop="url"><span class="navsprite miniring"></span>Stats</a>
+                <hr>
+              </li>
+                 <li itemprop="name">
+                <a href="/Status+Effects" itemprop="url"><span class="navsprite miniring"></span>Status Effects</a>
+                <hr>
+              </li>
+             <li itemprop="name">
+                <a href="/Gestures" itemprop="url"><span class="navsprite miniring"></span>Gestures</a>
+                <hr>
+              </li><li itemprop="name">
+
+<a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a><hr>
+</li>
+             <li itemprop="name">
+                <a href="/Character+Tendency" itemprop="url"><span class="navsprite miniring"></span>Character Tendency</a>
+                <hr>
+              </li>
+       
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/Builds" itemprop="url"><span class="navsprite miniring"></span>Builds</a>
+				<ul class="navSubMenu">
+				  <li itemprop="name">
+                    <a href="/PvE+Builds" itemprop="url">PvE Builds</a>
+                    <hr>
+                  </li>
+                  <li itemprop="name">
+                    <a href="/PvP+Builds" itemprop="url">PvP Builds</a>
+                  </li>
+                </ul>
+              </li>
+			 </ul>  
+            </li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+              <a href="/Equipment+&amp;+Magic" itemprop="url"><span class="navsprite c"></span>Equipment &amp; Magic</a>
+              <ul class="navSubMenu">	  
+				    <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Spells" itemprop="url"><span class="navsprite miniring"></span>Spells</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Magic+Spells" itemprop="url"><span class=""></span>Magic Spells</a>
+                  
+<hr></li><li itemprop="name">
+                    <a href="/Miracles" itemprop="url">Miracles</a>
+                    
+                  </li>
+				    
+                </ul>
+                <hr>
+              </li>				  
+                <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Weapons" itemprop="url"><span class="navsprite miniring"></span>Weapons</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Boss+Soul+Weapons" itemprop="url"><span class=""></span>Boss Soul Weapons</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Catalysts" itemprop="url">Catalysts</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Talismans" itemprop="url">Talismans</a>
+                  
+                  </li>
+                </ul>
+                <hr>
+              </li>
+                <li itemprop="name">
+                  <a href="/Shields" itemprop="url"><span class="navsprite miniring"></span>Shields</a>
+                  <hr>
+                </li>
+                <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Armor" itemprop="url"><span class="navsprite miniring"></span>Armor</a>
+	               <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Helms" itemprop="url">Helms</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Chest+Armors" itemprop="url">Chest Armors</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Gauntlets" itemprop="url">Gauntlets</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Leggings" itemprop="url">Leggings</a>
+			     </li>
+                </ul>
+                <hr>
+              </li>
+                <li itemprop="name">
+                  <a href="/Rings" itemprop="url"><span class="navsprite miniring"></span>Rings</a>
+				  <hr>
+                </li>
+				 <li itemprop="name">
+                  <a href="/Upgrades" itemprop="url"><span class="navsprite miniring"></span>Upgrades</a>
+				  <hr>
+				 </li>
+				  <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                  <a href="/Items" itemprop="url"><span class="navsprite miniring"></span>Items</a>
+				  <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Key+Items" itemprop="url">Key Items</a>
+                    <hr>
+                  </li>
+				    <li itemprop="name">
+                    <a href="/Eye+Stones" itemprop="url">Eye Stones</a>
+                    <hr>
+                  </li><li itemprop="name">
+
+<a href="/Stones" itemprop="url">
+<span class=""></span>Stones</a><hr>
+</li><li itemprop="name">
+
+<a href="/Consumables" itemprop="url">
+<span class=""></span>Consumables</a><hr>
+</li><li itemprop="name">
+
+<a href="/Projectiles" itemprop="url">
+<span class=""></span>Projectiles</a><hr>
+</li><li itemprop="name">
+
+<a href="/Ammunition" itemprop="url">
+<span class=""></span>Ammunition</a><hr>
+</li><li itemprop="name">
+
+<a href="/Souls" itemprop="url">
+<span class=""></span>Souls</a><hr>
+</li>
+				    
+                      
+                      
+                     
+                      <li itemprop="name">
+                    <a href="/Demon's+Souls" itemprop="url"><span class=""></span>Demon's Souls</a>
+                    <hr>
+                  </li>
+                </ul>
+              </li>
+			 </ul>  
+          </li><li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+            <a href="/Online+Information" itemprop="url"><span class="navsprite d"></span>Online Information</a>
+            <ul class="navSubMenu">
+               <li itemprop="name">
+                <a href="/Online" itemprop="url"><span class="navsprite miniring"></span>Online</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Summon+Range+Calculator" itemprop="url"><span class="navsprite miniring"></span>Summon Range Calculator</a>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Player+Trade" itemprop="url"><span class="navsprite miniring"></span>Player Trade</a>
+			     <hr></li><li itemprop="name">
+
+<a href="/Photo+Mode" itemprop="url">
+<span class="navsprite miniring"></span>Photo Mode</a>
+</li>
+                </ul>
+              </li>
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/World+Information" itemprop="url"><span class="navsprite e"></span>World Information</a>
+                <ul class="navSubMenu">
+<li itemprop="name">
+                    <a href="/Fractured+Mode" itemprop="url"><span class="navsprite miniring"></span>Fractured Mode</a>
+<hr>
+</li><li itemprop="name">
+
+<a href="/World+Tendency" itemprop="url">
+<span class="navsprite miniring"></span>World tendency</a><hr>
+</li>
+                  <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                    <a href="/Locations" itemprop="url"><span class="navsprite miniring"></span>Locations</a>
+					<ul class="navSubMenu">
+					<li itemprop="name">
+                    <a href="/Maps" itemprop="url">Maps</a>
+					</li>
+					</ul>
+					<hr>			
+			        </li><li itemprop="name">
+                    <a href="/NPCs" itemprop="url"><span class="navsprite miniring"></span>NPCs</a>
+                    <hr>
+					</li>
+					<li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                    <a href="/Enemies" itemprop="url"><span class="navsprite miniring"></span>Enemies</a>
+				   <ul class="navSubMenu">
+				    <li itemprop="name">
+                    <a href="/Bosses" itemprop="url">Bosses</a>
+                    <hr>
+					</li>
+					<li itemprop="name">
+                    <a href="/Invading+NPC+Phantoms" itemprop="url">Invading NPC Phantoms</a>
+					</li>
+					</ul>
+                <hr>
+              </li>
+              <li itemprop="name">
+                <a href="/Lore" itemprop="url"><span class="navsprite miniring"></span>Lore</a>
+			     </li>
+                </ul>
+              </li>
+              <li itemprop="name" class="collapsible"><span aria-hidden="true" class="glyphicon collapseicon glyphicon-menu-down"></span>
+                <a href="/Guides+&amp;+Walkthroughs" itemprop="url"><span class="navsprite f"></span>Guides &amp; Walkthroughs</a>
+                  <ul class="navSubMenu">
+                    <li itemprop="name">
+                      <a href="/New+Player+Help" itemprop="url"><span class="navsprite miniring"></span>New Player Help</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Walkthrough" itemprop="url"><span class="navsprite miniring"></span>Walkthrough</a>
+					  <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Game+Progress+Route" itemprop="url"><span class="navsprite miniring"></span>Game Progress Route</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/New+Game+Plus" itemprop="url"><span class="navsprite miniring"></span>New Game +</a>
+                      <hr>
+                    </li><li itemprop="name">
+
+<a href="/Delevel:+How+to+re-spec+in+Demon's+Souls" itemprop="url"><span class="navsprite miniring"></span>Delevel Guide</a><hr>
+</li>
+                    <li itemprop="name">
+                      <a href="/Bosses" itemprop="url"><span class="navsprite miniring"></span>Bosses</a>
+                      <hr>
+                    </li>
+                    <li itemprop="name">
+                      <a href="/Trophy+Guide" itemprop="url"><span class="navsprite miniring"></span>Trophy Guide</a>					
+			     </li>
+                </ul>
+              </li>
+
+                
+              
+            
+		
+
+		</ul>
+	</nav>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="fixme hidden-sm" style="width:400px !important;">
+	<div class="ad-sidebar section-heading section-heading-light simulation-hero-heading" style="margin-top:-7px;padding:0px!important; width:400px;max-width:400px!important;max-height:498px!important">
+		<div id="video-stream-container" data-vid="nEoymzsjZW0" data-vplid="" class="yt-container lg-desktop-only" style="max-width:340px;">
+                        <div id= "fextravideo" class="yt-player" data-video="nEoymzsjZW0" data-playlist="" style="display:none;height:191.25px;max-width:340px;"><div><picture><source srcset="//img.youtube.com/vi/nEoymzsjZW0/mqdefault.jpg" media="(min-width: 1100px)"><img class="yt-thumb" srcset="" alt="fallout-wiki-videos" style="max-width:340px;"></picture><div class="play-button lazyload"></div></div></div>
+<script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.innerWidth >= 1100) {document.write('<script type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js"><\/script><div id="fextrastream" class="skinstream"></div>');} else {var fv = document.getElementById('fextravideo');fv.setAttribute('style', 'height:191.25px;max-width:340px;');}</script><script type="text/javascript">var ppp = ua == null || (ua != null && ua != '211' && ua != '111' && ua != '210' && ua != '110' && ua != '100');if (ppp && window.matchMedia("(min-width: 1100px)").matches) {if (ppp && window.matchMedia("(min-width: 1920px)").matches) {var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};var player = new Twitch.Embed("fextrastream", options);} else {var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};var player = new Twitch.Embed("fextrastream", options);}}</script>
+                </div>
+	</div>
+	<div id="menu-add-a" class="ad-sidebar">
+		<div id="div-gpt-ad-1551140609289-1" style="height:250px; width:300px;">
+		</div>
+	</div>
+	<div id="wcomp-articles" class="sidebar-top-border" style="height:406.8px;"></div>
+</div>
+
+<div class="clearfix"></div>
+<div class="space10"></div>
+
+							</div>
+						</div>
+						<div id="page-content-wrapper">
+							<div class="page-content">
+								<div class="container-fluid">
+									<div class="page-chunk">
+										<div id="search-content" style="display: none;">
+<style>
+.gsc-tabHeader.gsc-tabhActive {color:inherit;}
+.cse .gsc-control-cse, .gsc-control-cse {background-color: inherit; border: inherit;}
+.gsc-refinementsArea {display:none;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color: inherit;}
+.gs-result a.gs-visibleUrl, .gs-result .gs-visibleUrl {color:inherit;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gs-result .gs-title, .gs-result .gs-title * {color: #FFF;}
+.gsc-preview-reviews, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em, .gsc-control-cse .gs-snippet, .gsc-control-cse .gs-promotion em {color: inherit;}
+.gsc-table-result {border:none;}
+.gsc-table-result th,td{border:none;}
+.gsc-resultsHeader {display:none;}
+.gsc-adBlock {display:none;}
+.gs-richsnippet-box {display:none !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {color: inherit;}
+
+.gsc-webResult .gsc-result{background-color:inherit;}
+.gs-webResult.gs-result a.gs-title:link, .gs-webResult.gs-result a.gs-title:link b, .gs-imageResult a.gs-title:link, .gs-imageResult a.gs-title:link b {color: inherit;}
+.gs-webResult.gs-result a.gs-title:visited, .gs-webResult.gs-result a.gs-title:visited b, .gs-imageResult a.gs-title:visited, .gs-imageResult a.gs-title:visited b {color: inherit;}
+.gs-webResult div.gs-visibleUrl, .gs-imageResult div.gs-visibleUrl {color: inherit;}
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {background-color: inherit !important;}
+.gsc-results .gsc-cursor-box .gsc-cursor-current-page {border-color: inherit;background-color: inherit;color: inherit;}
+.gsc-results .gsc-cursor-box .gsc-cursor-page {border-color: inherit;background-color: inherit;color: inherit;}
+
+.gsc-webResult.gsc-result{padding:.25em;border:none!important;margin-bottom:0}.gsc-above-wrapper-area{border-bottom:none!important;padding:5px 0}.cse .gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result:hover,.gsc-webResult.gsc-result.gsc-promotion:hover,.gsc-results .gsc-imageResult-classic:hover,.gsc-results .gsc-imageResult-column:hover{border:none!important}.gsc-tabsArea{margin-top:12px;margin-bottom:0;height:29px;border-bottom:none!important}.gsc-result-info-container{text-align:left;display:none!important}
+</style>
+											<h4 class="search-title">Search Results</h4>
+											<ul id="search-result" class="list-unstyled list-results"></ul>
+											<div id="search-result-paging"></div>
+											<gcse:searchresults></gcse:searchresults>
+										</div>
+										<div id="main-content" data-wid="77417417-0e39-45e5-b101-0deb4ab39061" data-pid="17cf9ec3-cc92-4dd1-9c78-a5a537dbd27e" data="010|010|010" data-ga="u|a|a|o|o|o|o|u">
+											<div itemscope itemtype="https://schema.org/Article">
+											
+												
+
+
+
+
+
+<div id="page-content-header-container" >
+	<div class="clearfix">
+		<div class="page-segment">
+			<h1 itemprop="headline">
+
+
+	<a id="page-title" href="https://demonssouls.wiki.fextralife.com/Penetrating+Sword">Penetrating Sword | Demons Souls Wiki</a>
+
+
+			</h1>
+
+			<div class="page-segment-btns">
+			
+				<div class="btn-group btn-group-sm" role="group">
+					<button id="btnPE" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span><span class="hidden-xs"> Edit</span></button>
+					<button id="btnComments" class="btn btn-default" data-toggle="tooltip" data-placement="bottom" title="view discussions"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span><span id="amcom"> 29</span></button>
+					<button id="btnPageHistory" class="btn btn-default hidden-xs hidden-sm" data-toggle="tooltip" data-placement="bottom" title="view 19 revisions"><span class="glyphicon glyphicon-time" aria-hidden="true"></span> 19</button>
+					<button type="button" class="btn btn-default" data-toggle="dropdown" aria-expanded="false" title="more options">&hellip;</button>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+						<li><a id="btnTrddmA" href="" style="display: none;"><span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Create new page</a></li>
+						<li><a id="btnTrddmB" href="" style="display: none;"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span> Edit</a></li>
+						<li><a id="btnTrddmHistory" href=""><span class="glyphicon glyphicon-time" aria-hidden="true"></span> History</a></li>
+						<li><a id="btnTrddmChanges" href=""><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Recent Changes</a></li>
+						<li><a id="btnTrddmE" href="" style="display: none;"><span class="glyphicon glyphicon-file" aria-hidden="true"></span> Rename</a></li>
+						<li><a id="btnTrddmF" href="" style="display: none;"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span> Redirect</a></li>
+						<li><a id="btnTrddmG" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Lock</a></li>
+						<li><a id="btnTrddmH" href="" style="display: none;"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Unlock</a></li>
+
+						<li id="divider-trddm-a" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmJ" href="" style="display: none;"><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Permissions</a></li>
+						<li><a id="btnTrddmK" href="" style="display: none;"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Javascript</a></li>
+						<li><a id="btnTrddmL" href="" style="display: none;"><span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Tags</a></li>						
+						<li><a id="btnTrddmM" href="" style="display: none;"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Edit Open Graph</a></li>
+						<li id="divider-trddm-b" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmN" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear page cache</a></li>
+						<li><a id="btnTrddmO" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Clear comments cache</a></li>
+						<li id="divider-trddm-c" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmP" href="" style="display: none;"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span> File Manager</a></li>
+						<li><a id="btnTrddmQ" href="" style="display: none;"><span class="glyphicon glyphicon-duplicate" aria-hidden="true"></span> Page Manager</a></li>
+						<li><a id="btnTrddmR" href="" style="display: none;"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Wiki Templates</a></li>
+						<li><a id="btnTrddmS" href="" style="display: none;"><span class="glyphicon glyphicon-ok-circle" aria-hidden="true"></span> Comments Approval</a></li>
+						<li><a id="btnTrddmT" href="" style="display: none;"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Wiki Settings</a></li>
+						<li><a id="btnTrddmU" href="" style="display: none;"><span class="glyphicon glyphicon-king" aria-hidden="true"></span> Wiki Manager</a></li>
+						<li id="divider-trddm-d" class="divider" style="display: none;"></li>
+						<li><a id="btnTrddmV" href="" style="display: none;"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span> Delete</a></li>
+					</ul>
+				</div>
+			
+			</div>
+		</div>
+	</div>
+	<div class="breadcrumb-wrapper">
+	
+		
+			
+		<div class="breadcrumbs pull-left" ><div id="breadcrumbs-container">
+<a href="//demonssouls.wiki.fextralife.com/Equipment+&+Magic">Equipment & Magic</a>&nbsp;/&nbsp;<a href="//demonssouls.wiki.fextralife.com/Weapons">Weapons</a>&nbsp;/&nbsp;<a href="//demonssouls.wiki.fextralife.com/Straight+Swords">Straight Swords</a>
+<div id="breadcrumbs-bcontainer" style="display:none;">&nbsp;&nbsp;<a id="btnCreateBreadcrumb" title="Add Breadcrumb" href="#">+</a></div></div></div>
+			
+		<div class="revisiondate pull-right"><time itemprop="dateModified" id= "dateModified" datetime=""></time></div>
+		
+	
+	</div>
+</div>
+<div id="palerts" class="clearfix"></div>
+
+
+<br>
+
+<div id="edition" style="display:none; margin-top: 0px;"></div>
+
+<div id="sub-main" >
+	<div id="wiki-content-block">
+
+	
+		
+
+
+<div id="infobox" class="infobox"> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <tbody> 
+    <tr> 
+     <th colspan="20"><img style="display: block; margin-left: auto; margin-right: auto;" title="Penetrating Sword" src="/file/Demons-Souls/penetrating_word_weapons_demons_souls_remake_wiki_guide_150px.png" alt="Penetrating Sword" width="150" height="234"> <h2>Penetrating Sword</h2> </th> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">90</td> 
+     <td colspan="5"><img style="display: block; margin-left: auto; margin-right: auto;" title="Plague" src="/file/Demons-Souls/plague_25px.jpg" alt="plague_25px.jpg" width="20" height="20"></td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Magical Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="display: block; margin-left: auto; margin-right: auto;" title="Critical Strike" src="/file/Demons-Souls/critical_strike_25px.jpg" alt="icon_weight.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="display: block; margin-left: auto; margin-right: auto;" title="Durability" src="/file/Demons-Souls/durability_25px.jpg" alt="physical_defense-shield-icon.jpg" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">240</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Bleeding" src="/file/Demons-Souls/bleeding_25px.jpg" alt="icon-lightningbonus.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td style="text-align: center;" colspan="5"><img title="Weight" src="/file/Demons-Souls/weight-demonssouls_25px.jpg" alt="magic_defense-shield-icon.jpg" width="20" height="20"></td> 
+     <td style="text-align: center;" colspan="5">6.0</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Poison" src="/file/Demons-Souls/poison_25px.jpg" alt="icon-darkbonus.png" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">0</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img title="Damage Reduction" src="/file/Demons-Souls/damage-reduction-demonssouls_25px.jpg" alt="" width="20" height="20">&nbsp; 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">50/10&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td colspan="5">&nbsp;</td> 
+     <td style="text-align: center;" colspan="5">&nbsp;</td> 
+     <td colspan="5"> 
+      <div style="text-align: center;"> 
+       <img title="Guard Break Reduction" src="/file/Demons-Souls/guard-break-reduction_25px.jpg" alt="" width="20" height="20"> 
+      </div> </td> 
+     <td style="text-align: center;" colspan="5">35</td> 
+    </tr> 
+    <tr> 
+     <th colspan="20">Requirements &amp; Bonus</th> 
+    </tr> 
+    <tr> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="icon-strength_22.png" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="icon-dexterity_22.png" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="icon-intelligence_22.png" width="20" height="20"> 
+      </div> </td> 
+     <td colspan="4"> 
+      <div style="text-align: center;"> 
+       <img style="20px; width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="icon-faith_22.png" width="20" height="20"> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="4">22</td> 
+     <td style="text-align: center;" colspan="4">16</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;" colspan="4">E</td> 
+     <td style="text-align: center;" colspan="4">C</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+     <td style="text-align: center;" colspan="4">-</td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Weapon Type</td> 
+     <td colspan="8"><a class="wiki_link" title="Straight Sword" href="/Straight+Swords">Straight Sword</a></td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Buffable</td> 
+     <td colspan="8">Yes</td> 
+    </tr> 
+    <tr> 
+     <td colspan="8">Damage Type</td> 
+     <td colspan="8">Normal, Piercing</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p><strong>Penetrating Sword</strong> is&nbsp;a&nbsp;<a class="wiki_link" href="/Straight+Swords">Straight Sword Weapon</a>&nbsp;in&nbsp;<a class="wiki_link" title="Demon's Souls and Demon's Souls Remake" href="/Demons+Souls+Wiki">Demon's Souls and Demon's Souls Remake</a>.&nbsp;<strong>Straight Swords</strong>&nbsp;are ordinary swords that provide balance between slashing and thrusting attacks.&nbsp;<strong>Straight Swords</strong>&nbsp;can be held by the player with one or two hands.</p> 
+<p>&nbsp;</p> 
+<blockquote> 
+ <p>A long straight sword used by the Penetrator, one of the heroes of Boletaria. As the name states, its thrusts are especially powerful. Because of its irregular size for a straight sword, it requires great strength and technique.</p> 
+</blockquote> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Penetrating Sword Location: Where to Find&nbsp;Penetrating Sword</h3> 
+<ul> 
+ <li>Found in: <a class="wiki_link" title="" href="/Inner+Ward" target="">Inner Ward</a>, after fighting the <a class="wiki_link" title="" href="/Red+Eye+Knight" target="">Red Eye Knight</a>&nbsp;patrolling the area, you can drop on a ledge on the right side of the bridge just before the 3 crossbow men</li> 
+ <li>Dropped by: <a class="wiki_link" title="Metas, Knight of the Lance" href="/Metas,+Knight+of+the+Lance">Metas, Knight of the Lance</a></li> 
+ <li><a class="wiki_link" title="Video Location: Shown in our walkthrough video N12 at 0:55. Click here to watch it" href="https://youtu.be/BtvjtIu5g5k?t=55">Video Location: Shown in our walkthrough video N12 at 0:55. Click here to watch it</a></li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Penetrating Sword Notes and Tips</h3> 
+<ul> 
+ <li>Stronger piercing attacks</li> 
+ <li>Can be upgraded using a <a class="wiki_link" title="Colorless Demon's Soul" href="/Colorless+Demon's+Soul">Colorless Demon's Soul</a></li> 
+ <li>Very powerful for pvp, considering the massive reach, strong thrusting attacks, and the scaling in dexterity once upgraded with Colorless Demon’s Souls</li> 
+</ul> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<h3 class="bonfire">Penetrating Sword Moveset<strong><br></strong></h3> 
+<div class="row"> 
+ <div class="col-sm-4"> 
+  <div class="table-responsive"> 
+   <table class="wiki_table"> 
+    <thead> 
+     <tr> 
+      <th>Attack Type</th> 
+      <th>Effect</th> 
+     </tr> 
+    </thead> 
+    <tbody> 
+     <tr> 
+      <td>One-handed R1</td> 
+      <td>Horizontal cuts</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed R2</td> 
+      <td>Thrust plus additional vertical cut with second input</td> 
+     </tr> 
+     <tr> 
+      <td>Two-handed R1</td> 
+      <td>Vertical cuts</td> 
+     </tr> 
+     <tr> 
+      <td>Two-handed R2</td> 
+      <td>Horizontal cut plus second horizontal cut with second input</td> 
+     </tr> 
+     <tr> 
+      <td>Running/Backstep attack</td> 
+      <td>Horizontal cut</td> 
+     </tr> 
+     <tr> 
+      <td>Rolling attack</td> 
+      <td>Vertical cut</td> 
+     </tr> 
+     <tr> 
+      <td>Push</td> 
+      <td>Quick push</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed L1</td> 
+      <td>Block</td> 
+     </tr> 
+     <tr> 
+      <td>One-handed L2</td> 
+      <td>Horizontal cut</td> 
+     </tr> 
+    </tbody> 
+   </table> 
+  </div> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<div class="clearfix">
+  &nbsp; 
+</div> 
+<h3 class="titlearea">Penetrating Sword Upgrade Table</h3> 
+<p class="tabtitle 0-tab tabcurrent">Comparison</p> 
+<p class="tabtitle 14-tab">Demon Soul</p> 
+<div class="tabcontent 0-tab tabcurrent"> 
+ <p>&nbsp;This table shows a comparison of maximum upgrade paths. Click on the tabs to see individual upgrade paths.</p> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Total Requirements</h4> </td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Name</td> 
+     <td style="46px; text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="46px; text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="46px; text-align: center;">Shard</td> 
+     <td style="46px; text-align: center;">L Shard</td> 
+     <td style="46px; text-align: center;">Chunk</td> 
+     <td style="46px; text-align: center;">Pure</td> 
+     <td style="46px; text-align: center;">Special</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +5</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">A</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">&nbsp;-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">5x <a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 1-tab"> 
+ <h3>Standard Upgrades</h3> 
+ <p>Upgraded using <a class="wiki_link" title="Sharpstone" href="/Sharpstone">Sharpstone</a> / <a class="wiki_link" title="Hardstone" href="/Hardstone">Hardstone</a> it increases the weapons default scaling.</p> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="Strength Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="Intelligence Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +0</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +1</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +2</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +3</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +4</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +5</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +6</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td style="text-align: left;">&nbsp;</td> 
+     <td style="text-align: left;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +7</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +8</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +9</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Penetrating Sword +10</td> 
+     <td style="46px; text-align: center;">&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 2-tab"> 
+ <h3 id="toc1">Quality Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table" style="width: 1188px;"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center; width: 306px;">&nbsp;</td> 
+     <td style="text-align: center; width: 177px;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center; width: 236px;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center; width: 469px;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center; width: 306px;">Name</td> 
+     <td style="text-align: center; width: 59px;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center; width: 59px;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center; width: 86px;">Shard</td> 
+     <td style="text-align: center; width: 111px;">L Shard</td> 
+     <td style="text-align: center; width: 86px;">Chunk</td> 
+     <td style="text-align: center; width: 74px;">Pure</td> 
+     <td style="text-align: center; width: 112px;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Quality Penetrating Sword +1</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Quality Penetrating Sword +2</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Quality Penetrating Sword +3</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Quality Penetrating Sword +4</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Quality&nbsp;Penetrating Sword +5</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 3-tab"> 
+ <h3>Crushing Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table" style="width: 1188px;"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="width: 306px; text-align: center;">&nbsp;</td> 
+     <td style="width: 177px; text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="width: 236px; text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="width: 469px; text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="width: 306px; text-align: center;">Name</td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="Strength Bonus" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="width: 86px; text-align: center;">Shard</td> 
+     <td style="width: 111px; text-align: center;">L Shard</td> 
+     <td style="width: 86px; text-align: center;">Chunk</td> 
+     <td style="width: 74px; text-align: center;">Pure</td> 
+     <td style="width: 112px; text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Crushing Penetrating Sword +1</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Crushing Penetrating Sword +2</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Crushing Penetrating Sword +3</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Crushing Penetrating Sword +4</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Crushing Penetrating Sword +5</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 4-tab"> 
+ <h3>Sharp Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table" style="width: 1188px;"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="width: 306px; text-align: center;">&nbsp;</td> 
+     <td style="width: 177px; text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="width: 236px; text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="width: 469px; text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="width: 306px; text-align: center;">Name</td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="Strength Bonus" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="width: 59px; text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="width: 86px; text-align: center;">Shard</td> 
+     <td style="width: 111px; text-align: center;">L Shard</td> 
+     <td style="width: 86px; text-align: center;">Chunk</td> 
+     <td style="width: 74px; text-align: center;">Pure</td> 
+     <td style="width: 112px; text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Sharp Penetrating Sword +1</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Sharp Penetrating Sword +2</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Sharp Penetrating Sword +3</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Sharp Penetrating Sword +4</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center; width: 306px;">Sharp Penetrating Sword +5</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 59px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 111px;">&nbsp;</td> 
+     <td style="width: 86px;">&nbsp;</td> 
+     <td style="width: 74px;">&nbsp;</td> 
+     <td style="width: 112px;">&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 5-tab"> 
+ <h3 id="toc1">Dragon Upgrades&nbsp;</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Dragon Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dragon Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dragon Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dragon Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dragon Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 6-tab"> 
+ <h3 id="toc1">Tearing Upgrades&nbsp;</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Tearing Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Tearing Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Tearing Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Tearing Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Tearing Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 7-tab"> 
+ <h3 id="toc1">Mercury Upgrades&nbsp;</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="4"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img src="/file/Demons-Souls/poison_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Mercury Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Mercury Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Mercury Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Mercury Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Mercury Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 8-tab"> 
+ <h3 id="toc1">Fatal Upgrades&nbsp;</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="4"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img src="/file/Demons-Souls/critical_strike_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Fatal Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Fatal Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Fatal Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Fatal Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Fatal Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 9-tab"> 
+ <h3 id="toc1">Moon Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Moon Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Moon Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Moon Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Moon Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Moon Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 10-tab"> 
+ <h3 id="toc1">Crescent Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Crescent Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Crescent Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Crescent Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Crescent Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Crescent Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 11-tab"> 
+ <h3 id="toc1">Blessed Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Blessed Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Blessed Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Blessed Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Blessed Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Blessed Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 12-tab"> 
+ <h3 id="toc1">Sticky Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Sticky Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Sticky Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Sticky Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Sticky Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Sticky Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 13-tab"> 
+ <h3 id="toc1">Dark Upgrades</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="46px; text-align: center;">Dark Penetrating Sword +1</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dark Penetrating Sword +2</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dark Penetrating Sword +3</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dark Penetrating Sword +4</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+    <tr> 
+     <td style="46px; text-align: center;">Dark Penetrating Sword +5</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+     <td>&nbsp;</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<div class="tabcontent 14-tab"> 
+ <h3 id="toc1">Demon Souls</h3> 
+ <div class="table-responsive"> 
+  <table class="wiki_table"> 
+   <thead> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">&nbsp;</td> 
+     <td style="text-align: center;" colspan="3"> <h4>Damage</h4> </td> 
+     <td style="text-align: center;" colspan="4"> <h4>Stat Bonus</h4> </td> 
+     <td style="text-align: center;" colspan="5"> <h4>Requirements</h4> </td> 
+    </tr> 
+    <tr style="46px; text-align: center;"> 
+     <td style="text-align: center;">Name</td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Physical Attack" src="/file/Demons-Souls/physical-attack-power-demonssouls_25px.jpg" alt="icon-wp_physicalAttack.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Magic Attack" src="/file/Demons-Souls/magic-attack-power-demonssouls_25px.jpg" alt="icon-magicbonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="20px; width: 20px;" title="Fire Attack" src="/file/Demons-Souls/fire-attack-demonssouls_25px.jpg" alt="icon-firebonus.png" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Strength" src="/file/Demons-Souls/strength-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Dexterity" src="/file/Demons-Souls/dexterity-demonssouls_25px.jpg" alt="Dexterity Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Magic" src="/file/Demons-Souls/magic-demonssouls_25px.jpg" alt="" width="20" height="20"></td> 
+     <td style="text-align: center;"><img style="width: 20px;" title="Faith" src="/file/Demons-Souls/faith-demonssouls_25px.jpg" alt="Faith Bonus" width="20" height="20"></td> 
+     <td style="text-align: center;">Shard</td> 
+     <td style="text-align: center;">L Shard</td> 
+     <td style="text-align: center;">Chunk</td> 
+     <td style="text-align: center;">Pure</td> 
+     <td style="text-align: center;">Special</td> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">C</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +1</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">B</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;"><a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +2</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">B</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;"><a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +3</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">A</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;"><a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +4</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">A</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;"><a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+    </tr> 
+    <tr> 
+     <td style="text-align: center;">Penetrating Sword +5</td> 
+     <td style="text-align: center;">90</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">0</td> 
+     <td style="text-align: center;">E</td> 
+     <td style="text-align: center;">A</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;">-</td> 
+     <td style="text-align: center;"><a class="wiki_link" title="" href="/Colorless+Demon's+Soul" target="">Colorless Demon's Soul</a></td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </div> 
+</div> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<div class="table-responsive"> 
+ <table class="wiki_table"> 
+  <tbody> 
+   <tr> 
+    <td style="text-align: center;"><a class="wiki_link" title="" href="/Straight+Swords" target="">Straight Swords</a></td> 
+   </tr> 
+   <tr> 
+    <td style="text-align: center;"><div id="tagged-pages-container" style="overflow-y:auto; max-height: 300px; display: block; overflow-wrap:anywhere; word-break: break-word;"><a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Blueblood+Sword">Blueblood Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Broad+Sword">Broad Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Broken+Sword">Broken Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Knight+Sword">Knight Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Kris+Blade">Kris Blade</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Long+Sword">Long Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Rune+Sword">Rune Sword</a>&nbsp;&nbsp;♦&nbsp;&nbsp;<a class= "wiki_link" href="//demonssouls.wiki.fextralife.com/Short+Sword">Short Sword</a></div></td> 
+   </tr> 
+  </tbody> 
+ </table> 
+</div> 
+<p>&nbsp;</p>
+		
+	
+
+	</div>
+	<br><br><br>
+
+	<div class="clearfix"></div>
+	<div class="discussion-wrapper" id="discussions-section">
+		<div class="wrap">
+			<span class="section-heading section-heading-light simulation-hero-heading" style="min-height:40px;">
+				<span class="hidden-xs pull-left">Join the page discussion</span>
+				<span class="pull-right" style="font-size: 86%">
+					<a class="textClass" href="https://fextralife.com/forums/ucp.php?mode=register" rel="nofollow">Tired of anon posting? Register!</a>
+				</span>
+			</span>
+<script type="text/javascript">
+        if (ppp) {
+                document.write('<div id="content-add-a" style="height:300px;"><div id="div-gpt-ad-1551140609289-4"></div></div>');
+        }
+        if (ppp && window.innerWidth < 1000) {
+                document.write('\x3Cscript type="text/javascript" src="https://player.twitch.tv/js/embed/v1.js">\x3C/script>');
+                document.write('<div id="fextrastream" style="width:100%;height:198px;text-align:center;"></div>');
+        }
+</script>
+			<div class="collapse-com transparent">
+				<div id="pmalerts" class="clearfix"></div>
+				<div class="col-trigger collapse in" id="discussions-new">
+					<div class="ng-scope">
+						<textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea>
+						<button id="btnPostComment" class="btn btn-default"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+						<img id="newCommentAvatar" src="/images/avatar.png"/>
+					</div>
+				</div>
+			</div>
+			<div id="myModal" class="modal fade" role="dialog" style="top:25%;">
+				<div class="modal-dialog">
+					<div class="modal-content" style="background-color: rgba(89, 89, 89, 0.4);">
+						<div class="modal-body ng-scope" style="margin-top: 0; padding: 20px 20px 20px;">
+							<div class="g-recaptcha" data-sitekey=""></div>
+						</div>
+						<div class="modal-footer" style="background: rgba(89, 89, 89, 0.4); text-align: center">
+							<button id="btnPostComment" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button id="btnPostReplyRecaptcha" class="btn btn-default" data-dismiss="modal" style="display: none;"><i class="glyphicon glyphicon-pencil"></i> Submit</button>
+							<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-comments">
+			<ul id="discussions" class="comments" data="1">
+			
+				<li id="16399724" class="cmnt-root" data="-7" data-d="1641515965000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">06 Jan 2022 19:39</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16399724" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Kilij &gt; this sword </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16399724" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16399724" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>1</p><i class="add">+1</i></section><section class="t-down"><span></span><p>8</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16399724"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16399724" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16399724"></ul></li></ul></li>
+			
+				<li id="16358407" class="cmnt-root" data="-15" data-d="1627076964000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">23 Jul 2021 17:49</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16358407" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">sword is garbage unless you like spamming R2, you&apos;re better off with Demonbrant</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16358407" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16358407" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>6</p><i class="add">+1</i></section><section class="t-down"><span></span><p>21</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16358407"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16358407" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16358407"></ul></li></ul></li>
+			
+				<li id="16342026" class="cmnt-root" data="-28" data-d="1621380944000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">18 May 2021 19:35</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16342026" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">what a shitty weapon. This is the reason people say dex sux, there is literally not a single weapon that can carry you through NG+ cycles, all dex options fall off tremendously, and some, like this one, are never any good to begin with. Same goes for Makoto, Blind etc. </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16342026" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16342026" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">3</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>10</p><i class="add">+1</i></section><section class="t-down"><span></span><p>38</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16342026"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16342026" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16342026"></ul></li></ul></li>
+			
+				<li id="16331374" class="cmnt-root" data="74" data-d="1618605227000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">16 Apr 2021 16:33</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16331374" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Try penetration but hole<br/>Therefore sticky white stuff required ahead</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16331374" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16331374" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>87</p><i class="add">+1</i></section><section class="t-down"><span></span><p>13</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16331374"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16331374" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16331374"></ul></li></ul></li>
+			
+				<li id="16304235" class="cmnt-root" data="16" data-d="1612072060000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">31 Jan 2021 00:47</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16304235" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">if i got killed before I could pick this up is it gone forever?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16304235" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16304235" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16304235"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16304235" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16304235"></ul></li></ul></li>
+			
+				<li id="16295799" class="cmnt-root" data="8" data-d="1609952258000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">06 Jan 2021 11:57</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16295799" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">So question because it does stronger piercing attack do the backstabs and riposte do more? </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16295799" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16295799" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16295799"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16295799" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16295799"></ul></li></ul></li>
+			
+				<li id="16295500" class="cmnt-root" data="8" data-d="1609882172000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">05 Jan 2021 16:29</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16295500" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">so if you upgrade this weapon past +3 it will give you an extra 9 damage on the dex scaling for +4 and +5 each. i have 35 dex and a +5 penetrating and i get 90 +98.</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16295500" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16295500" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>8</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16295500"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16295500" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16295500"></ul></li></ul></li>
+			
+				<li id="16291148" class="cmnt-root" data="8" data-d="1608902900000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">25 Dec 2020 08:28</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16291148" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">what is the point of upgrading past +3 if it doesn&apos;t give anything extra at all?</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16291148" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16291148" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">2</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>9</p><i class="add">+1</i></section><section class="t-down"><span></span><p>1</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16291148"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16291148" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16291148"></ul></li></ul></li>
+			
+				<li id="16285835" class="cmnt-root" data="6" data-d="1607805452000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/58004_1526393969.jpeg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=58004" rel="nofollow"  target="_blank" style="color: #;">bukharajones</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">12 Dec 2020 15:37</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16285835" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">This sword is intended to shine, if it can shine, with cursed weapon. In duels it’s range and power will be more than enough to kill an unwary opponent in a few hits. It will also use light weapon, but split damage is split damage and I’m not a fan...</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16285835" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16285835" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>5</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16285835"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16285835" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16285835"></ul></li></ul></li>
+			
+				<li id="16281354" class="cmnt-root" data="13" data-d="1606713704000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="https://fextralife.com/avatars/100785_1631030869.jpg" alt="" /><a class="comment-username" href="https://fextralife.com/forums/memberlist.php?mode=viewprofile&u=100785" rel="nofollow"  target="_blank" style="color: #;">SlaveKnightKos</a></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">30 Nov 2020 00:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16281354" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">May have low damage, but that range tho<br/>Just slap Light Weapon on it</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16281354" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16281354" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">1</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>16</p><i class="add">+1</i></section><section class="t-down"><span></span><p>3</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16281354"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16281354" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16281354"></ul></li></ul></li>
+			
+				<li id="16278474" class="cmnt-root" data="11" data-d="1605977772000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">21 Nov 2020 11:56</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=16278474" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">Penetrating spear: Am I a joke to you? </p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-16278474" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-16278474" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">0</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>11</p><i class="add">+1</i></section><section class="t-down"><span></span><p>0</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-16278474"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-16278474" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-16278474"></ul></li></ul></li>
+			
+				<li id="15946120" class="cmnt-root" data="132" data-d="1492010508000"><ul class="comments"><li class="comment-box"><div class="avatar"><img src="/images/avatar.png" alt="" /><div class="comment-username">Anonymous</div></div><div class="comment"><div class="title"><span class="txt-subject"></span><input style="display: none;" class="txt-subject-ed"><span class="right cmt-ui"><a href="https://fextralife.com/forums/t541857/Penetrating-Sword" rel="nofollow" target="_blank">12 Apr 2017 11:21</a>&nbsp;&nbsp;<a class="report-post" href="https://fextralife.com/forums/report.php?f=181&p=15946120" rel="nofollow" target="_blank" title="report this post"><span class="glyphicon glyphicon-flag" aria-hidden="true"></span></a></span></div><p class="txt-comment">yo-your penetrating sword is so big senpai, careful with that &amp;gt;///&amp;lt;&apos;</p><textarea style="display: none;" class="txt-comment-ed"></textarea><div class="clearfix"><a role="button" data-toggle="collapse" href="#zz-15946120" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Reply</a><a id="btnExpandComment" role="button" data-toggle="collapse" href="#replies-15946120" class="cmt-reply pull-right" href=""><span class="glyphicon glyphicon-share-alt"></span>Replies (<span class="replies">7</span>)</a><div class="vote pull-right"><section class="t-up"><span></span><p>148</p><i class="add">+1</i></section><section class="t-down"><span></span><p>16</p><i class="sub">-1</i></section></div></div><div class="collapse-com transparent"><div class="col-trigger collapse" id="zz-15946120"><div class="ng-scope"><textarea id="dcomment" class="ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Input your comments:"></textarea><button id="btn-15946120" class="btn btn-default btnPostReply"><i class="glyphicon glyphicon-pencil"></i> Submit</button><img id="newCommentAvatar" src="/images/avatar.png"/></div></div></div></div><div class="clearfix"></div><ul class="children collapse" id="replies-15946120"></ul></li></ul></li>
+			
+			</ul>
+			<div id="btnMoreComents" style="width: 130px; letter-spacing: 1px; text-transform: uppercase; border: 2px solid; font-size: 10px;" class="btn btn-default">Load more</div>
+			<div id="footer-add-a" style="padding-top:20px;" class="ad-flex"></div>
+		</div>
+	</div>
+
+</div>
+
+<div id="sub-content-a" style="display: none;"></div>
+
+<div id="sub-content-b" style="display: none;"></div>
+<div id="preview-container" style="display:none;">
+	<div style="text-align: right;">
+		<button type="button" class="teb-save btn btn-default"><i class="mce-ico mce-i-xsave" style="background: #BDBDBD;"></i> Accept Terms and Save</button>
+		<button id="btnPreviewClose" type="button" class="btn btn-default"><i class="mce-ico mce-i-xclosepreview" style="background: #BDBDBD;"></i> Close Preview</button>
+		<button type="button" class="teb-close btn btn-default"><i class="mce-ico mce-i-xclose" style="background: #BDBDBD;"></i> Close Editor</button>
+	</div>
+	<div id="preview"></div>
+</div>
+<form id="form-buttons" method="post"></form>
+
+
+											
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="vault-loder top-right-vault"></div>
+					<div class="glow-corners top-corners"></div>
+					<div class="glow-corners bottom-corners"></div>
+				</div>
+				
+<footer>
+	<div class="wiki-footer-nav">
+		<br />
+		<div class="light-wrapper">
+			<div class="text-center">Contributions to Fextralife Wikis are licensed under a <a class="wiki_link" href="https://fextralife.com/wiki-license/" rel="nofollow" target="_blank">Custom License</a>.</div>
+			<ul class="list-inline text-center footer-links">
+				<li><a class="wiki_link" href="/Demons+Souls+Wiki"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Wiki</span></span> Home</a></li>
+				<li><a class="wiki_link" href="https://www.wiki.fextralife.com/" target="_blank">Gaming Wikis</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/forums/index.php" rel="nofollow" target="_blank">Gaming Forum</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/" target="_blank">Fextralife Home</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/privacy-policy/" rel="nofollow" target="_blank">Privacy Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/terms-of-use/" rel="nofollow" target="_blank"> Terms of Use</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/copyright-policy/" rel="nofollow" target="_blank"> Copyright Policy</a></li>
+				<li><a class="wiki_link" href="https://fextralife.com/contact-us/" rel="nofollow" target="_blank"> Advertise on <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Fextralife</span></span></a></li>
+			</ul>
+		</div>
+		<br>
+		<div id="adsense" style="visibility:hidden;height:0px;overflow:hidden">advertisement</div>
+	</div>
+</footer>
+
+			</div>
+			<div class="hidden-xs" height="30px" style="background-color: #AB966F;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/ea7vKvt" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 16px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;">Chat <span class="glyphicon glyphicon-comment" style="margin-left: 0.36em;"></span></span></a></div>
+			<div class="visible-xs" height="70px" style="background-color: #AB966F;z-index: 2147483647; position: fixed; bottom: 0px; left: 0px; right: auto; top: auto;font-color:#ffffff !important;/*! margin-top: 0.5em; *//*! margin-left: 0.5em; */" width="75px" height="70px"><a target="_blank" href="https://discord.gg/ea7vKvt" style="margin: 0.5em;"><span style="color: rgb(255, 255, 255); line-height: 55px; display: inline-block;vertical-align: middle; margin-top: 0.5em;margin-left:0.5em;margin-right:0.5em;margin-bottom: 0.5em;"><span class="glyphicon glyphicon-comment"></span></span></a></div>
+			<div class="visible-xs" style="right:10px; max-width: 50px;position: fixed;bottom: 75px;"><a href="#" class="scroll-top">&#8648; &#8648;</a></div>
+			<div class="footer-sticky">
+				<div id="mobile-ad" style="width: 320px;height: 50px;padding-left:45px" class="mobile-ad visible-xs" style="padding-left:51px;"><div id="div-gpt-ad-1551140609289-5" style="height:50px; width:320px;"></div></div>
+				<div class="container-fluid hidden-xs">
+					<ul class="WikiActions WikiElement WikiControls list-inline pull-left hidden-xs hidden-sm position-wiki-actions">
+						
+						<li id="wwc" style="cursor: pointer; display: none;">Recent Changes +</li>
+						<li id="wpc" style="cursor: pointer; display: none;">New page +</li>
+						<li id="wfm" style="cursor: pointer; display: none;">File Manager +</li>
+						<li style="cursor: pointer; display: none;">Members +</li>
+						<li id="wbpm" style="cursor: pointer; display: none;">Page Manager +</li>
+						<li id="wbs" style="cursor: pointer; display: none;">Settings +</li>
+						<li id="wbcw" style="cursor: pointer; display: none;">Create Wiki +</li>
+					</ul>
+					<ul class="WikiActions list-inline pull-right hidden-xs">
+						<li>
+							<ul class="btn-group" id="btn-switch" style="padding-right: 10px;">
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/inverse.css"><i class="glyphicon glyphicon-adjust" style="padding: 0px 10px;"></i></a></li>
+								<li class="btn btn-default btn-xs"><a href="#" rel="/xcss/theme-light.css"><i class="glyphicon glyphicon-certificate" style="padding: 0px 10px;"></i></a></li>
+							</ul>
+						</li>
+						<li><a href="#" class="scroll-top pull-right">&#8648; <span class="hidden-xs">Back to top</span> &#8648;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<script data-cfasync="false" type="text/javascript">
+			if (ua == '211' || ua == '111' || ua == '210' || ua == '110' || ua == '100') {
+				var articlesContainer = document.getElementById('wcomp-articles');
+				if (articlesContainer != null) {
+					articlesContainer.setAttribute('class', 'wcomp-articles');
+				}
+			}
+function loadStream() {
+        if (ppp && window.innerWidth < 1000) {
+                var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+                var player = new Twitch.Embed("fextrastream", options);
+//        } else if (ppp && window.matchMedia("(min-width: 1100px)").matches) {
+//                if (ppp && window.matchMedia("(min-width: 1920px)").matches) {
+//                        var options = {width:340,height:398,channel:"fextralife",muted:true,theme:"dark",layout:"video-with-chat"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                } else {
+//                        var options = {width:340,height:198,channel:"fextralife",muted:true,theme:"dark",layout:"video"};
+//                        var player = new Twitch.Embed("fextrastream", options);
+//                }
+        }
+	return false;
+}
+function loadAds() {
+    if (ua!='100'&&ua!='110'&&ua!='210'&&ua!='111'&&ua!='211') {
+        if (window.innerWidth >= 860) {
+            var element = document.createElement("script");
+            element.src = "https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5382e7e20b0e47b1";
+            document.body.appendChild(element);
+        } else {
+            var menuAddA = document.getElementById('menu-add-a');
+            if (menuAddA != null) {
+                menuAddA.remove();
+            }
+            var menuAddB = document.getElementById('menu-add-b');
+            if (menuAddB != null) {
+                menuAddB.remove();
+            }
+	}
+	!function(e){var s=new XMLHttpRequest;s.open("GET","https://api.enthusiastgaming.net/scripts/cdn.enthusiast.gg/script/eg-aps/release/eg-aps-bootstrap-v2.0.0.bundle.js?site=fextralife.com",!0),s.onreadystatechange=function(){var t;4==s.readyState&&(200<=s.status&&s.status<300||304==s.status)&&((t=e.createElement("script")).type="text/javascript",t.text=s.responseText,e.head.appendChild(t))},s.send(null)}(document);
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KW2R3PT');
+    }
+    return false;
+}
+function youtube() {
+    var oiframes = document.getElementsByClassName('youtube-item');
+    for (var i=0, n=oiframes.length|0; i < n; i=i+1|0) {
+        var div = oiframes[i];
+        if (div.tagName == 'DIV') {
+            var div = oiframes[i];
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute('class', div.getAttribute('class'));
+            iframe.setAttribute('src', div.getAttribute('id'));
+            div.parentNode.replaceChild(iframe, div);
+        }
+    }
+    return false;
+}
+function timerex() {
+    try {
+	youtube();
+    } catch(err) {
+    }
+
+    try {
+	loadStream();
+    } catch(err) {
+    }
+
+    try {
+	loadAds();
+    } catch(err) {
+    }
+
+    return false;
+}
+document.addEventListener('DOMContentLoaded', (event) => {
+    setTimeout(timerex, 3000);
+    try {
+        if (window.innerWidth >= 680) {
+            $('.sliderload').load('//swcdn.fextralife.com/file/slider.html?v='+new Date().getTime(), function() {
+                $('img.lazyload').lazyload({failure_limit : 999999});
+            });
+        }
+    } catch(err) {
+    }
+});
+		</script>
+		<script data-cfasync="false" type="text/javascript">
+			function loadJSON(callback) { var xobj = new XMLHttpRequest();xobj.overrideMimeType("application/json");xobj.open('GET', '/ws/user/unread-msgs', true);xobj.onreadystatechange = function () {if (xobj.readyState == 4 && xobj.status == "200") {callback(xobj.responseText);}};xobj.send(null);  }if (c != null) {loadJSON(function(response) {if (parseInt(response) > 0) {var nmsgs = response;var finbox = $('.finbox');finbox.text('Inbox (' + nmsgs + ')');var fuavtr = $('#user-avatar');fuavtr.replaceWith('<span id="priv-msgs" style="display: inline-block;width: 24px;height: 24px;line-height: 24px;background-color: #a00;color: #fff;font-weight: 700;text-align: center;vertical-align: middle;border-radius: 50%;margin-right: 3px;">' + nmsgs + '</span><img id="avatar" src="' + fuavtr.attr('src') + '" alt="" style="border-left-width:0px;width:30px;height:30px;"/>');}});}
+		</script>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"77816753cfeda202","token":"cc09ed1686d84f6bac4e02a118808d45","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+	<link href="https://swcdn.fextralife.com/css/gallery-image.css?v=aa0" rel="stylesheet">
+	<link href="" rel="stylesheet" class="stylechanger">
+</html>
